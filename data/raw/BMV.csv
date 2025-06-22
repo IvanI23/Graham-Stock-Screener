@@ -1,0 +1,573 @@
+Ticker,Company
+MSFT.MX,Microsoft Corporation
+NVDA.MX,NVIDIA Corporation
+AAPL.MX,Apple Inc.
+AMZN.MX,"Amazon.com, Inc."
+GOOG.MX,Alphabet Inc.
+GOOGL.MX,Alphabet Inc.
+META.MX,"Meta Platforms, Inc."
+TSLA.MX,"Tesla, Inc."
+JPM.MX,JPMorgan Chase & Co.
+WMT.MX,Walmart Inc.
+LLY.MX,Eli Lilly and Company
+V.MX,Visa Inc.
+ORCL.MX,Oracle Corporation
+NFLX.MX,"Netflix, Inc."
+MA.MX,Mastercard Incorporated
+XOM.MX,Exxon Mobil Corporation
+COST.MX,Costco Wholesale Corporation
+PG.MX,The Procter & Gamble Company
+JNJ.MX,Johnson & Johnson
+HD.MX,"The Home Depot, Inc."
+BAC.MX,Bank of America Corporation
+PLTR.MX,Palantir Technologies Inc.
+ABBV.MX,AbbVie Inc.
+KO.MX,The Coca-Cola Company
+PM.MX,Philip Morris International Inc.
+UNH.MX,UnitedHealth Group Incorporated
+CSCO.MX,"Cisco Systems, Inc."
+CVX.MX,Chevron Corporation
+IBM.MX,International Business Machines Corporation
+GE.MX,General Electric Company
+TMUS.MX,"T-Mobile US, Inc."
+CRM.MX,"Salesforce, Inc."
+WFC.MX,Wells Fargo & Company
+ABT.MX,Abbott Laboratories
+MS.MX,Morgan Stanley
+DIS.MX,The Walt Disney Company
+INTU.MX,Intuit Inc.
+AXP.MX,American Express Company
+MCD.MX,McDonald's Corporation
+AMD.MX,"Advanced Micro Devices, Inc."
+NOWW.MX,"ServiceNow, Inc."
+MRK.MX,"Merck & Co., Inc."
+T.MX,AT&T Inc.
+RTX.MX,RTX Corporation
+GS.MX,"The Goldman Sachs Group, Inc."
+ISRG.MX,"Intuitive Surgical, Inc."
+TXN.MX,Texas Instruments Incorporated
+PEP.MX,"PepsiCo, Inc."
+VZ.MX,Verizon Communications Inc.
+UBER.MX,"Uber Technologies, Inc."
+BKNG.MX,Booking Holdings Inc.
+QCOM.MX,QUALCOMM Incorporated
+CAT.MX,Caterpillar Inc.
+SCHW.MX,The Charles Schwab Corporation
+ADBE.MX,Adobe Inc.
+SPGI.MX,S&P Global Inc.
+PGR.MX,The Progressive Corporation
+BLK.MX,"BlackRock, Inc."
+BSX.MX,Boston Scientific Corporation
+BA.MX,The Boeing Company
+TMO.MX,Thermo Fisher Scientific Inc.
+NEE.MX,"NextEra Energy, Inc."
+C.MX,Citigroup Inc.
+SYK.MX,Stryker Corporation
+HON.MX,Honeywell International Inc.
+DE.MX,Deere & Company
+ANB.MX,Anheuser-Busch InBev SA/NV
+DHR.MX,Danaher Corporation
+AMAT.MX,"Applied Materials, Inc."
+TJX.MX,"The TJX Companies, Inc."
+MU.MX,"Micron Technology, Inc."
+PFE.MX,Pfizer Inc.
+GILD.MX,"Gilead Sciences, Inc."
+GEV.MX,GE Vernova Inc.
+PANW.MX,"Palo Alto Networks, Inc."
+UNP.MX,Union Pacific Corporation
+CRWD.MX,"CrowdStrike Holdings, Inc."
+COP.MX,ConocoPhillips
+LOW.MX,"Lowe's Companies, Inc."
+LRCX.MX,Lam Research Corporation
+APP.MX,AppLovin Corporation
+KLAC.MX,KLA Corporation
+VRTX.MX,Vertex Pharmaceuticals Incorporated
+ADI.MX,"Analog Devices, Inc."
+ANET.MX,Arista Networks Inc
+APH.MX,Amphenol Corporation
+LMT.MX,Lockheed Martin Corporation
+KKRC.MX,KKR & Co. Inc.
+BX.MX,Blackstone Inc.
+MMC.MX,"Marsh & McLennan Companies, Inc."
+SBUX.MX,Starbucks Corporation
+ICE.MX,"Intercontinental Exchange, Inc."
+MSTR.MX,MicroStrategy Incorporated
+AMT.MX,American Tower Corporation
+MO.MX,"Altria Group, Inc."
+WELL.MX,Welltower Inc.
+CME.MX,CME Group Inc.
+PLD.MX,"Prologis, Inc."
+SO.MX,The Southern Company
+CEG.MX,Constellation Energy Corporation
+BMY.MX,Bristol-Myers Squibb Company
+WMI.MX,"Waste Management, Inc."
+INTC.MX,Intel Corporation
+DASH.MX,"DoorDash, Inc."
+MCK.MX,McKesson Corporation
+HCA.MX,"HCA Healthcare, Inc."
+FI.MX,"Fiserv, Inc."
+DUK.MX,Duke Energy Corporation
+CTAS.MX,Cintas Corporation
+NKE.MX,"NIKE, Inc."
+EQIX.MX,"Equinix, Inc."
+MDLZ.MX,"Mondelez International, Inc."
+BBVA.MX,"Banco Bilbao Vizcaya Argentaria, S.A."
+ELV.MX,"Elevance Health, Inc."
+MCO.MX,Moody's Corporation
+CVS.MX,CVS Health Corporation
+UPS.MX,"United Parcel Service, Inc."
+CI.MX,The Cigna Group
+PH.MX,Parker-Hannifin Corporation
+SHW.MX,The Sherwin-Williams Company
+ABNB.MX,"Airbnb, Inc."
+AJG.MX,Arthur J. Gallagher & Co.
+CDNS.MX,"Cadence Design Systems, Inc."
+TDG.MX,TransDigm Group Incorporated
+DELLC.MX,Dell Technologies Inc.
+RSGA.MX,"Republic Services, Inc."
+FTNT.MX,"Fortinet, Inc."
+MMM.MX,3M Company
+SCCO.MX,Southern Copper Corporation
+COF.MX,Capital One Financial Corporation
+ORLY.MX,"O'Reilly Automotive, Inc."
+COIN.MX,"Coinbase Global, Inc."
+ECL.MX,Ecolab Inc.
+SNPS.MX,"Synopsys, Inc."
+RCL.MX,Royal Caribbean Cruises Ltd.
+EMR.MX,Emerson Electric Co.
+CL.MX,Colgate-Palmolive Company
+NOC.MX,Northrop Grumman Corporation
+SNOW.MX,Snowflake Inc.
+MAR.MX,"Marriott International, Inc."
+CMG.MX,"Chipotle Mexican Grill, Inc."
+RBLX.MX,Roblox Corporation
+PNC.MX,"The PNC Financial Services Group, Inc."
+HOOD.MX,"Robinhood Markets, Inc."
+ZTS.MX,Zoetis Inc.
+HWM.MX,Howmet Aerospace Inc.
+BNS.MX,The Bank of Nova Scotia
+EOG.MX,"EOG Resources, Inc."
+MSI.MX,"Motorola Solutions, Inc."
+USB.MX,U.S. Bancorp
+PYPL.MX,"PayPal Holdings, Inc."
+BK.MX,The Bank of New York Mellon Corporation
+NEM.MX,Newmont Corporation
+WDAY.MX,"Workday, Inc."
+ADSK.MX,"Autodesk, Inc."
+NET.MX,"Cloudflare, Inc."
+MNST.MX,Monster Beverage Corporation
+VST.MX,Vistra Corp.
+APD.MX,"Air Products and Chemicals, Inc."
+KMI.MX,"Kinder Morgan, Inc."
+CSX.MX,CSX Corporation
+AZO.MX,"AutoZone, Inc."
+AXON.MX,"Axon Enterprise, Inc."
+CARR.MX,Carrier Global Corporation
+DLR.MX,"Digital Realty Trust, Inc."
+FCX.MX,Freeport-McMoRan Inc.
+HLT.MX,Hilton Worldwide Holdings Inc.
+COR.MX,"Cencora, Inc."
+WALMEX.MX,"Wal-Mart de México, S.A.B. de C.V."
+REGN.MX,"Regeneron Pharmaceuticals, Inc."
+FDX.MX,FedEx Corporation
+PWR.MX,"Quanta Services, Inc."
+MET.MX,"MetLife, Inc."
+LNG.MX,"Cheniere Energy, Inc."
+O.MX,Realty Income Corporation
+CPNG.MX,"Coupang, Inc."
+TEAM.MX,Atlassian Corporation
+MPC.MX,Marathon Petroleum Corporation
+SPG.MX,"Simon Property Group, Inc."
+OKE.MX,"ONEOK, Inc."
+PSA.MX,Public Storage
+NDAQ.MX,"Nasdaq, Inc."
+AIG.MX,"American International Group, Inc."
+SRE.MX,Sempra
+BDX.MX,"Becton, Dickinson and Company"
+AMP.MX,"Ameriprise Financial, Inc."
+ZS.MX,"Zscaler, Inc."
+LHX.MX,"L3Harris Technologies, Inc."
+CPRT.MX,"Copart, Inc."
+GM.MX,General Motors Company
+VEEV.MX,Veeva Systems Inc.
+URI.MX,"United Rentals, Inc."
+VRT.MX,Vertiv Holdings Co
+DDOG.MX,"Datadog, Inc."
+HES.MX,Hess Corporation
+VLO.MX,Valero Energy Corporation
+KR.MX,The Kroger Co.
+TTWO.MX,"Take-Two Interactive Software, Inc."
+FANG.MX,"Diamondback Energy, Inc."
+EW.MX,Edwards Lifesciences Corporation
+GLW.MX,Corning Incorporated
+TGT.MX,Target Corporation
+VRSK.MX,"Verisk Analytics, Inc."
+EXC.MX,Exelon Corporation
+FIS.MX,"Fidelity National Information Services, Inc."
+MSCI.MX,MSCI Inc.
+ROST.MX,"Ross Stores, Inc."
+IDXX.MX,"IDEXX Laboratories, Inc."
+CVNA.MX,Carvana Co.
+F.MX,Ford Motor Company
+AME.MX,"AMETEK, Inc."
+PEG.MX,Public Service Enterprise Group Incorporated
+CAH.MX,"Cardinal Health, Inc."
+CBRE.MX,"CBRE Group, Inc."
+SQ.MX,"Block, Inc."
+BKR.MX,Baker Hughes Company
+YUM.MX,"Yum! Brands, Inc."
+XEL.MX,Xcel Energy Inc.
+EA.MX,Electronic Arts Inc.
+OTIS.MX,Otis Worldwide Corporation
+DHI.MX,"D.R. Horton, Inc."
+TRGP.MX,Targa Resources Corp.
+RMD.MX,ResMed Inc.
+MCHP.MX,Microchip Technology Incorporated
+ROK.MX,"Rockwell Automation, Inc."
+EBAY.MX,eBay Inc.
+EQT.MX,EQT Corporation
+BRO.MX,"Brown & Brown, Inc."
+ETR.MX,Entergy Corporation
+HSY.MX,The Hershey Company
+LYV.MX,"Live Nation Entertainment, Inc."
+VICI.MX,VICI Properties Inc.
+VMC.MX,Vulcan Materials Company
+TTD.MX,"The Trade Desk, Inc."
+CSGP.MX,"CoStar Group, Inc."
+MPWR.MX,"Monolithic Power Systems, Inc."
+ODFL.MX,"Old Dominion Freight Line, Inc."
+GEHC.MX,GE HealthCare Technologies Inc.
+MLM.MX,"Martin Marietta Materials, Inc."
+DXCM.MX,"DexCom, Inc."
+EFX.MX,Equifax Inc.
+DAL.MX,"Delta Air Lines, Inc."
+PCG.MX,PG&E Corporation
+KHC.MX,The Kraft Heinz Company
+NRG.MX,"NRG Energy, Inc."
+LVS.MX,Las Vegas Sands Corp.
+HUM.MX,Humana Inc.
+MTB.MX,M&T Bank Corporation
+NUE.MX,Nucor Corporation
+GIS.MX,"General Mills, Inc."
+HUBS.MX,"HubSpot, Inc."
+STZ.MX,"Constellation Brands, Inc."
+DD.MX,"DuPont de Nemours, Inc."
+WRB.MX,W. R. Berkley Corporation
+KEYS.MX,"Keysight Technologies, Inc."
+CNC.MX,Centene Corporation
+LULU.MX,lululemon athletica inc.
+ROL.MX,"Rollins, Inc."
+LEN.MX,Lennar Corporation
+EL.MX,The Estée Lauder Companies Inc.
+SMCI.MX,"Super Micro Computer, Inc."
+VRSN.MX,"VeriSign, Inc."
+WBD.MX,"Warner Bros. Discovery, Inc."
+RDDT.MX,"Reddit, Inc."
+ADM.MX,Archer-Daniels-Midland Company
+GDDY.MX,GoDaddy Inc.
+TPL.MX,Texas Pacific Land Corporation
+GFNORTEO.MX,"Grupo Financiero Banorte, S.A.B. de C.V."
+MKL.MX,Markel Group Inc.
+DGG.MX,Dollar General Corporation
+UAL.MX,"United Airlines Holdings, Inc."
+VLTO.MX,Veralto Corporation
+CBOE.MX,"Cboe Global Markets, Inc."
+MTD.MX,Mettler-Toledo International Inc.
+CHD.MX,"Church & Dwight Co., Inc."
+PINS.MX,"Pinterest, Inc."
+ZM.MX,Zoom Communications Inc.
+SYF.MX,Synchrony Financial
+HPE.MX,Hewlett Packard Enterprise Company
+IBKR.MX,"Interactive Brokers Group, Inc."
+HBAN.MX,Huntington Bancshares Incorporated
+HPQ.MX,HP Inc.
+IOT.MX,Samsara Inc.
+LH.MX,Labcorp Holdings Inc.
+DVN.MX,Devon Energy Corporation
+ON.MX,ON Semiconductor Corporation
+DUOL.MX,"Duolingo, Inc."
+ULTA.MX,"Ulta Beauty, Inc."
+PODD.MX,Insulet Corporation
+GWRE.MX,"Guidewire Software, Inc."
+EXPE.MX,"Expedia Group, Inc."
+WDC.MX,Western Digital Corporation
+CTRA.MX,Coterra Energy Inc.
+DLTR.MX,"Dollar Tree, Inc."
+TROW.MX,"T. Rowe Price Group, Inc."
+WAT.MX,Waters Corporation
+DGX.MX,Quest Diagnostics Incorporated
+PTC.MX,PTC Inc.
+AFRM.MX,"Affirm Holdings, Inc."
+PHM.MX,"PulteGroup, Inc."
+RF.MX,Regions Financial Corporation
+MKC.MX,"McCormick & Company, Incorporated"
+SSNC.MX,"SS&C Technologies Holdings, Inc."
+LII.MX,Lennox International Inc.
+TSN.MX,"Tyson Foods, Inc."
+TS.MX,Tenaris S.A.
+STLD.MX,"Steel Dynamics, Inc."
+HAL.MX,Halliburton Company
+GPN.MX,Global Payments Inc.
+BIIB.MX,Biogen Inc.
+L.MX,Loews Corporation
+AC.MX,"Arca Continental, S.A.B. de C.V."
+TWLO.MX,Twilio Inc.
+LUV.MX,Southwest Airlines Co.
+OKTA.MX,"Okta, Inc."
+CHWY.MX,"Chewy, Inc."
+SOFI.MX,"SoFi Technologies, Inc."
+RBRK.MX,"Rubrik, Inc."
+MDB.MX,"MongoDB, Inc."
+PKG.MX,Packaging Corporation of America
+FFIV.MX,"F5, Inc."
+ALAB.MX,"Astera Labs, Inc."
+Z.MX,"Zillow Group, Inc."
+WSO.MX,"Watsco, Inc."
+RIVN.MX,"Rivian Automotive, Inc."
+WST.MX,"West Pharmaceutical Services, Inc."
+THC.MX,Tenet Healthcare Corporation
+FSLR.MX,"First Solar, Inc."
+DPZ.MX,"Domino's Pizza, Inc."
+DOCU.MX,"DocuSign, Inc."
+CLX.MX,The Clorox Company
+ZBRA.MX,Zebra Technologies Corporation
+BBY.MX,"Best Buy Co., Inc."
+ILMN.MX,"Illumina, Inc."
+FRES.MX,Fresnillo plc
+BURL.MX,"Burlington Stores, Inc."
+COO.MX,"The Cooper Companies, Inc."
+TER.MX,"Teradyne, Inc."
+TXT.MX,Textron Inc.
+SNAP.MX,Snap Inc.
+HIMS.MX,"Hims & Hers Health, Inc."
+INCY.MX,Incyte Corporation
+ALGN.MX,"Align Technology, Inc."
+PAYC.MX,"Paycom Software, Inc."
+RKLB.MX,Rocket Lab Corporation
+BWXT.MX,"BWX Technologies, Inc."
+TXRH.MX,"Texas Roadhouse, Inc."
+BAH.MX,Booz Allen Hamilton Holding Corporation
+SOLV.MX,Solventum Corporation
+MBLY.MX,Mobileye Global Inc.
+TEM.MX,"Tempus AI, Inc."
+ROKU.MX,"Roku, Inc."
+BEN.MX,"Franklin Resources, Inc."
+BLDR.MX,"Builders FirstSource, Inc."
+MOS.MX,The Mosaic Company
+MANH.MX,"Manhattan Associates, Inc."
+CELH.MX,"Celsius Holdings, Inc."
+SCI.MX,Service Corporation International
+UHS.MX,"Universal Health Services, Inc."
+HST.MX,"Host Hotels & Resorts, Inc."
+POOL.MX,Pool Corporation
+ASTS.MX,"AST SpaceMobile, Inc."
+GME.MX,GameStop Corp.
+CIEN.MX,Ciena Corporation
+IONQ.MX,"IonQ, Inc."
+TOL.MX,"Toll Brothers, Inc."
+PE_OLES.MX,"Industrias Peñoles, S.A.B. de C.V."
+CR.MX,Crane Company
+SWK.MX,"Stanley Black & Decker, Inc."
+U.MX,Unity Software Inc.
+WBA.MX,"Walgreens Boots Alliance, Inc."
+MRNA.MX,"Moderna, Inc."
+HAS.MX,"Hasbro, Inc."
+CPB.MX,The Campbell's Company
+AGNC.MX,AGNC Investment Corp.
+EPAM.MX,"EPAM Systems, Inc."
+SKX.MX,"Skechers U.S.A., Inc."
+KD.MX,"Kyndryl Holdings, Inc."
+COOP.MX,Mr. Cooper Group Inc.
+MGM.MX,MGM Resorts International
+WYNN.MX,"Wynn Resorts, Limited"
+HQY.MX,"HealthEquity, Inc."
+INGR.MX,Ingredion Incorporated
+MEDP.MX,"Medpace Holdings, Inc."
+PARA.MX,Paramount Global
+BLD.MX,TopBuild Corp.
+CFLT.MX,"Confluent, Inc."
+DBX.MX,"Dropbox, Inc."
+FND.MX,"Floor & Decor Holdings, Inc."
+GMXT.MX,"GMéxico Transportes, S.A.B. de C.V."
+GMED.MX,"Globus Medical, Inc."
+GNRC.MX,Generac Holdings Inc.
+ALB.MX,Albemarle Corporation
+AAL.MX,American Airlines Group Inc.
+GTLB.MX,GitLab Inc.
+SAIA.MX,"Saia, Inc."
+STWD.MX,"Starwood Property Trust, Inc."
+FIVE.MX,"Five Below, Inc."
+LCID.MX,"Lucid Group, Inc."
+ELAN.MX,Elanco Animal Health Incorporated
+PATH.MX,UiPath Inc.
+HALO.MX,"Halozyme Therapeutics, Inc."
+FOUR.MX,"Shift4 Payments, Inc."
+W.MX,Wayfair Inc.
+GH.MX,"Guardant Health, Inc."
+LRN.MX,"Stride, Inc."
+LYFT.MX,"Lyft, Inc."
+LITE.MX,Lumentum Holdings Inc.
+JXN.MX,Jackson Financial Inc.
+MAT.MX,"Mattel, Inc."
+MP.MX,MP Materials Corp.
+CE.MX,Celanese Corporation
+FIBRAPL14.MX,FIBRA Prologis
+TX.MX,Ternium S.A.
+BBWI.MX,"Bath & Body Works, Inc."
+BRKR.MX,Bruker Corporation
+ETSY.MX,"Etsy, Inc."
+UPST.MX,"Upstart Holdings, Inc."
+CROX.MX,"Crocs, Inc."
+CRUS.MX,"Cirrus Logic, Inc."
+AMTM.MX,"Amentum Holdings, Inc."
+NOV.MX,NOV Inc.
+SHAK.MX,Shake Shack Inc.
+FUNO11.MX,Fibra UNO
+WHR.MX,Whirlpool Corporation
+MARA.MX,"MARA Holdings, Inc."
+CGNX.MX,Cognex Corporation
+BE.MX,Bloom Energy Corporation
+TKR.MX,The Timken Company
+ENPH.MX,"Enphase Energy, Inc."
+ONTO.MX,Onto Innovation Inc.
+PINFRA.MX,"Promotora y Operadora de Infraestructura, S. A. B. de C. V."
+VFC.MX,V.F. Corporation
+CAR.MX,"Avis Budget Group, Inc."
+CUERVO.MX,"Becle, S.A.B. de C.V."
+ELEKTRA.MX,"Grupo Elektra, S.A.B. de C.V."
+LUMN.MX,"Lumen Technologies, Inc."
+Q.MX,"Quálitas Controladora, S.A.B. de C.V."
+TENB.MX,"Tenable Holdings, Inc."
+SYM.MX,Symbotic Inc.
+CNK.MX,"Cinemark Holdings, Inc."
+VIRT.MX,"Virtu Financial, Inc."
+SMTC.MX,Semtech Corporation
+CLF.MX,Cleveland-Cliffs Inc.
+ANF.MX,Abercrombie & Fitch Co.
+EDUCA18.MX,"Fideicomiso Irrevocable No. F/3277 en Banco Invex, S. A. Institución de Banca Múltiple, INVEX Grupo"
+RIOT.MX,"Riot Platforms, Inc."
+RH.MX,RH
+CMOCTEZ.MX,"Corporación Moctezuma, S.A.B. de C.V."
+FLO.MX,"Flowers Foods, Inc."
+LAUR.MX,"Laureate Education, Inc."
+RGTI.MX,"Rigetti Computing, Inc."
+GENTERA.MX,"Gentera, S.A.B. de C.V."
+NVST.MX,Envista Holdings Corporation
+GLXY.MX,Galaxy Digital Inc.
+PVH.MX,PVH Corp.
+GCC.MX,"GCC, S.A.B. de C.V."
+M.MX,"Macy's, Inc."
+GT.MX,The Goodyear Tire & Rubber Company
+LMND.MX,"Lemonade, Inc."
+AAP.MX,"Advance Auto Parts, Inc."
+HOG.MX,"Harley-Davidson, Inc."
+WU.MX,The Western Union Company
+QUBT.MX,Quantum Computing Inc.
+DXC.MX,DXC Technology Company
+PBF.MX,PBF Energy Inc.
+MPW.MX,"Medical Properties Trust, Inc."
+MQ.MX,"Marqeta, Inc."
+CLSK.MX,"CleanSpark, Inc."
+OGN.MX,Organon & Co.
+UAA.MX,"Under Armour, Inc."
+PTON.MX,"Peloton Interactive, Inc."
+QS.MX,QuantumScape Corporation
+VESTA.MX,"Corporación Inmobiliaria Vesta, S.A.B. de C.V."
+FL.MX,"Foot Locker, Inc."
+ATKR.MX,Atkore Inc.
+ACLS.MX,"Axcelis Technologies, Inc."
+ALSEA.MX,"Alsea, S.A.B. de C.V."
+PRDO.MX,Perdoceo Education Corporation
+DANHOS13.MX,Fibra Danhos
+RKT.MX,"Rocket Companies, Inc."
+BCRX.MX,"BioCryst Pharmaceuticals, Inc."
+RXRX.MX,"Recursion Pharmaceuticals, Inc."
+SRPT.MX,"Sarepta Therapeutics, Inc."
+PK.MX,Park Hotels & Resorts Inc.
+LAMOSA.MX,"Grupo Lamosa, S.A.B. de C.V."
+GPROFUT.MX,"Grupo Profuturo, S.A.B. de C.V."
+UPWK.MX,Upwork Inc.
+GRAL.MX,"GRAIL, Inc."
+FMTY14.MX,"Fibra Mty, S.A.P.I. de C.V."
+BEAM.MX,Beam Therapeutics Inc.
+TALO.MX,Talos Energy Inc.
+CC.MX,The Chemours Company
+TRIP.MX,"Tripadvisor, Inc."
+TERRA13.MX,FIBRA Terrafina
+GIGANTE.MX,"Grupo Gigante, S. A. B. de C. V."
+RVLV.MX,"Revolve Group, Inc."
+WULF.MX,TeraWulf Inc.
+GNP.MX,"Grupo Nacional Provincial, S.A.B."
+VSCO.MX,Victoria's Secret & Co.
+JBLU.MX,JetBlue Airways Corporation
+CIFR.MX,Cipher Mining Inc.
+RUN.MX,Sunrun Inc.
+AMSC.MX,American Superconductor Corporation
+FIBRAMQ12.MX,FIBRA Macquarie México
+AMC.MX,"AMC Entertainment Holdings, Inc."
+PLUG.MX,Plug Power Inc.
+ORBIA.MX,"Orbia Advance Corporation, S.A.B. de C.V."
+TDOC.MX,"Teladoc Health, Inc."
+FEXI21.MX,"MÉXICO INFRASTRUCTURE PARTNERS F1, S.A.P.I. DE C.V."
+MD.MX,"Pediatrix Medical Group, Inc."
+CRI.MX,"Carter's, Inc."
+FUBO.MX,fuboTV Inc.
+OPK.MX,"OPKO Health, Inc."
+FCFE18.MX,"CFECAPITAL, S. De R.L. De C.V."
+NVAX.MX,"Novavax, Inc."
+FSLY.MX,"Fastly, Inc."
+CRSR.MX,"Corsair Gaming, Inc."
+HERDEZ.MX,"Grupo Herdez, S.A.B. de C.V."
+KSS.MX,Kohl's Corporation
+EVER.MX,"EverQuote, Inc."
+AVO.MX,"Mission Produce, Inc."
+FNOVA17.MX,Fibra Nova
+FLNC.MX,"Fluence Energy, Inc."
+LASITE.MX,"Sitios Latinoamérica, S.A.B. de C.V."
+WOOF.MX,"Petco Health and Wellness Company, Inc."
+SMLR.MX,"Semler Scientific, Inc."
+BMBL.MX,Bumble Inc.
+MUX.MX,McEwen Mining Inc.
+ODP.MX,The ODP Corporation
+DNUT.MX,"Krispy Kreme, Inc."
+VINTE.MX,"Vinte Viviendas Integrales, S.A.B. de C.V."
+PACB.MX,"Pacific Biosciences of California, Inc."
+FIHO12.MX,FibraHotel
+NUS.MX,"Nu Skin Enterprises, Inc."
+CRNC.MX,Cerence Inc.
+AGUA.MX,Grupo Rotoplas S.A.B. de C.V.
+BYON.MX,"Beyond, Inc."
+JACK.MX,Jack in the Box Inc.
+GEVO.MX,"Gevo, Inc."
+OCGN.MX,"Ocugen, Inc."
+CHPT.MX,"ChargePoint Holdings, Inc."
+FSHOP13.MX,Fibra Shop
+COXA.MX,Cox Energy S.A.B. de C.V.
+STORAGE18.MX,FIBRA Storage
+BYND.MX,"Beyond Meat, Inc."
+ARA.MX,"Consorcio ARA, S. A. B. de C. V."
+FINN13.MX,Fideicomiso Irrevocable db/1616
+DDD.MX,3D Systems Corporation
+FPLUS16.MX,Fibra Plus
+VYGR.MX,"Voyager Therapeutics, Inc."
+LAZR.MX,"Luminar Technologies, Inc."
+HOTEL.MX,"Grupo Hotelero Santa Fe, S.A.B. de C.V."
+FCEL.MX,"FuelCell Energy, Inc."
+FINDEP.MX,Financiera Independencia S.A.B. de C.V. SOFOM E.N.R.
+SPCE.MX,"Virgin Galactic Holdings, Inc."
+CIDMEGA.MX,"Grupe, S.A.B. de C.V."
+FHIPO14.MX,Fideicomiso Irrevocable F/2061 FHipo
+ATOS.MX,"Atossa Therapeutics, Inc."
+SKLZ.MX,Skillz Inc.
+HCITY.MX,"Promotora de Hoteles Norte 19, S.A.B. de C.V."
+GMD.MX,"Grupo Mexicano de Desarrollo, S.A.B."
+INO.MX,"Inovio Pharmaceuticals, Inc."
+GRWG.MX,GrowGeneration Corp.
+FIBRAHD15.MX,Fideicomiso Irrevocable No. F/1523
+FGEN.MX,"FibroGen, Inc."
+BNGO.MX,"Bionano Genomics, Inc."
+ATER.MX,"Aterian, Inc."
+NKLA.MX,Nikola Corporation
+VASCONI.MX,"Grupo Vasconia, S.A.B."
+HOMEX.MX,"Desarrolladora Homex, S.A.B. de C.V."
+AXDX.MX,"Accelerate Diagnostics, Inc."

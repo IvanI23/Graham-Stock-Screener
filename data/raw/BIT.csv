@@ -1,0 +1,1173 @@
+Ticker,Company
+1MSFT.MI,Microsoft Corporation
+1NVDA.MI,NVIDIA Corporation
+1AAPL.MI,Apple Inc.
+1AMZN.MI,"Amazon.com, Inc."
+1GOOG.MI,Alphabet Inc.
+1FB.MI,"Meta Platforms, Inc."
+1AVGO.MI,Broadcom Inc.
+1BRKA.MI,Berkshire Hathaway Inc.
+1TSLA.MI,"Tesla, Inc."
+1LLY.MI,Eli Lilly and Company
+1V.MI,Visa Inc.
+1ORCL.MI,Oracle Corporation
+1NFLX.MI,"Netflix, Inc."
+1MA.MI,Mastercard Incorporated
+1XOM.MI,Exxon Mobil Corporation
+1PG.MI,The Procter & Gamble Company
+1JNJ.MI,Johnson & Johnson
+1SAP.MI,SAP SE
+1PLTR.MI,Palantir Technologies Inc.
+1ABBV.MI,AbbVie Inc.
+1KO.MI,The Coca-Cola Company
+1ASML.MI,ASML Holding N.V.
+1PM.MI,Philip Morris International Inc.
+1CSCO.MI,"Cisco Systems, Inc."
+1MC.MI,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne"
+1CVX.MI,Chevron Corporation
+1GE.MI,General Electric Company
+1TMUS.MI,"T-Mobile US, Inc."
+1CRM.MI,"Salesforce, Inc."
+1ABT.MI,Abbott Laboratories
+1LINUS.MI,Linde plc
+1MS.MI,Morgan Stanley
+1DIS.MI,The Walt Disney Company
+1INTU.MI,Intuit Inc.
+1AXP.MI,American Express Company
+1MCD.MI,McDonald's Corporation
+1AMD.MI,"Advanced Micro Devices, Inc."
+1NOW.MI,"ServiceNow, Inc."
+1MRKX.MI,"Merck & Co., Inc."
+1T.MI,AT&T Inc.
+1RTX.MI,RTX Corporation
+1SIE.MI,Siemens Aktiengesellschaft
+1GS.MI,"The Goldman Sachs Group, Inc."
+1ISRG.MI,"Intuitive Surgical, Inc."
+1TXN.MI,Texas Instruments Incorporated
+1VZ.MI,Verizon Communications Inc.
+1UBER.MI,"Uber Technologies, Inc."
+1BKNG.MI,Booking Holdings Inc.
+1DTE.MI,Deutsche Telekom AG
+1QCOM.MI,QUALCOMM Incorporated
+1CAT.MI,Caterpillar Inc.
+1ADBE.MI,Adobe Inc.
+1AMGN.MI,Amgen Inc.
+1SPGI.MI,S&P Global Inc.
+1PGR.MI,The Progressive Corporation
+1BLK.MI,"BlackRock, Inc."
+1BSX.MI,Boston Scientific Corporation
+1ALV.MI,Allianz SE
+1BA.MI,The Boeing Company
+1TMO.MI,Thermo Fisher Scientific Inc.
+1NEE.MI,"NextEra Energy, Inc."
+1AIR.MI,Airbus SE
+1SPOT.MI,Spotify Technology S.A.
+1SYK.MI,Stryker Corporation
+1HON.MI,Honeywell International Inc.
+1DE.MI,Deere & Company
+1ABI.MI,Anheuser-Busch InBev SA/NV
+1DHR.MI,Danaher Corporation
+1AMAT.MI,"Applied Materials, Inc."
+1MU.MI,"Micron Technology, Inc."
+1PFE.MI,Pfizer Inc.
+1GILD.MI,"Gilead Sciences, Inc."
+1GEV.MI,GE Vernova Inc.
+1PANW.MI,"Palo Alto Networks, Inc."
+1UNP.MI,Union Pacific Corporation
+1ETN.MI,Eaton Corporation plc
+1CMCSA.MI,Comcast Corporation
+1EL.MI,EssilorLuxottica Société anonyme
+1ADP.MI,"Automatic Data Processing, Inc."
+1MELI.MI,"MercadoLibre, Inc."
+1CRWD.MI,"CrowdStrike Holdings, Inc."
+1COP.MI,ConocoPhillips
+1LRCX.MI,Lam Research Corporation
+1IBE.MI,"Iberdrola, S.A."
+1SAN.MI,Sanofi
+1APP.MI,AppLovin Corporation
+1KLAC.MI,KLA Corporation
+1VRTX.MI,Vertex Pharmaceuticals Incorporated
+1ADI.MI,"Analog Devices, Inc."
+1ANET.MI,Arista Networks Inc
+1APH.MI,Amphenol Corporation
+1CB.MI,Chubb Limited
+1MDT.MI,Medtronic plc
+1LMT.MI,Lockheed Martin Corporation
+1BX.MI,Blackstone Inc.
+1MMC.MI,"Marsh & McLennan Companies, Inc."
+1ABB.MI,ABB Ltd
+1SBUX.MI,Starbucks Corporation
+1CS.MI,AXA SA
+1ICE.MI,"Intercontinental Exchange, Inc."
+1MSTR.MI,MicroStrategy Incorporated
+1AMT.MI,American Tower Corporation
+1MO.MI,"Altria Group, Inc."
+UCG.MI,UniCredit S.p.A.
+1CME.MI,CME Group Inc.
+1PLD.MI,"Prologis, Inc."
+1SO.MI,The Southern Company
+ISP.MI,Intesa Sanpaolo S.p.A.
+1BNP.MI,BNP Paribas SA
+1BMY.MI,Bristol-Myers Squibb Company
+1WM.MI,"Waste Management, Inc."
+1INTC.MI,Intel Corporation
+1TTH.MI,Trane Technologies plc
+1DASH.MI,"DoorDash, Inc."
+ENEL.MI,Enel SpA
+1MCK.MI,McKesson Corporation
+1RHM.MI,Rheinmetall AG
+1FISV.MI,"Fiserv, Inc."
+1DUK.MI,Duke Energy Corporation
+1NKE.MI,"NIKE, Inc."
+1MDLZ.MI,"Mondelez International, Inc."
+1BBVA.MI,"Banco Bilbao Vizcaya Argentaria, S.A."
+1ANTM.MI,"Elevance Health, Inc."
+1MCO.MI,Moody's Corporation
+1UPS.MI,"United Parcel Service, Inc."
+1CI.MI,The Cigna Group
+1PH.MI,Parker-Hannifin Corporation
+1SHW.MI,The Sherwin-Williams Company
+1MUV2.MI,Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München
+1ABNB.MI,"Airbnb, Inc."
+RACE.MI,Ferrari N.V.
+1AJG.MI,Arthur J. Gallagher & Co.
+1CDNS.MI,"Cadence Design Systems, Inc."
+1DELL.MI,Dell Technologies Inc.
+1ENR.MI,Siemens Energy AG
+1RSG.MI,"Republic Services, Inc."
+1MMM.MI,3M Company
+1APO.MI,"Apollo Global Management, Inc."
+1ORLY.MI,"O'Reilly Automotive, Inc."
+1COIN.MI,"Coinbase Global, Inc."
+1GD.MI,General Dynamics Corporation
+1ECL.MI,Ecolab Inc.
+1ATCA.MI,Atlas Copco AB (publ)
+1EMR.MI,Emerson Electric Co.
+1WMB.MI,"The Williams Companies, Inc."
+1CL.MI,Colgate-Palmolive Company
+1NOC.MI,Northrop Grumman Corporation
+1SNOW.MI,Snowflake Inc.
+1PNC.MI,"The PNC Financial Services Group, Inc."
+1HOOD.MI,"Robinhood Markets, Inc."
+1ZTS.MI,Zoetis Inc.
+1HWM.MI,Howmet Aerospace Inc.
+1EOG.MI,"EOG Resources, Inc."
+1MSI.MI,"Motorola Solutions, Inc."
+1USB.MI,U.S. Bancorp
+1PYPL.MI,"PayPal Holdings, Inc."
+1BK.MI,The Bank of New York Mellon Corporation
+19MW.MI,"Marvell Technology, Inc."
+1NEM.MI,Newmont Corporation
+1WDAY.MI,"Workday, Inc."
+1ADSK.MI,"Autodesk, Inc."
+1MNST.MI,Monster Beverage Corporation
+1VST.MI,Vistra Corp.
+1APD.MI,"Air Products and Chemicals, Inc."
+1KMI.MI,"Kinder Morgan, Inc."
+1INGA.MI,ING Groep N.V.
+1CSX.MI,CSX Corporation
+1AZO.MI,"AutoZone, Inc."
+1TRV.MI,"The Travelers Companies, Inc."
+1CABK.MI,"CaixaBank, S.A."
+1FCX.MI,Freeport-McMoRan Inc.
+1NUH.MI,Nu Holdings Ltd.
+1SHL.MI,Siemens Healthineers AG
+1HLT.MI,Hilton Worldwide Holdings Inc.
+1COR.MI,"Cencora, Inc."
+1DB1.MI,Deutsche Börse AG
+1MRK.MI,Merck KGaA
+1ENGI.MI,Engie SA
+1REGN.MI,"Regeneron Pharmaceuticals, Inc."
+1PAYX.MI,"Paychex, Inc."
+1AEP.MI,"American Electric Power Company, Inc."
+1ACA.MI,Crédit Agricole S.A.
+1MBG.MI,Mercedes-Benz Group AG
+1NXPI.MI,NXP Semiconductors N.V.
+1PWR.MI,"Quanta Services, Inc."
+1DBK.MI,Deutsche Bank Aktiengesellschaft
+1DHL.MI,Deutsche Post AG
+1MET.MI,"MetLife, Inc."
+1CHTR.MI,"Charter Communications, Inc."
+1LNG.MI,"Cheniere Energy, Inc."
+1TFC.MI,Truist Financial Corporation
+G.MI,Assicurazioni Generali S.p.A.
+1ALL.MI,The Allstate Corporation
+1TEAM.MI,Atlassian Corporation
+1MPC.MI,Marathon Petroleum Corporation
+1SPG.MI,"Simon Property Group, Inc."
+1OKE.MI,"ONEOK, Inc."
+1BMW.MI,Bayerische Motoren Werke Aktiengesellschaft
+1BMW3.MI,Bayerische Motoren Werke Aktiengesellschaft
+1IFX.MI,Infineon Technologies AG
+1PSX.MI,Phillips 66
+1NDAQ.MI,"Nasdaq, Inc."
+1NDA.MI,Nordea Bank Abp
+1AIG.MI,"American International Group, Inc."
+1SRE.MI,Sempra
+1BDX.MI,"Becton, Dickinson and Company"
+ENI.MI,Eni S.p.A.
+1ZS.MI,"Zscaler, Inc."
+1GM.MI,General Motors Company
+1D.MI,"Dominion Energy, Inc."
+1VEEV.MI,Veeva Systems Inc.
+1EOAN.MI,E.ON SE
+1URI.MI,"United Rentals, Inc."
+1KDP.MI,Keurig Dr Pepper Inc.
+1DDOG.MI,"Datadog, Inc."
+1OXY.MI,Occidental Petroleum Corporation
+1HES.MI,Hess Corporation
+1TTWO.MI,"Take-Two Interactive Software, Inc."
+1FANG.MI,"Diamondback Energy, Inc."
+1EW.MI,Edwards Lifesciences Corporation
+1GLW.MI,Corning Incorporated
+1FICO.MI,Fair Isaac Corporation
+1PORS.MI,Dr. Ing. h.c. F. Porsche AG
+1EXC.MI,Exelon Corporation
+1GLE.MI,Société Générale Société anonyme
+1BAS.MI,BASF SE
+1KMB.MI,Kimberly-Clark Corporation
+1FIS.MI,"Fidelity National Information Services, Inc."
+1MSCI.MI,MSCI Inc.
+1ROST.MI,"Ross Stores, Inc."
+1F.MI,Ford Motor Company
+1AME.MI,"AMETEK, Inc."
+1ADS.MI,adidas AG
+1AENA.MI,"Aena S.M.E., S.A."
+1CTSH.MI,Cognizant Technology Solutions Corporation
+1ORA.MI,Orange S.A.
+1SQ.MI,"Block, Inc."
+1YUM.MI,"Yum! Brands, Inc."
+1XEL.MI,Xcel Energy Inc.
+1GRMN.MI,Garmin Ltd.
+1EA.MI,Electronic Arts Inc.
+1OTIS.MI,Otis Worldwide Corporation
+1CBK.MI,Commerzbank AG
+1DHI.MI,"D.R. Horton, Inc."
+1HANN.MI,Hannover Rück SE
+1PRU.MI,"Prudential Financial, Inc."
+1AD.MI,Koninklijke Ahold Delhaize N.V.
+1TRGP.MI,Targa Resources Corp.
+1RMD.MI,ResMed Inc.
+1MCHP.MI,Microchip Technology Incorporated
+1ED.MI,"Consolidated Edison, Inc."
+1ROK.MI,"Rockwell Automation, Inc."
+1SYY.MI,Sysco Corporation
+1EBAY.MI,eBay Inc.
+1HEI.MI,Heidelberg Materials AG
+1EQTC.MI,EQT Corporation
+1SEBA.MI,Skandinaviska Enskilda Banken AB (publ)
+1ETR.MI,Entergy Corporation
+1AMS.MI,"Amadeus IT Group, S.A."
+1HSY.MI,The Hershey Company
+1LYV.MI,"Live Nation Entertainment, Inc."
+1ASSA.MI,ASSA ABLOY AB (publ)
+1TTD.MI,"The Trade Desk, Inc."
+1ACGL.MI,Arch Capital Group Ltd.
+1CSGP.MI,"CoStar Group, Inc."
+1EQT.MI,EQT AB (publ)
+1KNEBV.MI,KONE Oyj
+1MPWR.MI,"Monolithic Power Systems, Inc."
+1WEC.MI,"WEC Energy Group, Inc."
+1DTRH.MI,Daimler Truck Holding AG
+1GEHC.MI,GE HealthCare Technologies Inc.
+1A.MI,"Agilent Technologies, Inc."
+1TLX.MI,Talanx AG
+1DXCM.MI,"DexCom, Inc."
+1EBS.MI,Erste Group Bank AG
+LDO.MI,Leonardo S.p.a.
+1PCG.MI,PG&E Corporation
+1IT.MI,"Gartner, Inc."
+1BAYN.MI,Bayer Aktiengesellschaft
+1XYL.MI,Xylem Inc.
+1KHC.MI,The Kraft Heinz Company
+1LPLA.MI,LPL Financial Holdings Inc.
+1HEN.MI,Henkel AG & Co. KGaA
+1NRG.MI,"NRG Energy, Inc."
+1NTGY.MI,"Naturgy Energy Group, S.A."
+1ANSS.MI,"ANSYS, Inc."
+1LVS.MI,Las Vegas Sands Corp.
+1WTW.MI,Willis Towers Watson Public Limited Company
+1RWE.MI,RWE Aktiengesellschaft
+1HUM.MI,Humana Inc.
+1MTB.MI,M&T Bank Corporation
+1SWED.MI,Swedbank AB (publ)
+1EXE.MI,Expand Energy Corporation
+1HUBS.MI,"HubSpot, Inc."
+1STZ.MI,"Constellation Brands, Inc."
+1VNA.MI,Vonovia SE
+1SAMP.MI,Sampo Oyj
+1DD.MI,"DuPont de Nemours, Inc."
+1ERICB.MI,Telefonaktiebolaget LM Ericsson (publ)
+1STX.MI,Seagate Technology Holdings plc
+PST.MI,Poste Italiane S.p.A.
+1HLAG.MI,Hapag-Lloyd Aktiengesellschaft
+1AWK.MI,"American Water Works Company, Inc."
+1CNC.MI,Centene Corporation
+1NOKIA.MI,Nokia Oyj
+1SAAB.MI,Saab AB (publ)
+1LUL.MI,lululemon athletica inc.
+1K.MI,Kellanova
+1SAND.MI,Sandvik AB (publ)
+1ROL.MI,"Rollins, Inc."
+1LEN.MI,Lennar Corporation
+STLAM.MI,Stellantis N.V.
+1FRE.MI,Fresenius SE & Co. KGaA
+1VER.MI,VERBUND AG
+1BEI.MI,Beiersdorf Aktiengesellschaft
+1ELX.MI,The Estée Lauder Companies Inc.
+1IQV.MI,IQVIA Holdings Inc.
+1SMCI.MI,"Super Micro Computer, Inc."
+1CLNX.MI,"Cellnex Telecom, S.A."
+1WBD.MI,"Warner Bros. Discovery, Inc."
+1DRI.MI,"Darden Restaurants, Inc."
+1RDDT.MI,"Reddit, Inc."
+1ADM.MI,Archer-Daniels-Midland Company
+1FTHB.MI,Fifth Third Bancorp
+1SHBA.MI,Svenska Handelsbanken AB (publ)
+STMMI.MI,STMicroelectronics N.V.
+1AEE.MI,Ameren Corporation
+1HEXA.MI,Hexagon AB (publ)
+1GDDY.MI,GoDaddy Inc.
+1EPIA.MI,Epiroc AB (publ)
+1PPL.MI,PPL Corporation
+1DGX.MI,Dollar General Corporation
+1KER.MI,Kering SA
+1TOST.MI,"Toast, Inc."
+1PPG.MI,"PPG Industries, Inc."
+1TYL.MI,"Tyler Technologies, Inc."
+1IP.MI,International Paper Company
+1FCNC.MI,"First Citizens BancShares, Inc."
+1UAL.MI,"United Airlines Holdings, Inc."
+1DOV.MI,Dover Corporation
+1CHD.MI,"Church & Dwight Co., Inc."
+1ZM.MI,Zoom Communications Inc.
+1SYF.MI,Synchrony Financial
+1HPE.MI,Hewlett Packard Enterprise Company
+1FEU.MI,FirstEnergy Corp.
+1ES.MI,Eversource Energy
+1HU3.MI,Huntington Bancshares Incorporated
+1CINF.MI,Cincinnati Financial Corporation
+1MTX.MI,MTU Aero Engines AG
+1HPQ.MI,HP Inc.
+1CDW.MI,CDW Corporation
+1CPAY.MI,"Corpay, Inc."
+1DY6.MI,Devon Energy Corporation
+1ON.MI,ON Semiconductor Corporation
+1PHIA.MI,Koninklijke Philips N.V.
+1HMB.MI,H & M Hennes & Mauritz AB (publ)
+1ULTA.MI,"Ulta Beauty, Inc."
+1PODD.MI,Insulet Corporation
+1GWRE.MI,"Guidewire Software, Inc."
+1NVR.MI,"NVR, Inc."
+1EXPE.MI,"Expedia Group, Inc."
+1WDC.MI,Western Digital Corporation
+TRN.MI,Terna S.p.A.
+1GFS.MI,GlobalFoundries Inc.
+1NTAP.MI,"NetApp, Inc."
+1CMS.MI,CMS Energy Corporation
+SRG.MI,Snam S.p.A.
+1DLTR.MI,"Dollar Tree, Inc."
+1TROW.MI,"T. Rowe Price Group, Inc."
+1WAT.MI,Waters Corporation
+1DOW.MI,Dow Inc.
+1QDX.MI,Quest Diagnostics Incorporated
+1PTC.MI,PTC Inc.
+1DKNG.MI,DraftKings Inc.
+1SSNC.MI,"SS&C Technologies Holdings, Inc."
+1IAG.MI,International Consolidated Airlines Group S.A.
+1TSN.MI,"Tyson Foods, Inc."
+TEN.MI,Tenaris S.A.
+1STLD.MI,"Steel Dynamics, Inc."
+1IFF.MI,International Flavors & Fragrances Inc.
+1HAL.MI,Halliburton Company
+1LDOS.MI,"Leidos Holdings, Inc."
+1WY.MI,Weyerhaeuser Company
+1ESSI.MI,Essity AB (publ)
+1GPN.MI,Global Payments Inc.
+1BIIB.MI,Biogen Inc.
+1LOE.MI,Loews Corporation
+1UN.MI,Uniper SE
+PRY.MI,Prysmian S.p.A.
+1NLOK.MI,Gen Digital Inc.
+1LIFC.MI,Lifco AB (publ)
+1ZBH.MI,"Zimmer Biomet Holdings, Inc."
+MB.MI,Mediobanca Banca di Credito Finanziario S.p.A.
+1LUV.MI,Southwest Airlines Co.
+1TPR.MI,"Tapestry, Inc."
+1OMV.MI,OMV Aktiengesellschaft
+1OKTA.MI,"Okta, Inc."
+1ALFA.MI,Alfa Laval AB (publ)
+1REP.MI,"Repsol, S.A."
+1CON.MI,Continental Aktiengesellschaft
+1SAB.MI,"Banco de Sabadell, S.A."
+1PFG.MI,"Principal Financial Group, Inc."
+1CG.MI,The Carlyle Group Inc.
+BAMI.MI,Banco BPM S.p.A.
+1SOFI.MI,"SoFi Technologies, Inc."
+1RBRK.MI,"Rubrik, Inc."
+1NWS.MI,News Corporation
+1HRL.MI,Hormel Foods Corporation
+1GPC.MI,Genuine Parts Company
+1FORT.MI,Fortum Oyj
+1FFIV.MI,"F5, Inc."
+1ZUS.MI,"Zillow Group, Inc."
+1RLA.MI,Ralph Lauren Corporation
+1FDS.MI,FactSet Research Systems Inc.
+1ACS.MI,"ACS, Actividades de Construcción y Servicios, S.A."
+1LATO.MI,Investment AB Latour (publ)
+1CNHI.MI,CNH Industrial N.V.
+1MOH.MI,"Molina Healthcare, Inc."
+1BSY.MI,"Bentley Systems, Incorporated"
+1PNR.MI,Pentair plc
+1RIVN.MI,"Rivian Automotive, Inc."
+18TRA.MI,Traton SE
+1FME.MI,Fresenius Medical Care AG
+1THC.MI,Tenet Healthcare Corporation
+1SYM.MI,Symrise AG
+1BALL.MI,Ball Corporation
+1SRT.MI,Sartorius Aktiengesellschaft
+1SRT3.MI,Sartorius Aktiengesellschaft
+1EXPD.MI,"Expeditors International of Washington, Inc."
+1NEMX.MI,Nemetschek SE
+1FSLR.MI,"First Solar, Inc."
+1EVRG.MI,"Evergy, Inc."
+1DPZ.MI,"Domino's Pizza, Inc."
+1BAX.MI,Baxter International Inc.
+1KBX.MI,Knorr-Bremse AG
+MONC.MI,Moncler S.p.A.
+1INDU.MI,AB Industrivärden (publ)
+1CLX.MI,The Clorox Company
+1EVO.MI,Evolution AB (publ)
+1BBY.MI,"Best Buy Co., Inc."
+1UPM.MI,UPM-Kymmene Oyj
+1TELI.MI,Telia Company AB (publ)
+1BJ.MI,"BJ's Wholesale Club Holdings, Inc."
+1ILMN.MI,"Illumina, Inc."
+1HOLX.MI,"Hologic, Inc."
+1WWD.MI,"Woodward, Inc."
+1EG.MI,"Everest Group, Ltd."
+1DKS.MI,"DICK'S Sporting Goods, Inc."
+1TER.MI,"Teradyne, Inc."
+1JBHT.MI,"J.B. Hunt Transport Services, Inc."
+1SNAP.MI,Snap Inc.
+UNI.MI,Unipol Assicurazioni S.p.A.
+1SGI.MI,Somnigroup International Inc.
+1IEX.MI,IDEX Corporation
+1INCY.MI,Incyte Corporation
+1JKHY.MI,"Jack Henry & Associates, Inc."
+1HOT.MI,HOCHTIEF Aktiengesellschaft
+FBK.MI,FinecoBank Banca Fineco S.p.A.
+1WRT.MI,Wärtsilä Oyj Abp
+1ALGN.MI,"Align Technology, Inc."
+1PAYC.MI,"Paycom Software, Inc."
+1RKLB.MI,Rocket Lab Corporation
+1MAS.MI,Masco Corporation
+1TXRH.MI,"Texas Roadhouse, Inc."
+1BAH.MI,Booz Allen Hamilton Holding Corporation
+REC.MI,Recordati Industria Chimica e Farmaceutica S.p.A.
+1HUS.MI,Hyatt Hotels Corporation
+1NBIX.MI,"Neurocrine Biosciences, Inc."
+1AGS.MI,ageas SA/NV
+1USX1.MI,United States Steel Corporation
+BPE.MI,BPER Banca SpA
+1RNO.MI,Renault SA
+1LUND.MI,L E Lundbergföretagen AB (publ)
+1NDSN.MI,Nordson Corporation
+1HENS.MI,Hensoldt AG
+1JNPR.MI,"Juniper Networks, Inc."
+1ROKU.MI,"Roku, Inc."
+BMED.MI,Banca Mediolanum S.p.A.
+1BEN.MI,"Franklin Resources, Inc."
+1BLDR.MI,"Builders FirstSource, Inc."
+1RGLD.MI,"Royal Gold, Inc."
+1PAH.MI,Porsche Automobil Holding SE
+1ENTG.MI,"Entegris, Inc."
+1AKAM.MI,"Akamai Technologies, Inc."
+1BKT.MI,"Bankinter, S.A."
+1EVD.MI,CTS Eventim AG & Co. KGaA
+1LECO.MI,"Lincoln Electric Holdings, Inc."
+1RVTY.MI,"Revvity, Inc."
+1EXEL.MI,"Exelixis, Inc."
+1CHRW.MI,"C.H. Robinson Worldwide, Inc."
+1PPC.MI,Pilgrim's Pride Corporation
+INW.MI,Infrastrutture Wireless Italiane S.p.A.
+1G.MI,GEA Group Aktiengesellschaft
+1DWNI.MI,Deutsche Wohnen SE
+1SWKS.MI,"Skyworks Solutions, Inc."
+EDNR.MI,Edison S.p.A.
+1POOL.MI,Pool Corporation
+1PUIG.MI,"Puig Brands, S.A."
+1BMRN.MI,BioMarin Pharmaceutical Inc.
+1ASTS.MI,"AST SpaceMobile, Inc."
+1HLE.MI,HELLA GmbH & Co. KGaA
+1GME.MI,GameStop Corp.
+1CIEN.MI,Ciena Corporation
+1SEIC.MI,SEI Investments Company
+1ORNBV.MI,Orion Oyj
+1VTRS.MI,Viatris Inc.
+1SJM.MI,The J. M. Smucker Company
+1TEL.MI,Tele2 AB (publ)
+1NESTE.MI,Neste Oyj
+1METS.MI,Metso Oyj
+1QGEN.MI,Qiagen N.V.
+TIT.MI,Telecom Italia S.p.A.
+TITR.MI,Telecom Italia S.p.A.
+1AIZ.MI,"Assurant, Inc."
+1EXAS.MI,Exact Sciences Corporation
+1MRNA.MI,"Moderna, Inc."
+BMPS.MI,Banca Monte dei Paschi di Siena S.p.A.
+1SKFB.MI,AB SKF (publ)
+1WING.MI,Wingstop Inc.
+1EVK.MI,Evonik Industries AG
+1PCTY.MI,Paylocity Holding Corporation
+1SOBI.MI,Swedish Orphan Biovitrum AB (publ)
+1INDT.MI,Indutrade AB (publ)
+1G24.MI,Scout24 SE
+1BRE.MI,Brenntag SE
+1BGA.MI,BAWAG Group AG
+1HAS.MI,"Hasbro, Inc."
+1LKQ.MI,LKQ Corporation
+1CPB.MI,The Campbell's Company
+1SKAB.MI,Skanska AB (publ)
+1TTEK.MI,"Tetra Tech, Inc."
+1EPAM.MI,"EPAM Systems, Inc."
+1KESK.MI,Kesko Oyj
+1COKE.MI,"Coca-Cola Consolidated, Inc."
+1LHA.MI,Deutsche Lufthansa AG
+1SCAB.MI,Svenska Cellulosa Aktiebolaget SCA (publ)
+1RBI.MI,Raiffeisen Bank International AG
+BZU.MI,Buzzi S.p.A.
+1ANA.MI,"Acciona, S.A."
+1RAA.MI,RATIONAL Aktiengesellschaft
+1DAY.MI,Dayforce Inc.
+1AOS.MI,A. O. Smith Corporation
+1STER.MI,Stora Enso Oyj
+1HQY.MI,"HealthEquity, Inc."
+1ADDT.MI,Addtech AB (publ.)
+1AVAV.MI,"AeroVironment, Inc."
+1EMN.MI,Eastman Chemical Company
+1PARA.MI,Paramount Global
+1ELIS.MI,Elisa Oyj
+1BOL.MI,Boliden AB (publ)
+1BALD.MI,Fastighets AB Balder (publ)
+1BPMC.MI,Blueprint Medicines Corporation
+1MKTX.MI,MarketAxess Holdings Inc.
+1SECU.MI,Securitas AB (publ)
+A2A.MI,A2A S.p.A.
+1CFLT.MI,"Confluent, Inc."
+1NIBE.MI,NIBE Industrier AB (publ)
+1APPF.MI,"AppFolio, Inc."
+1DBX.MI,"Dropbox, Inc."
+1PNFP.MI,"Pinnacle Financial Partners, Inc."
+1ZAL.MI,Zalando SE
+1EAT.MI,"Brinker International, Inc."
+BC.MI,Brunello Cucinelli S.p.A.
+CPR.MI,Davide Campari-Milano N.V.
+1BEIJ.MI,Beijer Ref AB (publ)
+1BBIO.MI,"BridgeBio Pharma, Inc."
+1MIDD.MI,The Middleby Corporation
+1CORT.MI,Corcept Therapeutics Incorporated
+1MTCH.MI,"Match Group, Inc."
+1EXLS.MI,"ExlService Holdings, Inc."
+1AA.MI,Alcoa Corporation
+1APA.MI,APA Corporation
+1TEA.MI,Telekom Austria AG
+1LNW.MI,"Light & Wonder, Inc."
+1DHER.MI,Delivery Hero SE
+1SATS.MI,EchoStar Corporation
+1LSCC.MI,Lattice Semiconductor Corporation
+1AAL.MI,American Airlines Group Inc.
+1LEVI.MI,Levi Strauss & Co.
+1GTLB.MI,GitLab Inc.
+PIRC.MI,Pirelli & C. S.p.A.
+1IDR.MI,"Indra Sistemas, S.A."
+1AAK.MI,AAK AB (publ.)
+1STRL.MI,"Sterling Infrastructure, Inc."
+NEXI.MI,Nexi S.p.A.
+1FIVE.MI,"Five Below, Inc."
+1LCID.MI,"Lucid Group, Inc."
+HER.MI,Hera S.p.A.
+1ANDR.MI,Andritz AG
+1SLM.MI,SLM Corporation
+1PATH.MI,UiPath Inc.
+LTMC.MI,Lottomatica Group S.p.A.
+1IVZ.MI,Invesco Ltd.
+1HALO.MI,"Halozyme Therapeutics, Inc."
+IG.MI,Italgas S.p.A.
+1RMBS.MI,Rambus Inc.
+1SAVE.MI,Nordnet AB (publ)
+1TUB.MI,Financière de Tubize SA
+1LEG.MI,LEG Immobilien SE
+1MDGL.MI,"Madrigal Pharmaceuticals, Inc."
+1FRA.MI,Fraport AG
+1VIG.MI,Vienna Insurance Group AG
+1CAST.MI,Castellum AB (publ)
+1LYFT.MI,"Lyft, Inc."
+BGN.MI,Banca Generali S.p.A.
+1LITE.MI,Lumentum Holdings Inc.
+1KGX.MI,KION GROUP AG
+REY.MI,Reply S.p.A.
+1MHK.MI,"Mohawk Industries, Inc."
+1MAT.MI,"Mattel, Inc."
+1TKA.MI,thyssenkrupp AG
+1AXFO.MI,Axfood AB (publ)
+BPSO.MI,Banca Popolare di Sondrio S.p.A
+1CE.MI,Celanese Corporation
+1SWEC.MI,Sweco AB (publ)
+1AFX.MI,Carl Zeiss Meditec AG
+1SUS.MI,"SentinelOne, Inc."
+1KCR.MI,Konecranes Plc
+1BRKR.MI,Bruker Corporation
+1ROAD.MI,"Construction Partners, Inc."
+DIA.MI,DiaSorin S.p.A.
+1CDE.MI,"Coeur Mining, Inc."
+1ETSY.MI,"Etsy, Inc."
+1AG1.MI,AUTO1 Group SE
+1FNOX.MI,Fortnox AB (publ)
+1UPST.MI,"Upstart Holdings, Inc."
+1RRTL.MI,RTL Group S.A.
+1VRNS.MI,"Varonis Systems, Inc."
+1VALM.MI,Valmet Oyj
+1LNTH.MI,"Lantheus Holdings, Inc."
+SPM.MI,Saipem SpA
+SPMR.MI,Saipem SpA
+1CRUS.MI,"Cirrus Logic, Inc."
+TPRO.MI,Technoprobe S.p.A.
+1AMTM.MI,"Amentum Holdings, Inc."
+AMP.MI,Amplifon S.p.A.
+ACE.MI,ACEA S.p.A.
+1BC8.MI,Bechtle AG
+FCT.MI,Fincantieri S.p.A.
+1GETI.MI,Getinge AB (publ)
+1TGTX.MI,"TG Therapeutics, Inc."
+1MARA.MI,"MARA Holdings, Inc."
+1AZA.MI,Avanza Bank Holding AB (publ)
+1CALM.MI,"Cal-Maine Foods, Inc."
+1CHX.MI,ChampionX Corporation
+1NXST.MI,"Nexstar Media Group, Inc."
+1VOLC.MI,Volvo Car AB (publ.)
+1QLYS.MI,"Qualys, Inc."
+1QBTS.MI,D-Wave Quantum Inc.
+SOL.MI,SOL S.p.A.
+1SAIC.MI,Science Applications International Corporation
+1KRN.MI,Krones AG
+1UTDI.MI,United Internet AG
+1GNTX.MI,Gentex Corporation
+1VLY.MI,Valley National Bancorp
+1LSTR.MI,"Landstar System, Inc."
+1EVN.MI,EVN AG
+1ENPH.MI,"Enphase Energy, Inc."
+1SXP.MI,SCHOTT Pharma AG & Co. KGaA
+IVG.MI,Iveco Group N.V.
+1WSC.MI,WillScot Holdings Corporation
+DLG.MI,De'Longhi S.p.A.
+CE.MI,Credito Emiliano S.p.A.
+1LAGR.MI,Lagercrantz Group AB (publ)
+1IRTC.MI,"iRhythm Technologies, Inc."
+1VFC.MI,V.F. Corporation
+1CAR.MI,"Avis Budget Group, Inc."
+1NDX.MI,Nordex SE
+1FDR.MI,"Fluidra, S.A."
+1FRSH.MI,Freshworks Inc.
+1VOE.MI,Voestalpine AG
+1JUN.MI,Jungheinrich Aktiengesellschaft
+1ENG.MI,"Enagás, S.A."
+1RDNT.MI,"RadNet, Inc."
+1LOG.MI,"Logista Integral, S.A."
+1NSIT.MI,"Insight Enterprises, Inc."
+1TMDX.MI,"TransMedics Group, Inc."
+AZM.MI,Azimut Holding S.p.A.
+1COTY.MI,Coty Inc.
+IP.MI,Interpump Group S.p.A.
+1CYTH.MI,"Lumen Technologies, Inc."
+MAIRE.MI,Maire S.p.A.
+1STNE.MI,StoneCo Ltd.
+1AUR.MI,Aurubis AG
+IRE.MI,Iren SpA
+1UQA.MI,UNIQA Insurance Group AG
+1SKYW.MI,"SkyWest, Inc."
+1CYTK.MI,"Cytokinetics, Incorporated"
+WBD.MI,Webuild S.p.A.
+WBDR.MI,Webuild S.p.A.
+1WIE.MI,Wienerberger AG
+1KRYS.MI,"Krystal Biotech, Inc."
+1AT1.MI,Aroundtown SA
+1VID.MI,"Vidrala, S.A."
+1HL.MI,Hecla Mining Company
+1FNTN.MI,freenet AG
+1WFRD.MI,Weatherford International plc
+1MYCR.MI,Mycronic AB (publ)
+1HIAB.MI,Hiab Oyj
+1PUM.MI,PUMA SE
+1CVA.MI,Cleveland-Cliffs Inc.
+1SIX.MI,Sixt SE
+1TUI1U.MI,TUI AG
+1RIOT.MI,"Riot Platforms, Inc."
+1KEMI.MI,Kemira Oyj
+1WCH.MI,Wacker Chemie AG
+1BL.MI,"BlackLine, Inc."
+1SDF.MI,K+S Aktiengesellschaft
+1VIV.MI,Vivendi SE
+1ROVI.MI,"Laboratorios Farmaceuticos Rovi, S.A."
+1C3.MI,"C3.ai, Inc."
+1GBF.MI,Bilfinger SE
+1VIS.MI,"Viscofan, S.A."
+1WALL.MI,Wallenstam AB (publ)
+1MANT.MI,Mandatum Oyj
+1SCYR.MI,"Sacyr, S.A."
+1KOJA.MI,Kojamo Oyj
+1SAX.MI,Ströer SE & Co. KGaA
+ERG.MI,ERG S.p.A.
+1IRDM.MI,Iridium Communications Inc.
+1HPOL.MI,HEXPOL AB (publ)
+1TEG.MI,TAG Immobilien AG
+1XRAY.MI,DENTSPLY SIRONA Inc.
+1PI.MI,"Impinj, Inc."
+1FDO.MI,"Macy's, Inc."
+1ACX.MI,"Acerinox, S.A."
+1BRZE.MI,"Braze, Inc."
+1BOSS.MI,Hugo Boss AG
+1UEC.MI,Uranium Energy Corp.
+1THUL.MI,Thule Group AB (publ)
+1IAC.MI,IAC Inc.
+1CAKE.MI,The Cheesecake Factory Incorporated
+1CPIE.MI,CPI Europe AG
+CRL.MI,Carel Industries S.p.A.
+1HUSQ.MI,Husqvarna AB (publ)
+1HOG.MI,"Harley-Davidson, Inc."
+BRE.MI,Brembo N.V.
+TGYM.MI,Technogym S.p.A.
+1CAI.MI,CA Immobilien Anlagen AG
+1HEM.MI,Hemnet Group AB (publ)
+1CLSK.MI,"CleanSpark, Inc."
+1OGN.MI,Organon & Co.
+ENAV.MI,ENAV S.p.A.
+CEM.MI,Cementir Holding N.V.
+1PTEN.MI,"Patterson-UTI Energy, Inc."
+1PTON.MI,"Peloton Interactive, Inc."
+1SYNA.MI,Synaptics Incorporated
+DAN.MI,Danieli & C. Officine Meccaniche S.p.A.
+DANR.MI,Danieli & C. Officine Meccaniche S.p.A.
+1MTRS.MI,Munters Group AB (publ)
+1LXS.MI,LANXESS Aktiengesellschaft
+1APLD.MI,Applied Digital Corporation
+1AF.MI,Air France-KLM SA
+1POST.MI,Österreichische Post AG
+1KINV.MI,Kinnevik AB
+MFEA.MI,MFE-Mediaforeurope N.V.
+MFEB.MI,MFE-Mediaforeurope N.V.
+1NWL.MI,Newell Brands Inc.
+1APLS.MI,"Apellis Pharmaceuticals, Inc."
+1SINC.MI,Sinch AB (publ)
+1WEN.MI,The Wendy's Company
+1TWST.MI,Twist Bioscience Corporation
+ANIM.MI,Anima Holding SpA
+1RDC.MI,Redcare Pharmacy NV
+MOL.MI,Moltiply Group S.p.A.
+1NB.MI,Northern Data AG
+1DOC.MI,DO & CO Aktiengesellschaft
+1FIVN.MI,"Five9, Inc."
+1ACHC.MI,"Acadia Healthcare Company, Inc."
+BFF.MI,BFF Bank S.p.A.
+1DEQ.MI,Deutsche EuroShop AG
+1EKTA.MI,Elekta AB (publ)
+ARIS.MI,Ariston Holding N.V.
+1ELUX.MI,AB Electrolux (publ)
+1PSM.MI,ProSiebenSat.1 Media SE
+RWAY.MI,Rai Way S.p.A.
+1FRVIA.MI,Forvia SE
+1GXI.MI,Gerresheimer AG
+1PFV.MI,Pfeiffer Vacuum Technology AG
+1HUT.MI,Hut 8 Corp.
+1AIXA.MI,AIXTRON SE
+1UPWK.MI,Upwork Inc.
+1DUE.MI,Dürr Aktiengesellschaft
+1TMV.MI,TeamViewer SE
+1OUT.MI,Outokumpu Oyj
+1CEC.MI,Ceconomy AG
+1MMK.MI,Mayr-Melnhof Karton AG
+1ACMR.MI,"ACM Research, Inc."
+1QTCO.MI,Qt Group Oyj
+ECMPM.MI,Eurocommercial Properties N.V.
+1TRIP.MI,"Tripadvisor, Inc."
+1EUZ.MI,Eckert & Ziegler SE
+1HFG.MI,HelloFresh SE
+1WULF.MI,TeraWulf Inc.
+TIP.MI,Tamburi Investment Partners S.p.A.
+1JAM.MI,JetBlue Airways Corporation
+ICOS.MI,Intercos S.p.A.
+DNR.MI,Industrie De Nora S.p.A.
+1HYQ.MI,Hypoport SE
+1MTBB.MI,Metsä Board Oyj
+SES.MI,SeSa S.p.A.
+1AMSC.MI,American Superconductor Corporation
+1EVT.MI,Evotec SE
+JUVE.MI,Juventus Football Club S.p.A.
+1AMC.MI,"AMC Entertainment Holdings, Inc."
+BFG.MI,B.F. S.p.A.
+1PNE.MI,PNE AG
+IF.MI,Banca IFIS S.p.A.
+1PLUG.MI,Plug Power Inc.
+1WAF.MI,Siltronic AG
+PHIL.MI,Philogen S.p.A.
+1CVAC.MI,CureVac N.V.
+1JEN.MI,Jenoptik AG
+ITM.MI,Italmobiliare S.p.A.
+SL.MI,Sanlorenzo S.p.A.
+1DEZ.MI,DEUTZ Aktiengesellschaft
+CMB.MI,Cembre S.p.A.
+BDB.MI,Banco di Desio e della Brianza S.p.A.
+COM.MI,Comer Industries S.p.A.
+YACHT.MI,Ferretti S.p.A.
+GVS.MI,GVS S.p.A.
+1GERN.MI,Geron Corporation
+ARN.MI,Alerion Clean Power S.p.A.
+ELN.MI,EL.En. S.p.A.
+1LNZ.MI,Lenzing Aktiengesellschaft
+1TYRES.MI,Nokian Renkaat Oyj
+CALT.MI,Caltagirone SpA
+SFER.MI,Salvatore Ferragamo S.p.A.
+OVS.MI,OVS S.p.A.
+NWL.MI,NewPrinces S.p.A.
+ZV.MI,Zignago Vetro S.p.A.
+1PBB.MI,Deutsche Pfandbriefbank AG
+ASC.MI,Ascopiave S.p.A.
+LUVE.MI,LU-VE S.p.A.
+1FLNC.MI,"Fluence Energy, Inc."
+1ATS.MI,AT & S Austria Technologie & Systemtechnik Aktiengesellschaft
+1APPS.MI,"Digital Turbine, Inc."
+1RCAT.MI,"Red Cat Holdings, Inc."
+PIA.MI,Piaggio & C. SpA
+1S.MI,SMA Solar Technology AG
+MARR.MI,MARR S.p.A.
+AVIO.MI,Avio S.p.A.
+MN.MI,Arnoldo Mondadori Editore S.p.A.
+CIR.MI,CIR S.p.A. - Compagnie Industriali Riunite
+1INH.MI,INDUS Holding AG
+RCS.MI,RCS MediaGroup S.p.A.
+TNXT.MI,Tinexta S.p.A.
+FILA.MI,F.I.L.A. - Fabbrica Italiana Lapis ed Affini S.p.A.
+1SBO.MI,Schoeller-Bleckmann Oilfield Equipment Aktiengesellschaft
+GHC.MI,Garofalo Health Care S.p.A.
+PHN.MI,Pharmanutra S.p.A.
+1MUX.MI,McEwen Mining Inc.
+DIS.MI,d'Amico International Shipping S.A.
+DOV.MI,doValue S.p.A.
+1AAD.MI,Amadeus FiRe AG
+1BOD.MI,Borussia Dortmund GmbH & Co. Kommanditgesellschaft auf Aktien
+AC5.MI,Acinque S.p.A.
+TXT.MI,TXT e-solutions S.p.A.
+FM.MI,Fiera Milano S.p.A.
+NXT.MI,Next Geosolutions Europe SpA
+CAI.MI,Cairo Communication S.p.A.
+WIIT.MI,Wiit S.p.A.
+YRM.MI,Rosetti Marino SpA
+REVO.MI,REVO Insurance S.p.A.
+EGLA.MI,EuroGroup Laminations S.p.A.
+ICOP.MI,I.CO.P. S.p.A. Società Benefit
+BAN.MI,BasicNet S.p.A.
+RWY.MI,Reway Group S.p.A.
+SFL.MI,Safilo Group S.p.A.
+IGD.MI,Immobiliare Grande Distribuzione SIIQ S.p.A.
+ALA.MI,A.L.A. società per azioni
+DGV.MI,Digital Value S.p.A.
+ADB.MI,Aeroporto Guglielmo Marconi di Bologna S.p.A.
+GPI.MI,GPI S.p.A.
+AV.MI,Antares Vision S.p.A.
+1ST.MI,STEICO SE
+TYA.MI,Toscana Aeroporti S.p.A.
+IOT.MI,Seco S.p.A.
+TISG.MI,The Italian Sea Group S.p.A.
+IEG.MI,Italian Exhibition Group S.p.A.
+ILTY.MI,illimity Bank S.p.A.
+SGF.MI,Sogefi S.p.A.
+BF.MI,BolognaFiere S.p.A.
+PWS.MI,Powersoft S.p.A.
+ORS.MI,Orsero S.p.A.
+DAL.MI,Datalogic S.p.A.
+EVISO.MI,eVISO S.p.A.
+1BYND.MI,"Beyond Meat, Inc."
+GSP.MI,Gas Plus S.p.A.
+EQUI.MI,Equita Group S.p.A.
+KME.MI,KME Group S.p.A.
+KMER.MI,KME Group S.p.A.
+FPE.MI,Fope S.p.A.
+1LPK.MI,LPKF Laser & Electronics SE
+DIB.MI,Digital Bros S.p.A.
+1ADE.MI,Bitcoin Group SE
+FF.MI,Fine Foods & Pharmaceuticals N.T.M. S.p.A.
+IWB.MI,Italian Wine Brands S.p.A.
+GF.MI,Generalfinance S.p.A.
+SAB.MI,Sabaf S.p.A.
+BSS.MI,Biesse S.p.A.
+1DR.MI,Deutsche Rohstoff AG
+DEX.MI,Dexelance S.p.A.
+PRT.MI,Esprinet S.p.A.
+1DDD.MI,3D Systems Corporation
+VE.MI,Visibilia Editore S.p.A.
+SYS.MI,SYS-DAT S.p.A.
+BEC.MI,B&C Speakers S.p.A.
+FNM.MI,FNM S.p.A.
+IMS.MI,Immsi S.p.A.
+FUM.MI,Franchi Umberto Marmi S.p.A.
+CED.MI,Caltagirone Editore SpA
+ITD.MI,Intred S.p.A.
+ABP.MI,Azienda Bresciana Petroli Nocivelli S.p.A.
+GE.MI,Gefran S.p.A.
+AGP.MI,Altea Green Power S.p.A.
+BST.MI,Banca Sistema S.p.A.
+EM.MI,Emak S.p.A.
+EXAI.MI,Expert.ai S.p.A.
+OMER.MI,OMER S.p.A.
+ADV.MI,Adventure S.p.A.
+MASI.MI,Masi Agricola S.p.A.
+RFG.MI,Racing Force S.P.A.
+SBC.MI,Sicily by Car S.p.A.
+1FEY2.MI,"FuelCell Energy, Inc."
+CY4.MI,Cy4gate S.p.A.
+1GPRO.MI,"GoPro, Inc."
+SERI.MI,Seri Industrial S.p.A.
+VLS.MI,Valsoia S.p.A.
+ECNL.MI,Aquafil S.p.A.
+PRO.MI,Banca Profilo S.p.A.
+PQ.MI,Piquadro S.p.A.
+D.MI,Directa Sim S.p.A.
+DHH.MI,Dominion Hosting Holding S.p.A.
+INDB.MI,Indel B S.p.A.
+AIW.MI,Almawave S.p.A.
+SOM.MI,Somec S.p.A.
+IGV.MI,I Grandi Viaggi S.p.A.
+OS.MI,Officina Stellare S.p.A.
+UD.MI,Unidata S.p.A.
+TFIN.MI,TREVI - Finanziaria Industriale S.p.A.
+1IRBT.MI,iRobot Corporation
+ELC.MI,Elica S.p.A.
+MS.MI,Misitano & Stracuzzi S.p.A.
+MGS.MI,Magis S.p.A.
+ABT.MI,Abitare In S.p.A.
+GEO.MI,Geox S.p.A.
+ESF.MI,Edil San Felice S.p.A.
+RDF.MI,Redelfi S.p.A.
+E9IA.MI,e-Novia S.p.A.
+B.MI,Bastogi S.p.A.
+S24.MI,Il Sole 24 ORE S.p.A.
+BIA.MI,Bialetti Industrie S.p.A
+NR.MI,Next Re SIIQ S.p.A.
+ALK.MI,Alkemy S.p.A.
+MARE.MI,Mare Engineering Group S.p.A.
+IB.MI,Iniziative Bresciane S.p.A.
+CYB.MI,Cyberoo S.p.A.
+RES.MI,Recupero Etico Sostenibile S.p.A.
+PINF.MI,Pininfarina S.p.A.
+CELL.MI,Cellularline S.p.A.
+SPN.MI,Spindox S.p.A.
+PTR.MI,Pattern S.p.A.
+NOVA.MI,Novamarine S.p.A.
+DEA.MI,Distribuzione Elettrica Adriatica S.p.a.
+ENV.MI,Enervit S.p.A.
+ILP.MI,ILPRA S.p.A.
+FIC.MI,First Capital S.p.A.
+SSL.MI,S.S. Lazio S.p.A.
+STAR7.MI,Star7 S.p.A.
+PLC.MI,PLC S.p.A.
+TPS.MI,Technical Publications Service S.p.A.
+HI.MI,Health Italia S.p.A.
+CLE.MI,Class Editori Spa
+IRC.MI,IRCE S.p.A.
+FAE.MI,FAE Technology S.p.A.
+RAT.MI,Ratti S.p.A.
+FCH.MI,Franchetti S.p.A.
+HIK.MI,Haiki+ S.p.a
+LNDR.MI,Landi Renzo S.p.A.
+AEF.MI,Aeffe S.p.A.
+EDAC.MI,EdiliziAcrobatica S.p.A.
+RDUE.MI,ErreDue S.p.A.
+KK.MI,Kruso Kapital S.p.A.
+ABC.MI,ABC Company S.p.A.
+DBA.MI,DBA Group S.p.A.
+SMCAP.MI,Smart Capital S.p.A.
+MAPS.MI,Maps S.p.A.
+GM.MI,Gentili Mosconi S.p.A.
+GAB.MI,Gabetti Property Solutions S.p.A.
+BRI.MI,Brioschi Sviluppo Immobiliare S.p.A.
+CULT.MI,CULTI Milano S.p.A.
+CUBE.MI,Cube Labs S.p.A.
+HZY.MI,Homizy SIIQ S.p.A.
+ENY.MI,Energy S.p.A.
+SVS.MI,Svas Biosana S.p.A.
+OLI.MI,Olidata S.p.A.
+PAL.MI,Palingeo S.p.A.
+1CCAP.MI,CORESTATE Capital Holding S.A.
+VLT.MI,Valtecne S.p.A.
+GROW.MI,Growens S.p.A.
+CLI.MI,Centrale del Latte d'Italia S.p.A.
+ELES.MI,ELES Semiconductor Equipment S.p.A.
+NDT.MI,Neodecortech S.p.A.
+ESAU.MI,Esautomotion S.p.A.
+LDB.MI,Lindbergh S.p.A.
+FVI.MI,Fervi S.p.A.
+1ADJ.MI,Adler Group S.A.
+ESPE.MI,Espe S.p.A.
+PMT.MI,Promotica S.p.A.
+ECK.MI,Ecosuntek S.p.A.
+TSL.MI,Tessellis S.p.A.
+RN.MI,Risanamento SpA
+CREG.MI,Creactives Group S.p.A.
+ICF.MI,Industrie Chimiche Forestali S.p.A.
+TES.MI,Tesmec S.p.A.
+CIRC.MI,Circle S.p.A.
+RFLTC.MI,RedFish LongTerm Capital S.p.A.
+SIT.MI,SIT S.p.A.
+FARM.MI,H-FARM S.p.A.
+CMTL.MI,Com.Tel S.p.A.
+BO.MI,Borgosesia S.p.A.
+ETH.MI,Eurotech S.p.A.
+TALEA.MI,Talea Group S.p.A.
+UBA.MI,Ubaldi Costruzioni S.p.A.
+DGT.MI,DigiTouch S.p.A.
+ACQ.MI,Acquazzurra S.p.A.
+ZEST.MI,Zest S.p.A.
+PLN.MI,Planetel S.p.A.
+VARV.MI,Sbe - Varvit - Societa' Per Azioni
+GRN.MI,Green Oleo S.p.A.
+CDG.MI,Casta Diva Group S.p.A.
+IMD.MI,I.M.D. International Medical Devices S.p.A.
+ZUC.MI,Vincenzo Zucchi S.p.A.
+CORE.MI,Allcore S.p.A.
+S3D.MI,Solid World Group S.p.A.
+FOS.MI,Fos S.p.A.
+COSMO.MI,Farmacosmo S.p.A.
+LFG.MI,Leone Film Group S.p.A.
+RNV.MI,Renovalo S.p.A.
+SCK.MI,Sciuker Frames S.p.A.
+DOX.MI,Doxee S.p.A.
+ISC.MI,Integrated System Credit Consulting Fintech S.p.A.
+ECMB.MI,Ecomembrane S.p.A.
+DATA.MI,Datrix S.p.A.
+PSQ.MI,Pasquarelli Auto S.p.A.
+UBM.MI,Ulisse Biomed S.p.A.
+RETI.MI,Reti S.p.A.
+NRST.MI,Neurosoft Software Production S.A.
+BELL.MI,Bellini Nautica S.p.A.
+NUS.MI,Nusco S.p.A.
+SIAV.MI,Siav S.p.A.
+IDNTT.MI,IDNTT SA
+CFL.MI,Cofle S.p.A.
+EUK.MI,EuKedos S.p.A.
+MARP.MI,Marzocchi Pompe S.p.A.
+MFT.MI,Matica Fintec S.p.A.
+GRAL.MI,Grifal S.p.A.
+IVN.MI,iVision Tech S.p.A.
+INC.MI,Innovatec S.p.A.
+ATON.MI,ATON Green Storage S.p.A.
+LASIA.MI,La Sia S.p.A.
+POZ.MI,Pozzi Milano S.p.A.
+NPI.MI,Notorious Pictures S.p.A.
+WBS.MI,Websolute S.p.A.
+ARBS.MI,Arterra Bioscience S.p.A.
+VNT.MI,Vantea SMART S.p.A.
+LS.MI,Lemon Sistemi S.p.A.
+TWL.MI,TraWell Co S.p.A.
+YOLO.MI,Yolo Group S.p.A.
+SFT.MI,Softlab S.p.A.
+LMG.MI,Lucisano Media Group S.p.A.
+CVG.MI,Convergenze S.p.A. Società Benefit
+TRAIN.MI,Bertolotti S.p.A.
+EGB.MI,E-Globe S.p.A.
+ELB.MI,EdgeLab S.p.A.
+MQSPA.MI,MeglioQuesto S.p.A.
+ITW.MI,Itway S.p.A.
+EAV.MI,Emma Villas S.p.A.
+VIM.MI,Vimi Fasteners S.p.A.
+GEL.MI,Gel S.p.A.
+CSP.MI,CSP International Fashion Group S.p.A.
+FRE.MI,Frendy Energy S.p.A.
+SOGES.MI,Soges Group S.p.A.
+POPR.MI,Poligrafici Printing S.p.A.
+GML.MI,G.M. Leather S.p.A.
+GCOM.MI,Giglio.com S.p.A.
+SMN.MI,Simone S.p.A.
+TB.MI,Triboo S.p.A.
+TCM.MI,Tecma Solutions S.p.A.
+COP.MI,Copernico Sim S.p.A.
+AUTME.MI,Autostrade Meridionali S.p.A.
+CLF.MI,Caleffi S.p.A.
+CFV.MI,Confinvest F.L. S.p.A.
+ELG.MI,Eligo S.p.A.
+BIRO.MI,Estrima S.p.A.
+ESIGM.MI,ESI S.p.A.
+DIT.MI,Destination Italia S.p.A.
+ART.MI,Deodato.Gallery S.p.A.
+CLABO.MI,Clabo S.p.A.
+CBB.MI,CleanBnB S.p.A.
+ERFO.MI,Laboratorio Farmaceutico Erfo S.p.A.
+PAG.MI,Porto Aviation Group S.p.A.
+MPT.MI,Impianti S.P.A.
+ABTG.MI,Alfio Bardolla Training Group S.p.A.
+EXEC.MI,Execus S.p.A.
+FFF.MI,Finance For Food S.p.A.
+SAC.MI,Saccheria F.lli Franceschetti S.p.A.
+NSP.MI,Neosperience S.p.A.
+1PGN.MI,paragon GmbH & Co. KGaA
+RAD.MI,Radici Pietro Industries & Brands S.p.A.
+U24.MI,UCapital24 S.p.A.
+VLC.MI,Valica S.p.A.
+GG.MI,Giglio Group S.p.A.
+XHS.MI,Xenia Hôtellerie Solution S.p.A. Società Benefit
+LON.MI,Longino & Cardenal S.p.A.
+GIS.MI,Gismondi 1754 S.p.A.
+AGAIN.MI,Cloudia Research S.p.A.
+VNE.MI,VNE S.p.A.
+PRM.MI,Prismi S.p.A.
+SCM.MI,Solutions Capital Management SIM S.p.A.
+SGC.MI,SG Company S.p.A.
+MET.MI,Met.Extra Group S.p.A.
+MTV.MI,Mondo TV S.p.A.
+SOS.MI,Sostravel.com S.p.A.
+SEIF.MI,Società Editoriale Il Fatto S.p.A.
+POR.MI,Portobello S.p.A.
+ENT.MI,Enertronica Santerno S.p.A.
+HQF.MI,High Quality Food S.p.A.
+TNX.MI,Tenax International S.p.A.
+LTX.MI,Litix S.p.A.
+AGU.MI,Arras Group S.p.A.
+OSA.MI,OSAI Automation System S.p.A.
+AAT.MI,AATECH S.p.A. Società Benefit
+ELSA.MI,ELSA Solutions S.p.A.
+RMT.MI,Riba Mundo Tecnología S.A.
+FTC.MI,Finanza.tech S.p.A.
+AEDES.MI,Aedes Spa
+DOT.MI,Dotstay S.P.A
+MNL.MI,Monnalisa S.p.A.
+MTS.MI,MiT Sim S.p.A.
+YKY.MI,Yakkyo S.p.A.
+AIM.MI,4AIM SICAF S.p.A.
+ENA.MI,ENA S.p.A.
+ICC.MI,International Care Company S.p.A.
+PRE.MI,Predict S.p.A.
+AGA.MI,Agatos S.p.A.
+BWZ.MI,Beewize S.p.A.
+GAMB.MI,Gambero Rosso S.p.A.
+EPRB.MI,Eprcomunicazione S.p.A.
+RKT.MI,Rocket Sharing Company S.p.A.
+TIME.MI,Compagnia dei Caraibi S.p.A.
+VVG.MI,Vivenda Group S.p.A.
+CGF.MI,Cogefeed S.p.A.
+PFI.MI,Premia Finance S.p.A.
+ALFO.MI,Alfonsino S.p.A.
+TLS.MI,Telesia S.p.A.
+FDA.MI,Fidia S.p.A.
+AMB.MI,Ambromobiliare S.p.A.
+EGN.MI,Egomnia S.p.A.
+EEMS.MI,EEMS Italia SpA
+TMP.MI,TMP Group S.p.A.
+NTW.MI,Netweek S.p.A.
+CFM.MI,CrowdFundMe S.p.A.
+MTVFR.MI,Mondo TV France Société Anonyme
+TD.MI,TrenDevice S.p.A.
+MEV.MI,Mevim S.p.A.
+ILLA.MI,Illa S.p.A.
+EPH.MI,E.P.H. S.p.A.
+BES.MI,Bestbe Holding S.p.A.
+GT.MI,GT Talent Group S.p.A.
+INT.MI,Intermonte Partners SIM S.p.A.

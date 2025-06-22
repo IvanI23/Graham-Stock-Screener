@@ -1,0 +1,232 @@
+Ticker,Company
+LLY.SW,Eli Lilly and Company
+KO.SW,The Coca-Cola Company
+PMI.SW,Philip Morris International Inc.
+NESN.SW,Nestlé S.A.
+RO.SW,Roche Holding AG
+ROG.SW,Roche Holding AG
+ABT.SW,Abbott Laboratories
+NOVN.SW,Novartis AG
+T.SW,AT&T Inc.
+PEP.SW,"PepsiCo, Inc."
+CFR.SW,Compagnie Financière Richemont SA
+ABBN.SW,ABB Ltd
+ZURN.SW,Zurich Insurance Group AG
+UBSG.SW,UBS Group AG
+MMM.SW,3M Company
+EMR.SW,Emerson Electric Co.
+HOLN.SW,Holcim AG
+GOB.SW,Compagnie de Saint-Gobain S.A.
+SREN.SW,Swiss Re AG
+LONN.SW,Lonza Group AG
+GIVN.SW,Givaudan SA
+ALC.SW,Alcon Inc.
+SIKA.SW,Sika AG
+LISN.SW,Chocoladefabriken Lindt & Sprüngli AG
+LISP.SW,Chocoladefabriken Lindt & Sprüngli AG
+SCHN.SW,Schindler Holding AG
+SCHP.SW,Schindler Holding AG
+SCMN.SW,Swisscom AG
+GALD.SW,Galderma Group AG
+PGHN.SW,Partners Group Holding AG
+AAM.SW,Anglo American plc
+SLHN.SW,Swiss Life Holding AG
+KNIN.SW,Kuehne + Nagel International AG
+GEBN.SW,Geberit AG
+SDZ.SW,Sandoz Group AG
+STMN.SW,Straumann Holding AG
+SGSN.SW,SGS SA
+SOON.SW,Sonova Holding AG
+ZBH.SW,"Zimmer Biomet Holdings, Inc."
+EMSN.SW,EMS-CHEMIE HOLDING AG
+BAER.SW,Julius Bär Gruppe AG
+LOGN.SW,Logitech International S.A.
+VACN.SW,VAT Group AG
+BEAN.SW,BELIMO Holding AG
+HELN.SW,Helvetia Holding AG
+SPSN.SW,Swiss Prime Site AG
+BKW.SW,BKW AG
+BALN.SW,Baloise Holding AG
+BNR.SW,Brenntag SE
+BCVN.SW,Banque Cantonale Vaudoise
+UHR.SW,The Swatch Group AG
+UHRN.SW,The Swatch Group AG
+FHZN.SW,Flughafen Zürich AG
+PSPN.SW,PSP Swiss Property AG
+VZN.SW,VZ Holding AG
+SQN.SW,Swissquote Group Holding Ltd
+O2D.SW,Telefónica Deutschland Holding AG
+AVOL.SW,Avolta AG
+SIGN.SW,SIG Group AG
+YPSN.SW,Ypsomed Holding AG
+ACLN.SW,Accelleron Industries AG
+GF.SW,Georg Fischer AG
+SUN.SW,Sulzer Ltd
+BARN.SW,Barry Callebaut AG
+SCR.SW,SCOR SE
+OSR.SW,OSRAM Licht AG
+GRKP.SW,Graubündner Kantonalbank
+BANB.SW,Bachem Holding AG
+GALE.SW,Galenica AG
+EMMN.SW,Emmi AG
+SFSN.SW,SFS Group AG
+EFGN.SW,EFG International AG
+SFZN.SW,Siegfried Holding AG
+TEMN.SW,Temenos AG
+DESN.SW,Dottikon ES Holding AG
+BUCN.SW,Bucher Industries AG
+DKSH.SW,DKSH Holding AG
+ADEN.SW,Adecco Group AG
+LUKN.SW,Luzerner Kantonalbank AG
+VONN.SW,Vontobel Holding AG
+ALSN.SW,ALSO Holding AG
+ALLN.SW,Allreal Holding AG
+BSKP.SW,Basler Kantonalbank
+TKBP.SW,Thurgauer Kantonalbank
+DOKA.SW,dormakaba Holding AG
+CMBN.SW,Cembra Money Bank AG
+SGKN.SW,St. Galler Kantonalbank AG
+CLN.SW,Clariant AG
+MOVE.SW,Medacta Group SA
+RKET.SW,Rocket Internet SE
+LLBN.SW,Liechtensteinische Landesbank Aktiengesellschaft
+IFCN.SW,INFICON Holding AG
+ZUGER.SW,Zuger Kantonalbank
+GT.SW,The Goodyear Tire & Rubber Company
+MOBN.SW,Mobimo Holding AG
+BEKN.SW,Berner Kantonalbank AG
+BCHN.SW,Burckhardt Compression Holding AG
+TXGN.SW,TX Group AG
+TECN.SW,Tecan Group AG
+DAE.SW,Dätwyler Holding AG
+ARYN.SW,ARYZTA AG
+BLKB.SW,Basellandschaftliche Kantonalbank
+KARN.SW,Kardex Holding AG
+WKBN.SW,Walliser Kantonalbank
+SRAIL.SW,Stadler Rail AG
+VATN.SW,Valiant Holding AG
+COTN.SW,Comet Holding AG
+VAHN.SW,Vaudoise Assurances Holding SA
+BCGE.SW,Banque Cantonale de Genève SA
+CFT.SW,Compagnie Financière Tradition SA
+BELL.SW,Bell Food Group AG
+IREN.SW,Investis Holding SA
+SKAN.SW,SKAN Group AG
+HUBN.SW,Huber+Suhner AG
+LAND.SW,Landis+Gyr Group AG
+INRN.SW,Interroll Holding AG
+GXI.SW,Gerresheimer AG
+BOSN.SW,Bossard Holding AG
+BRKN.SW,Burkhalter Holding AG
+AERO.SW,Montana Aerospace AG
+ISN.SW,Intershop Holding AG
+SWON.SW,SoftwareOne Holding AG
+SENS.SW,Sensirion Holding AG
+FORN.SW,Forbo Holding AG
+OERL.SW,OC Oerlikon Corporation AG
+HIAG.SW,HIAG Immobilien Holding AG
+JFN.SW,Jungfraubahn Holding AG
+AEVS.SW,Aevis Victoria SA
+REHN.SW,Romande Energie Holding SA
+ZUGN.SW,Zug Estates Holding AG
+CHAM.SW,Cham Swiss Properties AG
+RSGN.SW,R&S Group Holding AG
+KURN.SW,Kuros Biosciences AG
+IMPN.SW,Implenia AG
+NEAG.SW,naturenergie holding AG
+MED.SW,Medartis Holding AG
+COPN.SW,Cosmo Pharmaceuticals N.V.
+LEHN.SW,LEM Holding SA
+EPIC.SW,EPIC Suisse AG
+AUTN.SW,Autoneum Holding AG
+PLAN.SW,Plazza AG
+AMS.SW,ams-OSRAM AG
+BYS.SW,Bystronic AG
+ZEHN.SW,Zehnder Group AG
+UBXN.SW,u-blox Holding AG
+APGN.SW,APG|SGA SA
+PPGN.SW,PolyPeptide Group AG
+VETN.SW,Vetropack Holding AG
+WARN.SW,Warteck Invest AG
+CICN.SW,Cicor Technologies Ltd.
+BSLN.SW,Basilea Pharmaceutica AG
+TMO.SW,TomTom N.V.
+SWTQ.SW,Schweiter Technologies AG
+FREN.SW,Fundamenta Real Estate AG
+MEDX.SW,medmix AG
+KOMN.SW,Komax Holding AG
+PKTM.SW,PIERER Mobility AG
+VPBN.SW,VP Bank AG
+MOZN.SW,mobilezone holding ag
+METN.SW,Metall Zug AG
+VZUG.SW,V-ZUG Holding AG
+MTG.SW,Meier Tobler Group AG
+CPHN.SW,CPH Group AG
+PMN.SW,Phoenix Mecano AG
+PMNE.SW,Phoenix Mecano AG
+CLTN.SW,COLTENE Holding AG
+IDIA.SW,Idorsia Ltd
+NREN.SW,Novavest Real Estate AG
+ARBN.SW,Arbonia AG
+SNBN.SW,Schweizerische Nationalbank
+PEAN.SW,Peach Property Group AG
+VBSN.SW,IVF Hartmann Holding AG
+EPH.SW,EPH European Property Holdings PLC
+SFPN.SW,SF Urban Properties AG
+RIEN.SW,Rieter Holding AG
+LEON.SW,Leonteq AG
+DOCM.SW,DocMorris AG
+HBLN.SW,Hypothekarbank Lenzburg AG
+GLKBN.SW,Glarner Kantonalbank
+MIKN.SW,Mikron Holding AG
+AFP.SW,Aluflexpack AG
+ELMN.SW,Elma Electronic AG
+LECN.SW,Leclanché SA
+BVZN.SW,BVZ Holding AG
+OFN.SW,Orell Füssli AG
+VARN.SW,Varia US Properties AG
+BTC.SW,Bitcoin Group SE
+FTON.SW,Feintool International Holding AG
+STGN.SW,StarragTornos Group AG
+BCJ.SW,Banque Cantonale du Jura SA
+LMN.SW,lastminute.com N.V.
+SANN.SW,Santhera Pharmaceuticals Holding AG
+GAV.SW,Carlo Gavazzi Holding AG
+NWRN.SW,Newron Pharmaceuticals S.p.A.
+TIBN.SW,Bergbahnen Engelberg-Trübsee-Titlis AG
+ZUBN.SW,Züblin Immobilien Holding AG
+ASCN.SW,Ascom Holding AG
+CALN.SW,CALIDA Holding AG
+MCHN.SW,MCH Group AG
+XLS.SW,Xlife Sciences AG
+KLIN.SW,Klingelnberg AG
+GAM.SW,GAM Holding AG
+MOLN.SW,Molecular Partners AG
+HLEE.SW,Highlight Event and Entertainment AG
+BBN.SW,Bellevue Group AG
+ORON.SW,ORIOR AG
+GURN.SW,Gurit Holding AG
+KUD.SW,Kudelski SA
+GMI.SW,Groupe Minoteries SA
+VILN.SW,Villars Holding S.A.
+ALPN.SW,Alpine Select AG
+ESUN.SW,Edisun Power Europe AG
+NBEN.SW,nebag ag
+CURN.SW,Curatis Holding AG
+YTME.SW,Youngtimers AG
+ADVN.SW,Adval Tech Holding AG
+WIHN.SW,WISeKey International Holding AG
+VLRT.SW,Valartis Group AG
+SHLTN.SW,SHL Telemedicine Ltd.
+RLF.SW,Relief Therapeutics Holding SA
+STRN.SW,Schlatter Industries AG
+MBTN.SW,Meyer Burger Technology AG
+ASWN.SW,Asmallworld AG
+ZWM.SW,Zwahlen & Mayr SA
+EVE.SW,Evolva Holding SA
+PEDU.SW,Perrot Duval Holding S.A.
+ADXN.SW,Addex Therapeutics Ltd
+AIRE.SW,Airesis SA
+HT5.SW,HT5 AG
+EEII.SW,EEII AG
+CIE.SW,Compagnie Internationale pour la Communication

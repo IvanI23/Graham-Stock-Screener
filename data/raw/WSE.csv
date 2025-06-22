@@ -1,0 +1,719 @@
+Ticker,Company
+MSFT.WA,Microsoft Corporation
+NVDA.WA,NVIDIA Corporation
+AAPL.WA,Apple Inc.
+AMZN.WA,"Amazon.com, Inc."
+GOGL.WA,Alphabet Inc.
+META.WA,"Meta Platforms, Inc."
+TSLA.WA,"Tesla, Inc."
+JPM.WA,JPMorgan Chase & Co.
+VISA.WA,Visa Inc.
+NFLX.WA,"Netflix, Inc."
+SAP.WA,SAP SE
+ASML.WA,ASML Holding N.V.
+AMD.WA,"Advanced Micro Devices, Inc."
+ITX.WA,"Industria de Diseño Textil, S.A."
+ALV.WA,Allianz SE
+SAN.WA,"Banco Santander, S.A."
+UCG.WA,UniCredit S.p.A.
+MBG.WA,Mercedes-Benz Group AG
+BMW.WA,Bayerische Motoren Werke Aktiengesellschaft
+BAY.WA,Bayer Aktiengesellschaft
+CEZ.WA,"CEZ, a. s."
+RWE.WA,RWE Aktiengesellschaft
+PKN.WA,Orlen S.A.
+PKO.WA,Powszechna Kasa Oszczednosci Bank Polski Spólka Akcyjna
+JMT.WA,"Jerónimo Martins, SGPS, S.A."
+PZU.WA,Powszechny Zaklad Ubezpieczen SA
+DNP.WA,Dino Polska S.A.
+SPL.WA,Santander Bank Polska S.A.
+PEO.WA,Bank Polska Kasa Opieki S.A.
+ING.WA,ING Bank Slaski S.A.
+ALE.WA,Allegro.eu S.A.
+MBK.WA,mBank S.A.
+ZAL.WA,Zalando SE
+CDR.WA,CD Projekt S.A.
+LPP.WA,LPP SA
+KRK.WA,"Krka, d. d."
+KGH.WA,KGHM Polska Miedz S.A.
+PGE.WA,PGE Polska Grupa Energetyczna S.A.
+ZAB.WA,Zabka Group S.A.
+MOL.WA,MOL Magyar Olaj- és Gázipari Nyilvánosan Muködo Részvénytársaság
+MIL.WA,Bank Millennium S.A.
+BHW.WA,Bank Handlowy w Warszawie S.A.
+BNP.WA,BNP Paribas Bank Polska S.A.
+TPE.WA,TAURON Polska Energia S.A.
+BDX.WA,Budimex SA
+CCC.WA,CCC S.A.
+ALR.WA,Alior Bank S.A.
+ACP.WA,Asseco Poland S.A.
+OPL.WA,Orange Polska S.A.
+PCO.WA,Pepco Group N.V.
+CPI.WA,CPI Europe AG
+ENA.WA,ENEA S.A.
+BFT.WA,Benefit Systems S.A.
+CPS.WA,Cyfrowy Polsat S.A.
+XTB.WA,XTB S.A.
+KTY.WA,Grupa Kety S.A.
+CAR.WA,Inter Cars S.A.
+KRU.WA,KRUK Spólka Akcyjna
+DOM.WA,Dom Development S.A.
+OPG.WA,CPI FIM SA
+DIA.WA,Diagnostyka S.A.
+ENG.WA,Energa SA
+PEP.WA,Polenergia S.A.
+KER.WA,Kernel Holding S.A.
+GPP.WA,Grupa Pracuj S.A.
+ASE.WA,Asseco South Eastern Europe S.A.
+EAT.WA,AmRest Holdings SE
+DVL.WA,Develia S.A.
+NWG.WA,Newag S.A.
+NEU.WA,NEUCA S.A.
+1AT.WA,Atal S.A.
+ABS.WA,Asseco Business Solutions S.A.
+ARH.WA,Archicom S.A.
+APR.WA,Auto Partner SA
+VRC.WA,Vercom S.A.
+JSW.WA,Jastrzebska Spólka Weglowa S.A.
+SPH.WA,Sopharma AD
+GTC.WA,Globe Trade Centre S.A.
+SGN.WA,Sygnity S.A.
+CBF.WA,Cyber_Folks S.A.
+WPL.WA,Wirtualna Polska Holding S.A.
+ATT.WA,Grupa Azoty S.A.
+GPW.WA,Gielda Papierów Wartosciowych w Warszawie S.A.
+PLW.WA,PlayWay S.A.
+MLG.WA,MLP Group S.A.
+ECH.WA,Echo Investment S.A.
+RBW.WA,Rainbow Tours S.A.
+SNT.WA,Synektik Spólka Akcyjna
+ABE.WA,AB S.A.
+VOX.WA,Voxel S.A.
+MUR.WA,Murapol S.A.
+MBW.WA,Marie Brizard Wine & Spirits SA
+ZEP.WA,ZE PAK SA
+AST.WA,Astarta Holding PLC
+GEA.WA,Grenevia S.A.
+MRB.WA,Mirbud S.A.
+SHO.WA,Shoper S.A.
+TXT.WA,Text S.A.
+BRS.WA,Boryszew S.A.
+PCR.WA,PCC Rokita SA
+TAR.WA,Tarczynski S.A.
+LBW.WA,Lubawa S.A.
+MCI.WA,MCI Capital Alternatywna Spólka Inwestycyjna S.A.
+STP.WA,Stalprodukt S.A.
+MNC.WA,Mennica Polska S.A.
+COG.WA,Cognor Holding S.A.
+TMR.WA,"Tatry mountain resorts, a.s."
+PXM.WA,Polimex-Mostostal S.A.
+ASB.WA,ASBISc Enterprises Plc
+UNT.WA,Unimot S.A.
+CLN.WA,Celon Pharma S.A.
+DBC.WA,Tire Company Debica S.A.
+PCE.WA,Grupa Azoty Zaklady Chemiczne Police S.A.
+EUR.WA,Eurocash S.A.
+EHG.WA,Eurohold Bulgaria AD
+SKA.WA,Fabryka Farb i Lakierów Sniezka SA
+OPN.WA,Oponeo.pl S.A.
+HUG.WA,"Huuuge, Inc."
+CMP.WA,Comp S.A.
+TRK.WA,Trakcja S.A.
+ENT.WA,Enter Air S.A.
+IMC.WA,IMC S.A.
+ZAP.WA,Zaklady Azotowe Pulawy S.A.
+MBR.WA,Mo-BRUK S.A.
+BOS.WA,Bank Ochrony Srodowiska S.A.
+WWL.WA,Wawel S.A.
+TOR.WA,Torpol S.A.
+KGN.WA,Zespól Elektrocieplowni Wroclawskich KOGENERACJA S.A.
+VRG.WA,VRG S.A.
+SEL.WA,Selena FM S.A.
+DCR.WA,Decora S.A.
+LWB.WA,Lubelski Wegiel Bogdanka S.A.
+ATC.WA,Arctic Paper S.A.
+FRO.WA,FERRO S.A.
+STX.WA,Stalexport Autostrady S.A.
+PKP.WA,Pkp Cargo S.A.
+GOB.WA,Gobarto S.A.
+RVU.WA,Ryvu Therapeutics S.A.
+CRI.WA,Creotech Instruments S.A.
+SPR.WA,Spyrosoft Spólka Akcyjna
+FTE.WA,Fabryki Mebli FORTE S.A.
+OBL.WA,Orzel Bialy S.A.
+DAT.WA,DataWalk S.A.
+TOA.WA,TOYA S.A.
+BST.WA,BEST S.A.
+APT.WA,Apator S.A.
+BLO.WA,Bloober Team SA
+SNK.WA,Sanok Rubber Company Spólka Akcyjna
+ENE.WA,Centrum Medyczne ENEL-MED S.A.
+QRS.WA,Quercus TFI S.A.
+TEN.WA,Ten Square Games S.A.
+VOT.WA,Votum S.A.
+PHN.WA,Polski Holding Nieruchomosci S.A.
+11B.WA,11 bit studios S.A.
+AMB.WA,Ambra S.A.
+BCX.WA,Bioceltix S.A.
+SWM.WA,Software Mansion S.A.
+RWL.WA,Rawlplug S.A.
+OND.WA,Onde S.A.
+SLV.WA,Selvita S.A.
+ANR.WA,Answear.com S.A.
+DEK.WA,Dekpol S.A.
+CLC.WA,Columbus Energy S.A.
+GRX.WA,GreenX Metals Limited
+EMC.WA,EMC Instytut Medyczny SA
+MGT.WA,Mangata Holding S.A.
+CFI.WA,CFI Holding S.A.
+PCX.WA,PCC Exol S.A.
+PBX.WA,Pekabex S.A.
+ELT.WA,Elektrotim S.A.
+VGO.WA,VIGO Photonics S.A.
+RAF.WA,Fabryka Obrabiarek RAFAMET S.A.
+DAD.WA,Dadelo S.A.
+AMC.WA,Amica S.A.
+MSZ.WA,Mostostal Zabrze S.A.
+AGO.WA,Agora S.A.
+MRC.WA,Mercator Medical S.A.
+CIG.WA,CI Games SE
+CAV.WA,Cavatina Holding Spólka Akcyjna
+ERB.WA,Erbud S.A.
+GIG.WA,Gi Group Poland S.A.
+SCP.WA,Scope Fluidics S.A.
+LKD.WA,Lokum Deweloper S.A.
+MCR.WA,Mercor S.A.
+FFP.WA,Farmy Fotowoltaiki Polska S.A.
+WLT.WA,Wielton S.A.
+BIO.WA,BIOTON S.A.
+UNI.WA,UNIBEP S.A.
+KPL.WA,Kino Polska TV Spolka Akcyjna
+SVE.WA,Synthaverse S.A.
+ATR.WA,Atrem S.A.
+WTN.WA,Wittchen S.A.
+DMG.WA,Dr. Miele Cosmed Group S.A.
+DIG.WA,Digital Network SA
+MVP.WA,Marvipol Development S.A.
+ATG.WA,ATM Grupa S.A.
+ACT.WA,Action S.A.
+ULM.WA,ULMA Construccion Polska S.A.
+CRJ.WA,Creepy Jar S.A.
+ELQ.WA,ELQ S.A.
+PMG.WA,Polska Grupa Militarna Spólka Akcyjna
+INK.WA,Instal Kraków S.A.
+INP.WA,Inpro S.A.
+HPE.WA,hiPower Energy SA
+ACG.WA,AC Spólka Akcyjna
+MDG.WA,Medicalgorithmics S.A.
+EQU.WA,Equnico SE
+SWG.WA,Seco/Warwick S.A.
+PCF.WA,PCF Group Spólka Akcyjna
+MFO.WA,MFO S.A.
+LTX.WA,Lentex S.A.
+NVT.WA,Novita S.A.
+CDA.WA,CDA S.A.
+ALL.WA,Ailleron S.A.
+JRH.WA,JR Holding ASI S.A.
+XPL.WA,Xplus S.A.
+GKI.WA,Grupa Kapitalowa IMMOBILE S.A.
+KRI.WA,Kredyt Inkaso S.A.
+XTP.WA,XTPL S.A.
+SON.WA,Sonel S.A.
+MAK.WA,Makarony Polskie S.A.
+APN.WA,Aplisens S.A.
+CLD.WA,Cloud Technologies S.A.
+SFG.WA,AS Silvano Fashion Group
+CTS.WA,City Service SE
+ZUE.WA,ZUE S.A.
+OTS.WA,OT Logistics S.A.
+PEN.WA,Photon Energy N.V.
+SKH.WA,Skarbiec Holding S.A.
+CTX.WA,Captor Therapeutics Spolka Akcyjna
+ODL.WA,Odlewnie Polskie S.A.
+AQU.WA,Aqua Spólka Akcyjna
+ART.WA,Artifex Mundi S.A.
+INL.WA,Introl S.A.
+SFD.WA,SFD S.A.
+HUB.WA,Hub.Tech SA
+WAS.WA,Wasko S.A.
+KLE.WA,Grupa Klepsydra S.A.
+IFI.WA,Ifirma SA
+GRN.WA,Grodno Spólka Akcyjna
+SNX.WA,Sunex S.A.
+PTG.WA,Poltreg S.A.
+MSW.WA,Mostostal Warszawa S.A.
+MAB.WA,Mabion S.A.
+NCL.WA,NOCTILUCA SPÓLKA AKCYJNA
+OTM.WA,Zaklady Przemyslu Cukierniczego Otmuchów S.A.
+NVA.WA,P.A. Nova S.A.
+STF.WA,Stalprofil S.A.
+GTN.WA,Getin Holding S.A.
+HPM.WA,HiProMine S.A.
+RPC.WA,Zaklady Magnezytowe ROPCZYCE S.A.
+IMS.WA,IMS S.A.
+RNK.WA,Rank Progress S.A.
+NTT.WA,NTT System S.A.
+SLT.WA,Saule Technologies S.A.
+WIK.WA,Wikana S.A.
+YAN.WA,Neptis Spólka Akcyjna
+WXF.WA,Warimpex Finanz- und Beteiligungs AG
+ATA.WA,ATC CARGO S.A.
+PAC.WA,Proacta S.A.
+VIN.WA,Gielda Praw Majatkowych Vindexus Spolka Akcyjna
+MON.WA,Monnari Trade S.A.
+RND.WA,Render Cube S.A.
+B24.WA,Brand 24 S.A.
+MOC.WA,Molecure S.A.
+EEE.WA,Beskidzkie Biuro Inwestycyjne S.A.
+KVT.WA,Krynica Vitamin S.A.
+ATD.WA,Atende S.A.
+BMC.WA,Bumech S.A.
+HEL.WA,Helio S.A.
+SDG.WA,Sundragon S.A.
+PAT.WA,Patentus S.A.
+PTW.WA,Polskie Towarzystwo Wspierania Przedsiebiorczosci S.A.
+4MS.WA,4MASS Spólka Akcyjna
+FEE.WA,Feerum S.A.
+MLS.WA,ML System S.A.
+PRA.WA,Prime Alternatywna Spolka Inwestycyjna Spolka Akcyjna
+KMP.WA,Przedsiebiorstwo Produkcyjno - Handlowe KOMPAP S.A.
+PRH.WA,Red Dev Studio S.A.
+ATP.WA,Atlanta Poland S.A.
+SCW.WA,Scanway S.A.
+GRC.WA,Grupa RECYKL S.A.
+FOR.WA,Forever Entertainment S.A.
+KGL.WA,KGL SA
+SVRS.WA,"Silvair, Inc."
+GMT.WA,Genomtec S.A.
+ZRE.WA,Zaklad Budowy Maszyn ZREMB - Chojnice S.A.
+AGT.WA,Agroton Public Limited
+PJP.WA,PJP Makrum S.A.
+NXB.WA,Nextbike Polska S.A.
+APE.WA,APS Energia SA
+ECK.WA,Eurosnack S.A.
+HEN.WA,HyEnergy S.A.
+ECB.WA,ECB S.A.
+BBT.WA,BoomBit S.A.
+QNA.WA,QNA Technology S.A.
+IPE.WA,IPOPEMA Securities S.A.
+ZMT.WA,Zamet S.A.
+IUS.WA,Internet Union S.A.
+PMP.WA,Pamapol S.A.
+XBS.WA,XBS PRO-LOG S.A.
+NNG.WA,NanoGroup S.A.
+EPR.WA,Ekopark S.A.
+ALI.WA,Altus S.A.
+GOP.WA,Games Operators S.A.
+IZS.WA,Izostal S.A.
+ADX.WA,Adatex S.A.
+RNC.WA,REINO Capital S.A.
+HOR.WA,Hortico S.A.
+GAR.WA,Garin S.A.
+PWX.WA,Polwax S.A.
+PRO.WA,A.P.N. Promise S.A.
+TRR.WA,Termo-Rex S.A.
+PAS.WA,Passus S.A.
+BOW.WA,Bowim S.A.
+CLE.WA,Coal Energy S.A.
+DEL.WA,Delko S.A.
+ETL.WA,Eurotel S.A.
+PPS.WA,Pepees S.A.
+URT.WA,Urteste S.A.
+S4E.WA,S4E S.A.
+FON.WA,FON SE
+LSI.WA,LSI Software S.A.
+TRN.WA,Trans Polonia S.A.
+LEN.WA,Lena Lighting S.A.
+FHD.WA,Fundusz Hipoteczny DOM S.A.
+ALG.WA,All in! Games S.A.
+OML.WA,One More Level S.A.
+YTF.WA,YetiForce SA
+EAH.WA,ESOTIQ & Henderson S.A.
+PGV.WA,PGF Polska Grupa Fotowoltaiczna SA
+BLT.WA,Balticon S.A.
+3RG.WA,3R Games S.A.
+BGD.WA,Biogened S.A.
+FAB.WA,Fabrity S.A.
+LBT.WA,Libet S.A.
+LEG.WA,Legimi S.A.
+TLX.WA,Talex S.A.
+GME.WA,Gremi Media S.A.
+EBX.WA,Ekobox S.A.
+ONO.WA,onesano S.A.
+MO2.WA,Moliera2 S.A.
+COS.WA,Cosma S.A.
+KOM.WA,Komputronik S.A.
+CDL.WA,CDRL S.A.
+LET.WA,Letus Capital S.A.
+MLK.WA,MLK Foods Public Company LTD
+KCI.WA,KCI Spolka Akcyjna
+YOS.WA,Yoshi Innovation S.A.
+ICE.WA,Medinice S.A.
+LAB.WA,Labo Print S.A.
+INT.WA,Internity S.A.
+MNS.WA,Mennica Skarbowa S.A.
+BMX.WA,BioMaxima S.A.
+ULG.WA,Ultimate Games S.A.
+CSR.WA,Caspar Asset Management S.A.
+EDI.WA,ED Invest Spólka Akcyjna
+BCS.WA,Big Cheese Studio Spolka Akcyjna
+BIP.WA,Bio Planet S.A.
+SEK.WA,Seko S.A.
+FRB.WA,Forbuild SA
+RDG.WA,Read-Gene S.A.
+AME.WA,Advanced Medical Equipment Spolka Akcyjna
+BBD.WA,BBI Development S.A.
+ENP.WA,Energoaparatura SA
+MDI.WA,MDI Energia S.A.
+YRL.WA,yarrl S.A.
+TOS.WA,Tamex Obiekty Sportowe S.A.
+PRS.WA,Prymus S.A.
+HDR.WA,Przedsiebiorstwo Hydrauliki Silowej HYDROTOR S.A.
+NVG.WA,Novavis Group S.A.
+ORG.WA,ORGANIC Farma Zdrowia S.A.
+RLP.WA,Relpol S.A.
+RSP.WA,Remor Solar Polska S.A.
+DGN.WA,DG-Net S.A.
+CAP.WA,Capitea S.A.
+KBJ.WA,KBJ S.A.
+PLI.WA,Platige Image S.A.
+CPR.WA,Compremum S.A.
+GIF.WA,Gaming Factory S.A.
+FRW.WA,Frozen Way Spolka Akcyjna
+PRM.WA,Prochem S.A.
+KSG.WA,KSG Agro S.A.
+MZA.WA,Muza S.A.
+EON.WA,eo Networks S.A.
+DBE.WA,DB Energy S.A.
+TLS.WA,Telestrada SA
+LBD.WA,Lokaty Budowlane S.A.
+KPD.WA,Koszalinskie Przedsiebiorstwo Przemyslu Drzewnego Spólka Akcyjna
+IPO.WA,Intersport Polska S.A.
+APS.WA,Automatyka-Pomiary-Sterowanie S.A.
+SYG.WA,Sygnis SA
+CRM.WA,PZ Cormay S.A.
+KOR.WA,Korbank S.A.
+QRT.WA,Quart Development S.A.
+ICD.WA,Intercapital Property Development ADSIC
+MIR.WA,Miraculum S.A.
+MOV.WA,Movie Games S.A.
+CFS.WA,Centrum Finansowe S.A.
+RCA.WA,Rocca S.A.
+RMK.WA,Remak-Energomontaz S.A.
+MDA.WA,MedApp S.A.
+PRT.WA,Protektor S.A.
+HRP.WA,Harper Hygienics S.A.
+ENI.WA,Energoinstal S.A.
+FMG.WA,Wise Energy S.A.
+IDH.WA,IDH Development S.A.
+XDD.WA,Mentzen S.A.
+WOD.WA,WODKAN Przedsiebiorstwo Wodociagów i Kanalizacji S.A.
+F51.WA,The Farm 51 Group Spólka Akcyjna
+CAI.WA,Carlson Investments SE
+FSG.WA,Fabryki Sprzetu i Narzedzi Górniczych Grupa Kapitalowa FASING S.A.
+SNN.WA,Sunway Network S.A.
+PHR.WA,Pharmena S.A.
+ORL.WA,Orzel Spolka Akcyjna
+SKL.WA,Skyline Investment S.A.
+INM.WA,InventionMed S.A.
+HRS.WA,Herkules S.A.
+SOK.WA,SONKA S.A.
+IZB.WA,IZOBLOK S.A.
+06N.WA,Magna Polonia S.A.
+ERG.WA,ERG Spólka Akcyjna
+SUN.WA,Suntech S.A.
+NTU.WA,Novaturas AB
+AGL.WA,Agroliga Group Plc
+UNF.WA,Unfold.vc ASI S.A.
+NWA.WA,NWAI Dom Maklerski S.A.
+GEN.WA,Genomed Spólka Akcyjna
+QNT.WA,Quantum software S.A.
+VLT.WA,VOOLT Spólka Akcyjna
+BSN.WA,BrainScan Sp. z o. o.
+BPC.WA,Black Pearl S.A.
+AAT.WA,Alta S.A.
+GMV.WA,Gamivo S.A.
+TLO.WA,Telesto S.A.
+RFK.WA,Rafako S.A.
+LES.WA,Less S.A.
+OPI.WA,Optigis S.A.
+CZT.WA,Czerwona Torebka Spólka Akcyjna
+LUG.WA,LUG S.A.
+SHG.WA,Starhedge S.A.
+MLB.WA,MakoLab Spólka Akcyjna
+OPM.WA,OPTeam Spólka Akcyjna
+JWW.WA,JWW Invest S.A.
+CTF.WA,Centurion Finance ASI Spólka Akcyjna
+GRM.WA,Grempco Spólka Akcyjna
+KLN.WA,KLON Spólka Akcyjna
+MSP.WA,Mostostal Plock S.A.
+GTS.WA,Geotrans S.A.
+VVD.WA,Vivid Games S.A.
+IBS.WA,WISE Finance S.A.
+LUK.WA,Lukardi S.A.
+DTR.WA,Digitree Group S.A.
+RCW.WA,Ruch Chorzów S.A.
+ONC.WA,ONICO S.A.
+MPY.WA,mPay S.A.
+EXC.WA,Excellence S.A.
+CPD.WA,CPD S.A.
+IDM.WA,IDM Spólka Akcyjna
+TSG.WA,Tesgas S.A.
+INC.WA,INC S.A.
+MEX.WA,Mex Polska S.A.
+AOL.WA,Analizy Online S.A.
+INS.WA,Indos SA
+EFK.WA,Korporacja Gospodarcza efekt S.A.
+GHY.WA,Global Hydrogen S.A.
+SDS.WA,SDS Optic Spolka Akcyjna
+SED.WA,Sedivio S.A.
+AWM.WA,Airway Medix S.A.
+EUC.WA,Europejskie Centrum Odszkodowan S.A.
+SBE.WA,SoftBlue SA
+DGE.WA,DRAGO entertainment Spólka Akcyjna
+EKP.WA,Elkop Estonia SE
+VER.WA,MPL Verbum S.A.
+DIV.WA,di volio S.A.
+ITB.WA,Interbud-Lublin S.A.
+BAC.WA,B-act Spolka Akcyjna
+LHD.WA,Lichthund Spólka Akcyjna
+HMP.WA,Hemp & Health S.A.
+SEV.WA,Sevenet S.A.
+PUR.WA,Pure Biologics S.A.
+PGM.WA,PMPG Polskie Media SA
+LRQ.WA,Larq S.A.
+FEM.WA,Femion Technology S.A.
+ATS.WA,Atlantis SE
+NOV.WA,NOVINA pozyczkihipoteczne.eu S.A.
+HER.WA,Highlander Enterprise S.A.
+ICG.WA,Ice Code Games S.A.
+BEP.WA,Biomass Energy Project S.A.
+MAN.WA,ManyDev Studio SE
+VEE.WA,Vee S.A.
+RAE.WA,Raen S.A.
+ZUK.WA,"Zaklady Urzadzen Kotlowych ""Staporków"" S.A."
+SNW.WA,Sanwil Holding Spólka Akcyjna
+MDP.WA,Medcamp S.A.
+GX1.WA,genXone S.A.
+BSH.WA,Bridge Solutions Hub S.A.
+TRX.WA,TREX S.A.
+KPI.WA,Kancelaria Prawna-Inkaso WEC Spólka Akcyjna
+KUB.WA,Kubota Spolka Akcyjna
+JRC.WA,JRC Group S.A.
+MXC.WA,Maxcom S.A.
+TRI.WA,Triton Development S.A.
+BCM.WA,Betacom S.A.
+WPR.WA,Woodpecker.co S.A.
+TNT.WA,T&T Proenergy S.A.
+WHH.WA,Werth-Holz S.A.
+TME.WA,Termoexpert Spólka Akcyjna
+SFS.WA,Sfinks Polska S.A.
+MDB.WA,Medicofarma Biotech SA
+STA.WA,Starward Industries Spólka Akcyjna
+EXM.WA,e-Xim IT S.A.
+SIM.WA,SimFabric S.A.
+EKS.WA,e-Kiosk S.A.
+ERA.WA,Erato Energy S.A.
+T2P.WA,Termo2Power S.A.
+BSA.WA,Bras S.A.
+TCR.WA,Tech Robotics S.A.
+KME.WA,Kancelaria Medius S.A.
+DGA.WA,DGA Spólka Akcyjna
+NST.WA,Nestmedic S.A.
+O2T.WA,One2Tribe S.A.
+P2B.WA,Planet B2B S.A.
+CBD.WA,Cannabis Poland S.A.
+NXG.WA,Nexity Global S.A.
+PDG.WA,Pyramid Games S.A.
+MEG.WA,Megaron S.A.
+FVE.WA,Foto Volt Eko Energia S.A.
+LGT.WA,Logintrade S.A.
+IMG.WA,Immersion Games S.A.
+GMZ.WA,Grupa Modne Zakupy S.A.
+SIN.WA,Solar Innovation S.A.
+PLM.WA,Polman S.A.
+MTN.WA,Milton Essex Spólka Akcyjna
+SNG.WA,Synerga.Fund S.A.
+HPS.WA,Hydrapres S.A.
+CPL.WA,Comperia.pl S.A.
+MER.WA,Mera S.A.
+PLT.WA,Plot Twist SA
+MMS.WA,Madmind Studio Spólka Akcyjna
+PBG.WA,PBG S.A.
+PGG.WA,Proguns Group S.A.
+CMI.WA,CM International S.A.
+IVE.WA,Investeko S.A.
+RCM.WA,Red Carpet Media Group S.A.
+ARI.WA,Agencja Rozwoju Innowacji Spólka Akcyjna
+BHX.WA,Binary Helix Spólka Akcyjna
+IZO.WA,Izolacja Jarocin Spolka Akcyjna
+MOJ.WA,MOJ S.A.
+MLM.WA,Milisystem S.A.
+PIT.WA,Polaris IT Group S.A.
+AAS.WA,Arts Alliance S.A.
+GDC.WA,Gamedust S.A.
+PNT.WA,Pointpack S.A.
+THG.WA,TenderHut S.A.
+GHT.WA,Gamehunters Spolka Akcyjna
+OZE.WA,OZE Capital S.A.
+DNS.WA,Danks Europejskie Centrum Doradztwa Podatkowego S.A.
+RSG.WA,Red Square Games S.A.
+VKT.WA,Vakomtek S.A.
+EGH.WA,Ekopol Górnoslaski Holding S.A.
+MAD.WA,Madkom SA
+PRI.WA,Pragma Inkaso S.A.
+7FT.WA,7FIT S.A.
+RRH.WA,Roof Renovation S.A.
+GKS.WA,GKS GieKSa Katowice S.A.
+CRB.WA,Carbon Studio S.A.
+ADV.WA,Adiuvo Investments S.A.
+GRZ.WA,Green Zebras Spolka Akcyjna
+BEE.WA,beeIN S.A.
+CCS.WA,Cyfrowe Centrum Serwisowe Spólka Akcyjna
+STD.WA,Standrew S.A.
+VDS.WA,ViDiS S.A.
+MMC.WA,MM Conferences S.A.
+CCE.WA,Clean&Carbon Energy S.A.
+NTS.WA,Notoria Serwis S.A.
+SZR.WA,SZAR Spólka Akcyjna
+ETX.WA,Euro-Tax.pl S.A.
+TLG.WA,Przedsiebiorstwa Telekomunikacyjnego TELGAM S.A.
+WIS.WA,Baltic Bridge Spólka Akcyjna
+ABK.WA,Abak S.A.
+LTM.WA,Longterm Games S.A.
+AQA.WA,Aqua S.A.
+WGP.WA,W.G Partners S.A.
+VRF.WA,VR Factory Games S.A.
+AGP.WA,Agromep S.A.
+CTE.WA,CTE Group S.A.
+RHD.WA,Reinhold Europe AB (publ)
+ECL.WA,easyCALL.pl S.A.
+ECC.WA,ECC Games S.A.
+P2C.WA,Play2Chill S.A.
+QUB.WA,QubicGames S.A.
+JJB.WA,Jujubee S.A.
+IMP.WA,Imperio Alternatywna Spolka Inwestycyjna S.A.
+MSM.WA,Massmedica S.A.
+4MB.WA,4Mobility Spólka Akcyjna
+TGS.WA,True Games Syndicate S.A.
+SKN.WA,Sakana S.A.
+SCS.WA,Stem Cells Spin S.A.
+VAR.WA,VARSAV Game Studios S.A.
+BRO.WA,Browar Czarnków S.A.
+MLP.WA,Milkpol Spólka Akcyjna
+MUN.WA,Munar S.A.
+PRN.WA,Partner-Nieruchomosci S.A.
+VRB.WA,Verbicom S.A.
+CHP.WA,Cherrypick Games S.A.
+MWT.WA,M.W. Trade SA
+ECT.WA,Eco5Tech S.A.
+DKR.WA,Dektra SA
+ZRX.WA,Zortrax S.A.
+IVO.WA,Incuvo S.A.
+CLA.WA,Console Labs S.A.
+KCH.WA,Krakchemia S.A.
+SHD.WA,Soho Development S.A.
+TMP.WA,Telemedycyna Polska S.A.
+EXA.WA,Examobile S.A.
+RST.WA,Road Studio Spólka Akcyjna
+RNT.WA,Private Rented Sector S.A.
+NTC.WA,New Tech Capital S.A.
+TGG.WA,Triggo S.A.
+MFD.WA,M Food S.A.
+SMT.WA,Simteract S.A.
+PBF.WA,PBS Finanse S.A.
+ZEN.WA,Zeneris Projekty S.A.
+BKD.WA,Baked Games S.A.
+EGY.WA,Devo Energy S.A.
+PIX.WA,Second Chamber S.A.
+IFA.WA,INFRA S.A.
+CFG.WA,CreativeForge Games S.A.
+OUT.WA,Outdoorzy S.A.
+PLZ.WA,Plaza Centers N.V.
+MBF.WA,MBF Group S.A.
+NTV.WA,New Tech Venture S.A.
+OVI.WA,Ovid Works S.A.
+IGT.WA,Igoria Trade S.A.
+AZC.WA,Aztec International S.A.
+HRC.WA,Grupa HRC Spolka Akcyjna
+MND.WA,Mineral Midrange S.A.
+RGL.WA,Robs Group Logistic Spolka Akcyjna
+FOX.WA,Space Fox Games Spolka Akcyjna
+AUX.WA,Auxilia S.A.
+UNV.WA,Universe Spólka Akcyjna
+MXP.WA,Maxipizza SA
+AVE.WA,Advertigo S.A.
+ECN.WA,Ecnology Group S.A.
+LCN.WA,Labocanna S.A.
+7LV.WA,7Levels S.A.
+K2P.WA,Kool2play S.A.
+BLF.WA,BeLeaf S.A.
+TXN.WA,Tax-Net S.A.
+PLG.WA,PL Group S.A.
+ASR.WA,Astro S.A.
+MDT.WA,MedTech Solutions S.A.
+DPG.WA,Dark Point Games S.A.
+EMP.WA,Emplocity Spolka Akcyjna
+GTF.WA,GO24.pl S.A.
+FTH.WA,Fintech S.A.
+P24.WA,Present24 S.A.
+IBC.WA,IBC POLSKA F & P spólka akcyjna
+FRM.WA,Freemind Spolka Akcyjna
+ONE.WA,One Solution S.A.
+HRT.WA,Hurtimex SA
+LXB.WA,LexBono S.A.
+RBS.WA,Robinson Europe S.A.
+OLY.WA,Olymp S.A.
+CRC.WA,Carpathia Capital Alternatywna Spolka Inwestycyjna S.A.
+VFA.WA,VRFabric SA
+AIN.WA,ABS Investment ASI SA
+CWA.WA,Consoleway Spolka Akcyjna
+GAL.WA,Galvo S.A.
+TBL.WA,T-Bull S.A.
+ASA.WA,APIS Spólka Akcyjna
+PTN.WA,Poltronic S.A.
+BPN.WA,Black Point S.A.
+ESK.WA,Eskimos S.A.
+KBT.WA,Klabater S.A.
+DEG.WA,Detalion Games S.A.
+FTL.WA,Foothills S.A.
+APA.WA,Apanet S.A.
+SEN.WA,Serinus Energy plc
+AIT.WA,Aiton Caldwell SA
+MVR.WA,Movie Games VR Spólka Akcyjna
+DTX.WA,DITIX S.A.
+NRS.WA,Neurone Studio S.A.
+MPS.WA,MegaPixel Studio S.A.
+WRL.WA,Wierzyciel S.A.
+TOW.WA,Tower Investments S.A.
+KPC.WA,Kupiec S.A.
+IWS.WA,Iron Wolf Studio Spolka Akcyjna
+UFG.WA,UF GAMES S.A.
+DUA.WA,Duality S.A.
+APL.WA,LC Spólka Akcyjna
+THD.WA,The Dust S.A.
+DRG.WA,Drageus Games S.A.
+DRF.WA,Dr.Finance S.A.
+ARG.WA,Art Games Studio S.A.
+ATJ.WA,Atomic Jelly S.A.
+STS.WA,Satis Group S.A.
+WLI.WA,Wildlands Interactive S.A.
+APC.WA,Apollo Capital ASI Spólka Akcyjna
+END.WA,Eneida Games S.A.
+DGS.WA,Demolish Games Spólka Akcyjna
+UFC.WA,Unified Factory S.A.
+CPA.WA,Capital Partners S.A.
+IPW.WA,Image Power S.A.
+RDN.WA,Redan S.A.
+DDI.WA,Draw Distance SA
+FPO.WA,Forposta S.A.
+LMG.WA,Live Motion Games S.A.
+BRP.WA,Black Rose Projects SA
+MRK.WA,Marka S.A.
+QON.WA,QuarticOn Spólka Akcyjna
+LUO.WA,LuON S.A.
+PBT.WA,Prime Bit Games S.A.
+AFC.WA,AKCEPT Finance S.A.
+AER.WA,Venda SE
+AQT.WA,AQT Water S.A.
+ETFBSPXPL.WA,Beta ETF S&P 500 PLN-Hedged Portfelowy Fundusz Inwestycyjny Zamkniety

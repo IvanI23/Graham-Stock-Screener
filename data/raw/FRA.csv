@@ -1,0 +1,1808 @@
+Ticker,Company
+MSF.F,Microsoft Corporation
+NVD.F,NVIDIA Corporation
+APC.F,Apple Inc.
+AMZ.F,"Amazon.com, Inc."
+ABEC.F,Alphabet Inc.
+FB2A.F,"Meta Platforms, Inc."
+1YD.F,Broadcom Inc.
+TL0.F,"Tesla, Inc."
+CMC.F,JPMorgan Chase & Co.
+WMT.F,Walmart Inc.
+LLY.F,Eli Lilly and Company
+3V64.F,Visa Inc.
+ORC.F,Oracle Corporation
+NNND.F,Tencent Holdings Limited
+NFC.F,"Netflix, Inc."
+M4I.F,Mastercard Incorporated
+XONA.F,Exxon Mobil Corporation
+CTO.F,Costco Wholesale Corporation
+PRG.F,The Procter & Gamble Company
+JNJ.F,Johnson & Johnson
+HDI.F,"The Home Depot, Inc."
+NCB.F,Bank of America Corporation
+NOV.F,Novo Nordisk A/S
+SAP.F,SAP SE
+PTX.F,Palantir Technologies Inc.
+4AB.F,AbbVie Inc.
+CCC3.F,The Coca-Cola Company
+ASME.F,ASML Holding N.V.
+4I1.F,Philip Morris International Inc.
+UNH.F,UnitedHealth Group Incorporated
+HMI.F,Hermès International Société en commandite par actions
+CIS.F,"Cisco Systems, Inc."
+MOH.F,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne"
+NESM.F,Nestlé S.A.
+CHV.F,Chevron Corporation
+IBM.F,International Business Machines Corporation
+GCP.F,General Electric Company
+TM5.F,"T-Mobile US, Inc."
+FOO.F,"Salesforce, Inc."
+NWT.F,Wells Fargo & Company
+ABL.F,Abbott Laboratories
+TOM.F,Toyota Motor Corporation
+LOR.F,L'Oréal S.A.
+ZEG.F,AstraZeneca PLC
+LIN.F,Linde plc
+R6C0.F,Shell plc
+DWD.F,Morgan Stanley
+WDP.F,The Walt Disney Company
+ITU.F,Intuit Inc.
+AEC1.F,American Express Company
+MDO.F,McDonald's Corporation
+AMD.F,"Advanced Micro Devices, Inc."
+4S0.F,"ServiceNow, Inc."
+HBC1.F,HSBC Holdings plc
+6MK.F,"Merck & Co., Inc."
+SOBA.F,AT&T Inc.
+5UR.F,RTX Corporation
+SIE.F,Siemens Aktiengesellschaft
+GOS.F,"The Goldman Sachs Group, Inc."
+IUI1.F,"Intuitive Surgical, Inc."
+RYC.F,Royal Bank of Canada
+TII.F,Texas Instruments Incorporated
+PEP.F,"PepsiCo, Inc."
+BAC.F,Verizon Communications Inc.
+UT8.F,"Uber Technologies, Inc."
+PCE1.F,Booking Holdings Inc.
+DTE.F,Deutsche Telekom AG
+QCI.F,QUALCOMM Incorporated
+CAT1.F,Caterpillar Inc.
+M4B.F,"China Merchants Bank Co., Ltd."
+ADB.F,Adobe Inc.
+AMG.F,Amgen Inc.
+MHL.F,S&P Global Inc.
+UNVB.F,Unilever PLC
+UU2.F,"BlackRock, Inc."
+BSX.F,Boston Scientific Corporation
+ALV.F,Allianz SE
+BCO.F,The Boeing Company
+TN8.F,Thermo Fisher Scientific Inc.
+AIR.F,Airbus SE
+TRVC.F,Citigroup Inc.
+639.F,Spotify Technology S.A.
+BY6.F,BYD Company Limited
+ALD.F,Honeywell International Inc.
+DCO.F,Deere & Company
+TOTB.F,TotalEnergies SE
+1NBA.F,Anheuser-Busch InBev SA/NV
+DAP.F,Danaher Corporation
+AP2.F,"Applied Materials, Inc."
+SND.F,Schneider Electric S.E.
+TJX.F,"The TJX Companies, Inc."
+MTE.F,"Micron Technology, Inc."
+PFE.F,Pfizer Inc.
+GIS.F,"Gilead Sciences, Inc."
+5AP.F,"Palo Alto Networks, Inc."
+UNP.F,Union Pacific Corporation
+3EC.F,Eaton Corporation plc
+CTP2.F,Comcast Corporation
+ESL.F,EssilorLuxottica Société anonyme
+ADP.F,"Automatic Data Processing, Inc."
+SEJ1.F,Safran SA
+MLB1.F,"MercadoLibre, Inc."
+1TY.F,Prosus N.V.
+AIL.F,L'Air Liquide S.A.
+YCP.F,ConocoPhillips
+LWE.F,"Lowe's Companies, Inc."
+SNW.F,Sanofi
+KLA.F,KLA Corporation
+VX1.F,Vertex Pharmaceuticals Incorporated
+2M6.F,Medtronic plc
+LOM.F,Lockheed Martin Corporation
+BMT.F,British American Tobacco p.l.c.
+BMTA.F,British American Tobacco p.l.c.
+BBN1.F,Blackstone Inc.
+SRB.F,Starbucks Corporation
+AXA.F,AXA SA
+IC2.F,"Intercontinental Exchange, Inc."
+PHM7.F,"Altria Group, Inc."
+RRU.F,Rolls-Royce Holdings plc
+CRIN.F,UniCredit S.p.A.
+FR7.F,"Fast Retailing Co., Ltd."
+EN3.F,Enbridge Inc.
+SOT.F,The Southern Company
+IES.F,Intesa Sanpaolo S.p.A.
+RDEB.F,RELX PLC
+BNP.F,BNP Paribas SA
+BRM.F,Bristol-Myers Squibb Company
+RIO1.F,Rio Tinto Group
+KEE.F,Keyence Corporation
+UWS.F,"Waste Management, Inc."
+INL.F,Intel Corporation
+2IS.F,Trane Technologies plc
+ENL.F,Enel SpA
+MCK.F,McKesson Corporation
+2BH.F,"HCA Healthcare, Inc."
+RHM.F,Rheinmetall AG
+7A2.F,AIA Group Limited
+DIO.F,Christian Dior SE
+CIT.F,Cintas Corporation
+NKE.F,"NIKE, Inc."
+IVS.F,Investor AB (publ)
+KTF.F,"Mondelez International, Inc."
+A58.F,"Elevance Health, Inc."
+DUT.F,Moody's Corporation
+CVS.F,CVS Health Corporation
+CGN.F,The Cigna Group
+PAR.F,Parker-Hannifin Corporation
+SJ3.F,The Sherwin-Williams Company
+MUV2.F,Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München
+BPE5.F,BP p.l.c.
+6Z1.F,"Airbnb, Inc."
+2FE.F,Ferrari N.V.
+12DA.F,Dell Technologies Inc.
+ENR.F,Siemens Energy AG
+GS71.F,GSK plc
+RPU.F,"Republic Services, Inc."
+BSP.F,BAE Systems plc
+DNQ.F,Equinor ASA
+MMM.F,3M Company
+PCU.F,Southern Copper Corporation
+SQU.F,Vinci SA
+BZZ.F,Bank of Montreal
+4VK.F,Aon plc
+CFX.F,Capital One Financial Corporation
+1QZ.F,"Coinbase Global, Inc."
+X88.F,Canadian Pacific Kansas City Limited
+GDX.F,General Dynamics Corporation
+MBI.F,Mitsubishi Corporation
+ACO4.F,Atlas Copco AB (publ)
+SYP.F,"Synopsys, Inc."
+WMB.F,"The Williams Companies, Inc."
+CPA.F,Colgate-Palmolive Company
+NTH.F,Northrop Grumman Corporation
+ILT.F,Illinois Tool Works Inc.
+5Q5.F,Snowflake Inc.
+NNGF.F,National Grid plc
+ZOE.F,Zoetis Inc.
+48Z.F,Howmet Aerospace Inc.
+UB5.F,U.S. Bancorp
+2PP.F,"PayPal Holdings, Inc."
+BN9.F,The Bank of New York Mellon Corporation
+NMM.F,Newmont Corporation
+AE9.F,Agnico Eagle Mines Limited
+AP3.F,"Air Products and Chemicals, Inc."
+2KD.F,"Kinder Morgan, Inc."
+INN1.F,ING Groep N.V.
+BCY.F,Barclays PLC
+LLD.F,Lloyds Banking Group plc
+PA9.F,"The Travelers Companies, Inc."
+4PN.F,Carrier Global Corporation
+FPMB.F,Freeport-McMoRan Inc.
+SHL.F,Siemens Healthineers AG
+CSF.F,Thales S.A.
+GUI.F,Diageo plc
+XGR2.F,Compass Group PLC
+DB1.F,Deutsche Börse AG
+1N8.F,Adyen N.V.
+OCBA.F,Oversea-Chinese Banking Corporation Limited
+RYSD.F,NatWest Group plc
+AFL.F,Aflac Incorporated
+7NF.F,"Nongfu Spring Co., Ltd."
+MRK.F,Merck KGaA
+GZF.F,Engie SA
+RGO.F,"Regeneron Pharmaceuticals, Inc."
+AEP.F,"American Electric Power Company, Inc."
+XCA.F,Crédit Agricole S.A.
+JAT.F,Japan Tobacco Inc.
+GOB.F,Compagnie de Saint-Gobain S.A.
+MBG.F,Mercedes-Benz Group AG
+FDX.F,FedEx Corporation
+DBK.F,Deutsche Bank Aktiengesellschaft
+BSN.F,Danone S.A.
+DHL.F,Deutsche Post AG
+CHQ1.F,"Cheniere Energy, Inc."
+BBK.F,Truist Financial Corporation
+ASG.F,Assicurazioni Generali S.p.A.
+RY6.F,Realty Income Corporation
+ONK.F,"ONEOK, Inc."
+BMW.F,Bayerische Motoren Werke Aktiengesellschaft
+IFX.F,Infineon Technologies AG
+R66.F,Phillips 66
+VOW.F,Volkswagen AG
+VOW3.F,Volkswagen AG
+NAQ.F,"Nasdaq, Inc."
+04Q.F,Nordea Bank Abp
+BZ4.F,TE Connectivity plc
+AINN.F,"American International Group, Inc."
+UI51.F,"Waste Connections, Inc."
+BOX.F,"Becton, Dickinson and Company"
+A4S.F,"Ameriprise Financial, Inc."
+ENI.F,Eni S.p.A.
+HNK1.F,Heineken N.V.
+PAE.F,PACCAR Inc
+FAS.F,Fastenal Company
+3RB.F,Reckitt Benckiser Group plc
+DSYA.F,Dassault Systèmes SE
+HRS.F,"L3Harris Technologies, Inc."
+H6D0.F,Haleon plc
+TKD.F,Takeda Pharmaceutical Company Limited
+8GM.F,General Motors Company
+VEE.F,Veeva Systems Inc.
+EOAN.F,E.ON SE
+8GC.F,Glencore plc
+UR3.F,"United Rentals, Inc."
+UOB.F,United Overseas Bank Limited
+3QD.F,"Datadog, Inc."
+OPC.F,Occidental Petroleum Corporation
+KOG.F,The Kroger Co.
+EWL.F,Edwards Lifesciences Corporation
+GLW.F,Corning Incorporated
+DYH.F,Target Corporation
+P911.F,Dr. Ing. h.c. F. Porsche AG
+PEO.F,Exelon Corporation
+SGE.F,Société Générale Société anonyme
+BAS.F,BASF SE
+KMY.F,Kimberly-Clark Corporation
+735.F,Pop Mart International Group Limited
+3HM.F,MSCI Inc.
+FMC1.F,Ford Motor Company
+CPF.F,CITIC Limited
+J4D.F,Kenvue Inc.
+PSE.F,Public Service Enterprise Group Incorporated
+SII.F,Wheaton Precious Metals Corp.
+D1NC.F,DNB Bank ASA
+ADS.F,adidas AG
+FTE.F,Orange S.A.
+SQ3.F,"Block, Inc."
+TGR.F,"Yum! Brands, Inc."
+KDB.F,KBC Group NV
+ERT.F,Electronic Arts Inc.
+WOSB.F,Wolters Kluwer N.V.
+4PG.F,Otis Worldwide Corporation
+CBK.F,Commerzbank AG
+HO2.F,"D.R. Horton, Inc."
+HNR1.F,Hannover Rück SE
+CLV.F,Trip.com Group Limited
+AHOG.F,Koninklijke Ahold Delhaize N.V.
+TAR.F,Targa Resources Corp.
+RME.F,ResMed Inc.
+EDC.F,"Consolidated Edison, Inc."
+SYY.F,Sysco Corporation
+EBA.F,eBay Inc.
+HEI.F,Heidelberg Materials AG
+TCO0.F,Tesco PLC
+EQ6.F,EQT Corporation
+ETY.F,Entergy Corporation
+UNC.F,UCB SA
+HSY.F,The Hershey Company
+ALZC.F,ASSA ABLOY AB (publ)
+TT8.F,"The Trade Desk, Inc."
+6EQ.F,EQT AB (publ)
+WIC.F,"WEC Energy Group, Inc."
+DTG.F,Daimler Truck Holding AG
+L0T.F,GE HealthCare Technologies Inc.
+AS7.F,ANTA Sports Products Limited
+5GD.F,Ingersoll Rand Inc.
+LRC.F,Legrand SA
+ITB.F,Imperial Brands PLC
+TLX.F,Talanx AG
+DC4.F,"DexCom, Inc."
+EFX.F,Equifax Inc.
+FMNB.F,Leonardo S.p.a.
+POH1.F,Carnival Corporation & plc
+BAYN.F,Bayer Aktiengesellschaft
+XY6.F,Xylem Inc.
+KHNZ.F,The Kraft Heinz Company
+SUMA.F,Sumitomo Corporation
+690D.F,"Haier Smart Home Co., Ltd."
+HEN.F,Henkel AG & Co. KGaA
+HEN3.F,Henkel AG & Co. KGaA
+NRA.F,"NRG Energy, Inc."
+LCR.F,Las Vegas Sands Corp.
+RWE.F,RWE Aktiengesellschaft
+HUM.F,Humana Inc.
+GRM.F,"General Mills, Inc."
+AVS.F,ASM International NV
+CS1.F,Expand Energy Corporation
+ZX6.F,DSM-Firmenich AG
+DP4H.F,A.P. Møller - Mærsk A/S
+CGM.F,Capgemini SE
+ZYA.F,State Street Corporation
+CB1A.F,"Constellation Brands, Inc."
+VNA.F,Vonovia SE
+RY4C.F,Ryanair Holdings plc
+DP4A.F,A.P. Møller - Mærsk A/S
+6D81.F,"DuPont de Nemours, Inc."
+BGT.F,Bridgestone Corporation
+ERCG.F,Telefonaktiebolaget LM Ericsson (publ)
+847.F,Seagate Technology Holdings plc
+7PI.F,Poste Italiane S.p.A.
+HLAG.F,Hapag-Lloyd Aktiengesellschaft
+AWC.F,"American Water Works Company, Inc."
+NOA3.F,Nokia Oyj
+SDV1.F,Saab AB (publ)
+33L.F,lululemon athletica inc.
+KEL.F,Kellanova
+DAU0.F,Dassault Aviation société anonyme
+SVKB.F,Sandvik AB (publ)
+RLS.F,"Rollins, Inc."
+LNN.F,Lennar Corporation
+8TI.F,Stellantis N.V.
+FRE.F,Fresenius SE & Co. KGaA
+BEI.F,Beiersdorf Aktiengesellschaft
+PU4.F,Publicis Groupe S.A.
+MS51.F,"Super Micro Computer, Inc."
+CNN1.F,Canon Inc.
+J5A.F,"Warner Bros. Discovery, Inc."
+ADM.F,Archer-Daniels-Midland Company
+SGM.F,STMicroelectronics N.V.
+OS1.F,"Otsuka Holdings Co., Ltd."
+2Y11.F,China Tower Corporation Limited
+PER.F,Pernod Ricard SA
+MCHA.F,Compagnie Générale des Établissements Michelin Société en commandite par actions
+HXG.F,Hexagon AB (publ)
+VODI.F,Vodafone Group Public Limited Company
+3AD1.F,Epiroc AB (publ)
+VVD.F,Veolia Environnement SA
+PPX.F,Kering SA
+PPQ.F,"PPG Industries, Inc."
+INP.F,International Paper Company
+FC6A.F,"First Citizens BancShares, Inc."
+UAL1.F,"United Airlines Holdings, Inc."
+CHZ.F,China Resources Land Limited
+FUC.F,Fanuc Corporation
+CJ5A.F,CGI Inc.
+F03.F,Fortive Corporation
+12F.F,Fortis Inc.
+5ZM.F,Zoom Communications Inc.
+SFE.F,Synchrony Financial
+2HP.F,Hewlett Packard Enterprise Company
+2CK.F,CK Hutchison Holdings Limited
+HOU.F,"CenterPoint Energy, Inc."
+FE7.F,FirstEnergy Corp.
+KY6.F,"Interactive Brokers Group, Inc."
+HU3.F,Huntington Bancshares Incorporated
+ARRD.F,ArcelorMittal S.A.
+MTX.F,MTU Aero Engines AG
+7HP.F,HP Inc.
+56S1.F,Sartorius Stedim Biotech S.A.
+BZLA.F,Banco do Brasil S.A.
+JBL.F,Jabil Inc.
+N6B.F,Labcorp Holdings Inc.
+XS4.F,ON Semiconductor Corporation
+MRI.F,MTR Corporation Limited
+PHI1.F,Koninklijke Philips N.V.
+HMSB.F,H & M Hennes & Mauritz AB (publ)
+4H5.F,Heineken Holding N.V.
+HUEC.F,Hubbell Incorporated
+CBHD.F,Coloplast A/S
+EBK.F,EnBW Energie Baden-Württemberg AG
+TEQ.F,Telenor ASA
+KAO.F,Kao Corporation
+3KY.F,Hansoh Pharmaceutical Group Company Limited
+E3X1.F,"Expedia Group, Inc."
+CSG.F,CMS Energy Corporation
+GRU.F,Geely Automobile Holdings Limited
+TR1.F,"T. Rowe Price Group, Inc."
+2OY.F,Dow Inc.
+ABW.F,"Asahi Group Holdings, Ltd."
+206G.F,"Huatai Securities Co., Ltd."
+TIB1.F,Techtronic Industries Company Limited
+EYX.F,Exor N.V.
+AFO1.F,Associated British Foods plc
+QJE.F,Pan Pacific International Holdings Corporation
+INR.F,International Consolidated Airlines Group S.A.
+NXG.F,NEXT plc
+LGI.F,Legal & General Group Plc
+LXI.F,Lennox International Inc.
+TF7A.F,"Tyson Foods, Inc."
+TW10.F,Tenaris S.A.
+HAL.F,Halliburton Company
+SJX.F,Singapore Technologies Engineering Ltd
+TEKB.F,Teck Resources Limited
+C0Q.F,Coca-Cola HBC AG
+KIN2.F,Kinross Gold Corporation
+CS2.F,"Casey's General Stores, Inc."
+H0Q.F,China Hongqiao Group Limited
+NOU.F,NiSource Inc.
+CPP.F,China Overseas Land & Investment Limited
+NI7.F,"Nippon Paint Holdings Co., Ltd."
+UN0.F,Uniper SE
+AEU.F,Prysmian S.p.A.
+EI2.F,Erie Indemnity Company
+36E.F,GFL Environmental Inc.
+KW9A.F,Galaxy Entertainment Group Limited
+1L30.F,Lifco AB (publ)
+1C5.F,"Citizens Financial Group, Inc."
+D2G.F,Ørsted A/S
+I8U.F,Inpex Corporation
+EDP.F,"EDP, S.A."
+AA9.F,Alfa Laval AB (publ)
+CON.F,Continental Aktiengesellschaft
+BDSB.F,"Banco de Sabadell, S.A."
+PG4.F,"Principal Financial Group, Inc."
+BOP.F,Bolloré SE
+CHH.F,CK Infrastructure Holdings Limited
+62M.F,Metro Inc.
+HLD.F,Henderson Land Development Company Limited
+GPT.F,Genuine Parts Company
+ASI1.F,ASICS Corporation
+RS6.F,"Reliance, Inc."
+BYG.F,Bouygues SA
+EYWN.F,bioMérieux S.A.
+FA1.F,FactSet Research Systems Inc.
+VWSB.F,Vestas Wind Systems A/S
+37C.F,CNH Industrial N.V.
+8TRA.F,Traton SE
+0YU.F,"Yum China Holdings, Inc."
+HCG.F,The Hong Kong and China Gas Company Limited
+WPS.F,"West Pharmaceutical Services, Inc."
+ANI.F,Amundi S.A.
+7NX.F,"NEXON Co., Ltd."
+FME.F,Fresenius Medical Care AG
+SY1.F,Symrise AG
+SRT.F,Sartorius Aktiengesellschaft
+PRP.F,Prada S.p.A.
+NEM.F,Nemetschek SE
+AY1.F,Alliant Energy Corporation
+F3A.F,"First Solar, Inc."
+EZV.F,"Domino's Pizza, Inc."
+RCI.F,Rogers Communications Inc.
+KBX.F,Knorr-Bremse AG
+MOV.F,Moncler S.p.A.
+CXX.F,The Clorox Company
+1CK.F,CK Asset Holdings Limited
+4BV.F,Bureau Veritas SA
+1T1.F,TechnipFMC plc
+E3G1.F,Evolution AB (publ)
+RPD.F,Royalty Pharma plc
+TLS.F,Telia Company AB (publ)
+RPL.F,UPM-Kymmene Oyj
+ILU.F,"Illumina, Inc."
+WW1.F,"Woodward, Inc."
+6WX.F,China Longyuan Power Group Corporation Limited
+RTHA.F,Wilmar International Limited
+5VD.F,Vodacom Group Limited
+FLN.F,Admiral Group plc
+IEA.F,Informa plc
+HEH.F,Power Assets Holdings Limited
+JB1.F,"J.B. Hunt Transport Services, Inc."
+1SI.F,Snap Inc.
+UUM.F,Unum Group
+4BB.F,Budweiser Brewing Company APAC Limited
+C61.F,Emera Incorporated
+HOT.F,HOCHTIEF Aktiengesellschaft
+UN4.F,Unicharm Corporation
+JDE.F,JDE Peet's N.V.
+1COV.F,Covestro AG
+BIRG.F,Bank of Ireland Group plc
+EW2.F,"East West Bancorp, Inc."
+MRS.F,"Morningstar, Inc."
+XTY.F,Carpenter Technology Corporation
+CRP.F,China Resources Power Holdings Company Limited
+FO4N.F,ageas SA/NV
+HA4.F,HAL Trust
+ESF0.F,Eurofins Scientific SE
+KUO1.F,Kubota Corporation
+KHE.F,"Kawasaki Heavy Industries, Ltd."
+4BE.F,BPER Banca SpA
+27S.F,"Albertsons Companies, Inc."
+RNL.F,Renault SA
+HAG.F,Hensoldt AG
+3RK.F,"Ryohin Keikaku Co., Ltd."
+SHM.F,Shimano Inc.
+ME1.F,Banca Mediolanum S.p.A.
+0WH.F,WH Group Limited
+CVG.F,CSPC Pharmaceutical Group Limited
+W7L.F,Aeroports de Paris SA
+60A.F,Allegion plc
+CMAB.F,"Mapfre, S.A."
+02M.F,The Mosaic Company
+ENQ.F,"Entegris, Inc."
+KIR.F,"Kirin Holdings Company, Limited"
+ACR.F,Accor SA
+BSI.F,BE Semiconductor Industries N.V.
+0ZQ.F,National Atomic Company Kazatomprom JSC
+MILA.F,"Mitsui O.S.K. Lines, Ltd."
+GMZ.F,Ally Financial Inc.
+EVD.F,CTS Eventim AG & Co. KGaA
+LNE.F,"Lincoln Electric Holdings, Inc."
+AKU1.F,Akzo Nobel N.V.
+PKN.F,"Revvity, Inc."
+SMZ1.F,Sino Biopharmaceutical Limited
+ORI1.F,Orient Overseas (International) Limited
+LN3.F,Jefferies Financial Group Inc.
+4HK.F,HKT Trust and HKT Limited
+WI8.F,Infrastrutture Wireless Italiane S.p.A.
+G1A.F,GEA Group Aktiengesellschaft
+NOH1.F,Norsk Hydro ASA
+RPHA.F,Valterra Platinum Limited
+OKL.F,Orkla ASA
+CENB.F,Centrica plc
+DWNI.F,Deutsche Wohnen SE
+DWS.F,DWS Group GmbH & Co. KGaA
+NSY.F,NICE Ltd.
+PWC.F,Pinnacle West Capital Corporation
+J060.F,Aegon Ltd.
+HLE.F,HELLA GmbH & Co. KGaA
+GS2C.F,GameStop Corp.
+A2A.F,"Essential Utilities, Inc."
+KEP1.F,Keppel Ltd.
+8HI.F,Haidilao International Holding Ltd.
+VIA.F,Viatris Inc.
+CAO.F,"Conagra Brands, Inc."
+CAR.F,Carrefour SA
+JM2.F,The J. M. Smucker Company
+TNU3.F,Getlink SE
+M6Q.F,Metso Oyj
+MPI0.F,Banca Monte dei Paschi di Siena S.p.A.
+QIA.F,Qiagen N.V.
+IU2.F,Yara International ASA
+5NU.F,CapitaLand Investment Limited
+S6L.F,Shenzhou International Group Holdings Limited
+XD4.F,Strabag SE
+FT2.F,First Horizon Corporation
+BUZ1.F,Bunzl plc
+AGT.F,"AptarGroup, Inc."
+TMJ.F,Globe Life Inc.
+0QF.F,"Moderna, Inc."
+7SN.F,Suntory Beverage & Food Limited
+EVK.F,Evonik Industries AG
+AOMD.F,Alstom SA
+EAI.F,Groupe Bruxelles Lambert SA
+7PV.F,Birkenstock Holding plc
+I7G.F,Ipsen S.A.
+G24.F,Scout24 SE
+BNR.F,Brenntag SE
+SBOA.F,Sembcorp Industries Ltd
+HAS.F,"Hasbro, Inc."
+LKQ1.F,LKQ Corporation
+PES.F,Pearson plc
+4OQ1.F,AGNC Investment Corp.
+3YZ.F,CTP N.V.
+RB8.F,Regal Rexnord Corporation
+CC5.F,"Coca-Cola Consolidated, Inc."
+LHA.F,Deutsche Lufthansa AG
+ZVL.F,Zhaojin Mining Industry Company Limited
+UCM.F,Buzzi S.p.A.
+XGH.F,ENN Energy Holdings Limited
+RAA.F,RATIONAL Aktiengesellschaft
+3SM.F,A. O. Smith Corporation
+KY4.F,"Kyowa Kirin Co., Ltd."
+J4V.F,Vår Energi AS
+KONN.F,"Komercní banka, a.s."
+SUY1.F,J Sainsbury plc
+FJ5.F,SouthState Corporation
+SXC.F,Sunny Optical Technology (Group) Company Limited
+5711.F,Antero Midstream Corporation
+J6I.F,Whitecap Resources Inc.
+7S8.F,SITC International Holdings Company Limited
+4BY.F,BYD Electronic (International) Company Limited
+4SP.F,SPIE SA
+E7V.F,Rexel S.A.
+EIA.F,Elisa Oyj
+LMO.F,"Lithia Motors, Inc."
+RLF.F,Longfor Group Holdings Limited
+TLLB.F,Trelleborg AB (publ)
+3AL.F,Ayvens
+S7MB.F,Securitas AB (publ)
+EAM.F,A2A S.p.A.
+TYG.F,Tingyi (Cayman Islands) Holding Corp.
+EZQ.F,China Mengniu Dairy Company Limited
+CB5.F,"Commerce Bancshares, Inc."
+3JDA.F,Rightmove plc
+KLH.F,Københavns Lufthavne A/S
+AU61.F,Absa Group Limited
+PFZ.F,"Pinnacle Financial Partners, Inc."
+O5G.F,CPI Property Group
+WF2.F,Wintrust Financial Corporation
+ZAL.F,Zalando SE
+8BU.F,Brunello Cucinelli S.p.A.
+2NF.F,Syensqo SA/NV
+ENUA.F,Stora Enso Oyj
+87W.F,"Hulic Co., Ltd."
+58H.F,Davide Campari-Milano N.V.
+BRZ0.F,Beijer Ref AB (publ)
+CPM.F,China Merchants Port Holdings Company Limited
+OTK.F,Otsuka Corporation
+R3NK.F,RENK Group AG
+N3IA.F,NIO Inc.
+AGJ.F,AGCO Corporation
+XPG.F,Vend Marketplaces ASA
+INX.F,IMCD N.V.
+4SK.F,Sinotruk (Hong Kong) Limited
+0L5.F,"Lamb Weston Holdings, Inc."
+CUD.F,Canadian Utilities Limited
+AES.F,The AES Corporation
+0WP.F,WPP plc
+OTE.F,Hellenic Telecommunications Organization S.A.
+185.F,Alcoa Corporation
+2S3.F,APA Corporation
+TA1.F,Telekom Austria AG
+X2S.F,Sinopharm Group Co. Ltd.
+CYC.F,Jardine Cycle & Carriage Limited
+YMA.F,"Yamaha Motor Co., Ltd."
+3HY.F,Sirius XM Holdings Inc.
+EAR.F,Ebara Corporation
+DHER.F,Delivery Hero SE
+33B.F,"Badger Meter, Inc."
+9TG.F,Gaztransport & Technigaz SA
+OK3.F,Oshkosh Corporation
+B8O.F,Yangzijiang Shipbuilding (Holdings) Ltd.
+AMC.F,Albemarle Corporation
+A1G.F,American Airlines Group Inc.
+5BP.F,"Corporación Acciona Energías Renovables, S.A."
+LV2B.F,Levi Strauss & Co.
+WHF4.F,Whitbread plc
+1WE.F,FDJ United
+2PI.F,Pirelli & C. S.p.A.
+6AA0.F,AAK AB (publ.)
+HE9.F,Hera S.p.A.
+SHD.F,"Shiseido Company, Limited"
+B4M1.F,SpareBank 1 Sør-Norge ASA
+SM1.F,SLM Corporation
+QSV.F,Edenred SE
+36T.F,Genting Singapore Limited
+I56.F,Lottomatica Group S.p.A.
+3IW.F,Invesco Ltd.
+91A.F,"Armstrong World Industries, Inc."
+IOS.F,IONOS Group SE
+PPY.F,"Prosperity Bancshares, Inc."
+KFI1.F,Kingfisher plc
+LEG.F,LEG Immobilien SE
+V0Y.F,"Voya Financial, Inc."
+MGC.F,MGIC Investment Corporation
+7MR.F,Matador Resources Company
+0S1.F,"OneMain Holdings, Inc."
+HIUC.F,China Taiping Insurance Holdings Company Limited
+83B.F,3SBio Inc.
+SHJ.F,AGC Inc.
+FRA.F,Fraport AG
+7EL.F,Elis SA
+WSV2.F,Vienna Insurance Group AG
+FSG.F,Federal Signal Corporation
+LY0.F,"Lyft, Inc."
+LGX1.F,China Resources Gas Group Limited
+B7A.F,Banca Generali S.p.A.
+IDJ.F,"IDACORP, Inc."
+REJA.F,Reply S.p.A.
+UG9.F,NewMarket Corporation
+TKA.F,thyssenkrupp AG
+5F6.F,"Sumitomo Forestry Co., Ltd."
+AXL1.F,Axfood AB (publ)
+DG3.F,Celanese Corporation
+TEM.F,Tongcheng Travel Holdings Limited
+A2XN.F,AAC Technologies Holdings Inc.
+AFX.F,Carl Zeiss Meditec AG
+1LNB.F,Spirax Group plc
+JEP.F,SalMar ASA
+CDM1.F,"Coeur Mining, Inc."
+3E2.F,"Etsy, Inc."
+AG1.F,AUTO1 Group SE
+SDRC.F,SCOR SE
+8BO.F,BOC Aviation Limited
+FF60.F,"FirstCash Holdings, Inc."
+H2X3.F,Hiscox Ltd
+OHP.F,Persimmon Plc
+SKWA.F,SSAB AB (publ)
+SOC.F,Subsea 7 S.A.
+GUG.F,Guangdong Investment Limited
+BTO0.F,Cadence Bank
+UF3.F,"UFP Industries, Inc."
+RRTL.F,RTL Group S.A.
+ZHJ.F,"Zhejiang Expressway Co., Ltd."
+RCF.F,Teleperformance SE
+M04.F,MGM China Holdings Limited
+SZR.F,"Southwest Gas Holdings, Inc."
+EJT1.F,easyJet plc
+DCA.F,ACEA S.p.A.
+BC8.F,Bechtle AG
+98P.F,"TXNM Energy, Inc."
+FLW1.F,Flughafen Wien Aktiengesellschaft
+FMQ.F,FMC Corporation
+58U.F,Uni-President China Holdings Ltd
+SV2.F,"Selective Insurance Group, Inc."
+GTN.F,Getinge AB (publ)
+FKM.F,Aker ASA
+V1S.F,Arkema S.A.
+WHR.F,Whirlpool Corporation
+M44.F,"MARA Holdings, Inc."
+1JJA.F,Avanza Bank Holding AB (publ)
+TH3B.F,PCCW Limited
+CM2.F,"Cal-Maine Foods, Inc."
+FIE.F,Fielmann Group AG
+GRB.F,SEB SA
+NXS.F,Nexans S.A.
+HS0.F,Hoshizaki Corporation
+LNLB.F,Li Ning Company Limited
+KRN.F,Krones AG
+1AC.F,"PennyMac Financial Services, Inc."
+SKX.F,"Skylark Holdings Co., Ltd."
+UTDI.F,United Internet AG
+AVX.F,"Advanced Energy Industries, Inc."
+HPD.F,China Power International Development Limited
+EVN.F,EVN AG
+UTY.F,PT United Tractors Tbk
+E0P.F,"Enphase Energy, Inc."
+1SXP.F,SCHOTT Pharma AG & Co. KGaA
+TMRA.F,Tomra Systems ASA
+QC10.F,"Flagstar Financial, Inc."
+R3D.F,Iveco Group N.V.
+UCI.F,"CSW Industrials, Inc."
+EUQ.F,Eurazeo SE
+OR8.F,Sopra Steria Group SA
+FNI.F,Fosun International Limited
+HH1.F,Hancock Whitney Corporation
+85V1.F,Noble Corporation plc
+VFP.F,V.F. Corporation
+SPG.F,Springer Nature AG & Co. KGaA
+NDX1.F,Nordex SE
+41B.F,Bellway p.l.c.
+6UY.F,Allfunds Group plc
+M5U.F,"Meitu, Inc."
+FA9.F,Spectris plc
+NJ1.F,New Jersey Resources Corporation
+T5W.F,Just Eat Takeaway.com N.V.
+3ZT.F,Reynolds Consumer Products Inc.
+HSZ.F,PT Hanjaya Mandala Sampoerna Tbk
+54E.F,"Archrock, Inc."
+49P.F,Portland General Electric Company
+SHA0.F,Schaeffler AG
+HXL.F,Hexcel Corporation
+WI0.F,Wanguo Gold Group Limited
+JUN3.F,Jungheinrich Aktiengesellschaft
+5JB.F,Jumbo S.A.
+SNS.F,Sonoco Products Company
+AOP.F,Hang Lung Properties Limited
+LGR.F,Spire Inc.
+8A6.F,ATCO Ltd.
+6XT.F,"Asahi Intecc Co., Ltd."
+WIS.F,Wendel
+17M.F,Moelis & Company
+1NR.F,Northland Power Inc.
+GIL.F,DMG MORI AKTIENGESELLSCHAFT
+S94.F,Sensata Technologies Holding plc
+0R1.F,Royal Unibrew A/S
+AVT.F,AviChina Industry & Technology Company Limited
+8IG.F,Interpump Group S.p.A.
+69Q.F,"Lazard, Inc."
+SSF.F,Sensient Technologies Corporation
+640.F,China Resources Pharmaceutical Group Limited
+BHI.F,Black Hills Corporation
+3OY1.F,Maire S.p.A.
+FMV.F,First Majestic Silver Corp.
+KUY.F,"Kuraray Co., Ltd."
+NDA.F,Aurubis AG
+CMW.F,China Communications Services Corporation Limited
+UN9.F,UNIQA Insurance Group AG
+FE4.F,"Franklin Electric Co., Inc."
+PG81.F,"Plains GP Holdings, L.P."
+MMY.F,"Maximus, Inc."
+U1O.F,UOL Group Limited
+T6R.F,"Tokyo Tatemono Co., Ltd."
+1T5.F,TAURON Polska Energia S.A.
+IPJ1.F,Webuild S.p.A.
+MT0.F,DEME Group NV
+1VRA.F,Verallia Société Anonyme
+AT1.F,Aroundtown SA
+1U1.F,1&1 AG
+YRB.F,"The Yokohama Rubber Company, Limited"
+7TI.F,Tikehau Capital
+AEBA.F,"ALLETE, Inc."
+HCL.F,Hecla Mining Company
+FNTN.F,freenet AG
+0WE.F,Weatherford International plc
+2R7.F,Azelis Group NV
+5M0B.F,Medicover AB (publ)
+PUM.F,PUMA SE
+KBH.F,KB Home
+SIX2.F,Sixt SE
+UNJ.F,The United Laboratories International Holdings Limited
+TUI1.F,TUI AG
+68M.F,"Matson, Inc."
+MUQ.F,Murphy Oil Corporation
+3KO.F,"Kontoor Brands, Inc."
+KLN.F,Kingboard Laminates Holdings Limited
+COUD.F,Computacenter plc
+5Z0.F,Zhongsheng Group Holdings Limited
+CDE.F,City Developments Limited
+SOL.F,Solvay SA
+SCQA.F,The Scotts Miracle-Gro Company
+MM0.F,"MONETA Money Bank, a.s."
+1NS.F,"SINOPEC Engineering (Group) Co., Ltd."
+2M7C.F,China Medical System Holdings Limited
+KEM.F,Kemira Oyj
+NVJP.F,Umicore SA
+IJCA.F,Inchcape plc
+UK2.F,Shandong Weigao Group Medical Polymer Company Limited
+U1N.F,UniFirst Corporation
+CO8.F,Concentrix Corporation
+SFB1.F,Asseco Poland S.A.
+D1Y.F,China National Building Material Company Limited
+TPA1.F,Orange Polska S.A.
+BXZ.F,Bank of Queensland Limited
+SZ2.F,Signet Jewelers Limited
+PR4.F,Protector Forsikring ASA
+LR6.F,TBC Bank Group PLC
+BIH.F,Balfour Beatty plc
+TZ1.F,TransAlta Corporation
+RN6.F,Renasant Corporation
+LAG.F,Lagardere SA
+I93A.F,Indorama Ventures Public Company Limited
+VVU.F,Vivendi SE
+P55.F,Plus500 Ltd.
+TCJ.F,Titan S.A.
+HUN2.F,Beijing Enterprises Water Group Limited
+HGNC.F,Hengan International Group Company Limited
+724.F,"C3.ai, Inc."
+GBF.F,Bilfinger SE
+G14.F,Signify N.V.
+S2P.F,Simcere Pharmaceutical Group Limited
+3KC.F,"Federated Hermes, Inc."
+8XW.F,Bridgepoint Group plc
+VIS.F,"Viscofan, S.A."
+WAE.F,Wallenstam AB (publ)
+QPJ.F,Kewpie Corporation
+TYR.F,Toyo Tire Corporation
+D9F2.F,Drax Group plc
+OLWN.F,First BanCorp.
+P8Q.F,"Crane NXT, Co."
+SAX.F,Ströer SE & Co. KGaA
+ER9.F,ERG S.p.A.
+FPC.F,First Pacific Company Limited
+4QT1.F,HEXPOL AB (publ)
+ISW.F,Dentsu Soken Inc.
+4LT1.F,"Northern Oil and Gas, Inc."
+PS8.F,"PriceSmart, Inc."
+TEG.F,TAG Immobilien AG
+PXK.F,Peyto Exploration & Development Corp.
+Q41.F,"Kodiak Gas Services, Inc."
+30T.F,"TechnoPro Holdings, Inc."
+G7C.F,Greentown China Holdings Limited
+01H.F,"HORIBA, Ltd."
+BX7.F,Proximus PLC
+ACE.F,"Acerinox, S.A."
+ACE1.F,"Acerinox, S.A."
+0MO.F,"DMG Mori Co., Ltd."
+BOSS.F,Hugo Boss AG
+TC2A.F,TCL Electronics Holdings Limited
+U6Z.F,Uranium Energy Corp.
+TU0.F,Thule Group AB (publ)
+108.F,"Sumitomo Rubber Industries, Ltd."
+WTH.F,"Worthington Enterprises, Inc."
+HB1.F,H.B. Fuller Company
+IMO1.F,CPI Europe AG
+1HI.F,"First Hawaiian, Inc."
+LEC.F,Lechwerke AG
+LOC.F,Lion Corporation
+RE0.F,Hafnia Limited
+EB0.F,"Eastern Bankshares, Inc."
+8IL.F,Olav Thon Eiendomsselskap ASA
+MNV6.F,Mainova AG
+HAR.F,"Harley-Davidson, Inc."
+1AW.F,"Argan, Inc."
+TIE.F,Taiheiyo Cement Corporation
+KOY.F,"Kobayashi Pharmaceutical Co., Ltd."
+Y8O.F,Brembo N.V.
+4HM.F,Vicat S.A.
+CCW.F,Coca-Cola Bottlers Japan Holdings Inc.
+TN2.F,Technogym S.p.A.
+D7V.F,PT Mayora Indah Tbk
+WT5.F,California Water Service Group
+IY4.F,Imerys S.A.
+YXS.F,Sany Heavy Equipment International Holdings Company Limited
+WILC.F,Fabege AB (publ)
+0KN.F,Morgan Sindall Group plc
+K25.F,Olam Group Limited
+IWG.F,International Workplace Group plc
+BZY.F,CA Immobilien Anlagen AG
+AI7.F,AZZ Inc.
+K900.F,Loomis AB (publ)
+SA8A.F,"Sonic Automotive, Inc."
+6BF.F,P/F Bakkafrost
+8QV.F,Hemnet Group AB (publ)
+41G1.F,Greggs plc
+BJ6.F,"Beijing Jingneng Clean Energy Co., Limited"
+SZU.F,Südzucker AG
+PIV.F,Bank of Hawaii Corporation
+BNF.F,Billerud AB (publ)
+LH6.F,ZJLD Group Inc
+ENV.F,ENAV S.p.A.
+4DH.F,Dana Incorporated
+4G3A.F,Golden Agri-Resources Ltd
+3PC.F,Cementir Holding N.V.
+VEM.F,Venture Corporation Limited
+KOK.F,"Kokuyo Co., Ltd."
+AOF.F,ATOSS Software SE
+MX5.F,Methanex Corporation
+VSA2.F,Valeo SE
+PE1.F,"Patterson-UTI Energy, Inc."
+E5F.F,PT XLSMART Telecom Sejahtera Tbk
+WJ4.F,"Warrior Met Coal, Inc."
+7JZ.F,Ardagh Metal Packaging S.A.
+T2G.F,Tradegate AG Wertpapierhandelsbank
+LID.F,"Bread Financial Holdings, Inc."
+1MS.F,Munters Group AB (publ)
+1UEN.F,United Energy Group Limited
+VZ1.F,ComfortDelGro Corporation Limited
+LXS.F,LANXESS Aktiengesellschaft
+S3X.F,Sumco Corporation
+1AD1.F,AddLife AB (publ)
+CP9.F,Cyfrowy Polsat S.A.
+PEKB.F,Peab AB (publ)
+AFR0.F,Air France-KLM SA
+SXYA.F,Shenzhen International Holdings Limited
+SSM1.F,"Sumitomo Heavy Industries, Ltd."
+MVV1.F,MVV Energie AG
+FFO1.F,Fufeng Group Limited
+AOA.F,Atkore Inc.
+WWG.F,Gelsenwasser AG
+TTEB.F,TietoEVRY Oyj
+PMV.F,"NOS, S.G.P.S., S.A."
+7AA.F,Aperam S.A.
+GYC.F,Grand City Properties S.A.
+VBO.F,CGN Mining Company Limited
+KWS.F,KWS SAAT SE & Co. KGaA
+4D3.F,Dongyue Group Limited
+0ON.F,Exchange Income Corporation
+DMP.F,Dermapharm Holding SE
+IPZ.F,Ipsos SA
+124.F,Anima Holding SpA
+RDC.F,Redcare Pharmacy NV
+VK4.F,Veidekke ASA
+MNL.F,Moltiply Group S.p.A.
+NB2.F,Northern Data AG
+SBG1.F,Seacoast Banking Corporation of Florida
+PQ3.F,"Provident Financial Services, Inc."
+COG.F,Cogeco Communications Inc.
+68C.F,China Conch Venture Holdings Limited
+TT4.F,Trustmark Corporation
+3N8.F,Nabtesco Corporation
+ETA.F,Paradox Interactive AB (publ)
+M46.F,Alleima AB (publ)
+8PO.F,Pola Orbis Holdings Inc.
+SQE.F,"Strategic Education, Inc."
+134.F,Seplat Energy Plc
+FLQ.F,Fletcher Building Limited
+ORW.F,OneSpaWorld Holdings Limited
+LCQ.F,Exxaro Resources Limited
+5EJ.F,"Ezaki Glico Co., Ltd."
+GV9.F,Enterprise Financial Services Corp
+2JM.F,Nyfosa AB (publ)
+VTFN.F,Vitrolife AB (publ)
+DEQ.F,Deutsche EuroShop AG
+7VS.F,Vitec Software Group AB (publ)
+0VK.F,Storskogen Group AB (publ)
+9SI.F,Standex International Corporation
+BV0.F,Bravida Holding AB (publ)
+WXF.F,Hilltop Holdings Inc.
+WML1.F,Wilh. Wilhelmsen Holding ASA
+NPG.F,"Nippon Electric Glass Co., Ltd."
+1U3.F,Bic Camera Inc.
+PSM.F,ProSiebenSat.1 Media SE
+LNH.F,Lancashire Holdings Limited
+4KK1.F,Electrolux Professional AB (publ)
+9TA1.F,Tamarack Valley Energy Ltd.
+DPN.F,DIC Corporation
+FAU.F,Forvia SE
+SHN.F,Shangri-La Asia Limited
+EZM.F,OPmobility SE
+OFP.F,OFG Bancorp
+21Q.F,WH Smith PLC
+SGI.F,Shanghai Industrial Holdings Limited
+4QI.F,Xtep International Holdings Limited
+SOH1.F,Soitec SA
+V94.F,"Mabuchi Motor Co., Ltd."
+GXI.F,Gerresheimer AG
+PFV.F,Pfeiffer Vacuum Technology AG
+7HL.F,Hill & Smith PLC
+WAC.F,Wacker Neuson SE
+4IK.F,The Bank of N.T. Butterfield & Son Limited
+1YX.F,Yixin Group Limited
+B3Y1.F,Afry AB
+RHF.F,RHI Magnesita N.V.
+AIXA.F,AIXTRON SE
+63Z.F,First National Financial Corporation
+MMT.F,Métropole Télévision S.A.
+1AKA.F,Aker Solutions ASA
+GR1.F,Greentown Service Group Co. Ltd.
+10H.F,Scandic Hotels Group AB (publ)
+DUE.F,Dürr Aktiengesellschaft
+V02.F,Höegh Autoliners ASA
+TMV.F,TeamViewer SE
+0H5.F,"HCI Group, Inc."
+KYL.F,KLN Logistics Group Limited
+LI3.F,Lisi S.A.
+FU7.F,Shougang Fushan Resources Group Limited
+MKL.F,Atea ASA
+OUTA.F,Outokumpu Oyj
+N33.F,NP3 Fastigheter AB (publ)
+HP6H.F,Harbin Electric Company Limited
+5I4.F,Bakkavor Group plc
+CEC.F,Ceconomy AG
+PGJ.F,Towngas Smart Energy Company Limited
+4TS.F,Terveystalo Oyj
+NWG0.F,New Wave Group AB (publ)
+MYM.F,Mayr-Melnhof Karton AG
+AF8.F,AF Gruppen ASA
+YIR.F,Yihai International Holding Ltd.
+KTN.F,Kontron AG
+KSB.F,KSB SE & Co. KGaA
+P2C.F,PT Avia Avian Tbk
+HHFA.F,Hamburger Hafen und Logistik Aktiengesellschaft
+VOS.F,Vossloh AG
+E8F.F,CIMC Enric Holdings Limited
+HBH.F,HORNBACH Holding AG & Co. KGaA
+BIO.F,Biotest Aktiengesellschaft
+FCF.F,First Commonwealth Financial Corporation
+AD8.F,Arcos Dorados Holdings Inc.
+NWK.F,Northwest Natural Holding Company
+NBF.F,Nolato AB (publ)
+OHB.F,OHB SE
+3IB.F,PT Indo Tambangraya Megah Tbk
+6N5.F,Cibus Nordic Real Estate AB (publ)
+1FH.F,Freehold Royalties Ltd.
+ICQ.F,Invisio AB (publ)
+AQY.F,ArcBest Corporation
+MOI.F,"Monarch Casino & Resort, Inc."
+E3B.F,Eutelsat Communications S.A.
+2GP.F,Alimak Group AB (publ)
+ACT.F,AlzChem Group AG
+L5E.F,Lindab International AB (publ)
+ER7.F,ERAMET S.A.
+EUZ.F,Eckert & Ziegler SE
+YSN.F,secunet Security Networks Aktiengesellschaft
+C5H.F,Cairn Homes plc
+1O3.F,iFAST Corporation Ltd.
+ELG.F,Elmos Semiconductor SE
+RYTB.F,StarHub Ltd
+F3DC.F,Fugro N.V.
+31S.F,Stella International Holdings Limited
+RY2.F,Dah Sing Banking Group Limited
+SHVA.F,Shoucheng Holdings Limited
+917.F,engcon AB (publ)
+LMF.F,Lindsay Corporation
+WO6.F,Worldline SA
+9N3.F,Pigeon Corporation
+7TC.F,"Tokai Carbon Co., Ltd."
+EGG.F,"Energizer Holdings, Inc."
+WUW.F,Wüstenrot & Württembergische AG
+C44.F,China Resources Building Materials Technology Holdings Limited
+G90.F,"The Greenbrier Companies, Inc."
+AR7.F,Addnode Group AB (publ)
+NXU.F,Nexus AG
+9U0.F,SY Holdings Group Limited
+M3D.F,Industrie De Nora S.p.A.
+HYQ.F,Hypoport SE
+2RG.F,Europris ASA
+02M1.F,Raffles Medical Group Ltd
+5F3.F,JINS HOLDINGS Inc.
+PFI.F,Palfinger AG
+3R2.F,Richelieu Hardware Ltd.
+GAB.F,"German American Bancorp, Inc."
+1DH.F,Clarkson PLC
+1CD.F,"Cadre Holdings, Inc."
+COP.F,CompuGroup Medical SE & Co. KGaA
+NB9.F,National Bank Holdings Corporation
+01K.F,Keller Group plc
+YOU.F,About You Holding SE
+JL80.F,Norconsult ASA
+UEN.F,Ubisoft Entertainment SA
+4NK.F,Norbit ASA
+EVT.F,Evotec SE
+DRW8.F,Drägerwerk AG & Co. KGaA
+NWC.F,Norwegian Air Shuttle ASA
+VH2.F,Friedrich Vorwerk Group SE
+A8X.F,Fiskars Oyj Abp
+21T.F,Bodycote plc
+IMW.F,4imprint Group plc
+47Y.F,"Veritex Holdings, Inc."
+DOU.F,Douglas AG
+C41.F,"CGN New Energy Holdings Co., Ltd."
+DEH.F,"Delek US Holdings, Inc."
+9GR.F,Gränges AB (publ)
+PNE3.F,PNE AG
+NRB.F,"Hope Bancorp, Inc."
+PLUN.F,Plug Power Inc.
+Z2J.F,"Worthington Steel, Inc."
+SPB.F,Sedlmayr Grund und Immobilien AG
+0P5.F,Genuit Group plc
+WAF.F,Siltronic AG
+CSUA.F,Corbion N.V.
+7M1.F,Mips AB (publ)
+GHK.F,Great Eagle Holdings Limited
+ADV.F,Adtran Networks SE
+5CV.F,CureVac N.V.
+LP1.F,"Leggett & Platt, Incorporated"
+V4S.F,Vesuvius plc
+96S.F,Stepan Company
+BFSA.F,Befesa S.A.
+E3E.F,Elementis plc
+JEN.F,Jenoptik AG
+36L.F,361 Degrees International Limited
+KLU1.F,Kaiser Aluminum Corporation
+5IW.F,Inwido AB (publ)
+SZG.F,Salzgitter AG
+PQX1.F,Biotage AB (publ)
+9J7.F,Elopak ASA
+LMP.F,Lee & Man Paper Manufacturing Limited
+9JO.F,Guaranty Trust Holding Company Plc
+6SZA.F,Sanlorenzo S.p.A.
+C1P.F,Consun Pharmaceutical Group Limited
+0NR.F,Uniphar plc
+SFW.F,Capital Southwest Corporation
+BHJC.F,Bilia AB (publ)
+KP5.F,Kitron ASA
+DG20.F,Diversified Energy Company PLC
+CHG.F,CHAPTERS Group AG
+50J.F,Kangji Medical Holdings Limited
+DSR.F,Dah Sing Financial Holdings Limited
+H1Q.F,China BlueChemical Ltd.
+MHR.F,"MillerKnoll, Inc."
+PHQ.F,ME Group International plc
+SMS2.F,PT Semen Indonesia (Persero) Tbk
+S00.F,Spire Healthcare Group plc
+RLD.F,"RPC, Inc."
+10I.F,Kier Group plc
+27R.F,RaySearch Laboratories AB (publ)
+B7O.F,CITIC Telecom International Holdings Limited
+GGG.F,PT Gudang Garam Tbk
+TIMA.F,ZEAL Network SE
+6LT.F,Bird Construction Inc.
+BJVC.F,Corem Property Group AB (publ)
+BF2A.F,Bel Fuse Inc.
+42H.F,Bank First Corporation
+MQ1.F,TriMas Corporation
+MLP.F,MLP SE
+C43.F,Cosmo Pharmaceuticals N.V.
+44F.F,"Byline Bancorp, Inc."
+0QW.F,J D Wetherspoon plc
+DEZ.F,DEUTZ Aktiengesellschaft
+ZWS.F,"Telia Lietuva, AB"
+36Z.F,"Origin Bancorp, Inc."
+C9IB.F,Lonking Holdings Limited
+07M.F,China Modern Dairy Holdings Ltd.
+G1U.F,Harvia Oyj
+WBAH.F,Wild Bunch AG
+BGLA.F,BioGaia AB (publ)
+LET.F,Lectra SA
+MBH3.F,Maschinenfabrik Berthold Hermle AG
+F3T1.F,Ferretti S.p.A.
+6SN.F,Nakanishi Inc.
+CFH.F,China Foods Limited
+MUM.F,Mensch und Maschine Software SE
+TO5.F,"artience Co., Ltd."
+FAG.F,Hilton Food Group plc
+GML0.F,Global Industrial Company
+BFV.F,Berliner Effektengesellschaft AG
+COK.F,Cancom SE
+F2P.F,Gushengtang Holdings Limited
+D1F.F,Diös Fastigheter AB (publ)
+PHH2.F,Paul Hartmann AG
+3MI.F,PageGroup plc
+V8E.F,Platzer Fastigheter Holding AB (publ)
+NBO.F,Nisshinbo Holdings Inc.
+S97.F,Savaria Corporation
+8BI.F,Health and Happiness (H&H) International Holdings Limited
+AM8.F,AMAG Austria Metall AG
+1S5.F,Morimatsu International Holdings Company Limited
+H0A.F,"Kasumigaseki Capital Co.,Ltd."
+AZ9.F,Chervon Holdings Limited
+LEN.F,Lenzing Aktiengesellschaft
+NRE.F,Nokian Renkaat Oyj
+ACD.F,Adecoagro S.A.
+V7P.F,Bonheur ASA
+1JD.F,Senior plc
+2HK.F,HKBN Ltd.
+8QA.F,MilDef Group AB (publ)
+KHP.F,Kohl's Corporation
+3E4.F,Enghouse Systems Limited
+1O4.F,Japfa Ltd.
+A39.F,Arjo AB (publ)
+A0B0.F,Amalgamated Financial Corp.
+SMHN.F,SUSS MicroTec SE
+R9B.F,DeFi Technologies Inc.
+A9F.F,Alfa Financial Software Holdings PLC
+1QG.F,Marshalls plc
+WFG1.F,West China Cement Limited
+AI2.F,"Astec Industries, Inc."
+9MU.F,Mullen Group Ltd.
+TQR.F,Beijing Tong Ren Tang Chinese Medicine Company Limited
+BB3.F,"Brookline Bancorp, Inc."
+7AT.F,Attendo AB (publ)
+Z7K.F,"Maeda Kosen Co., Ltd."
+5TOA.F,Troax Group AB (publ)
+8J0.F,Tompkins Financial Corporation
+JST.F,JOST Werke SE
+5XE.F,Extendicare Inc.
+0OV1.F,OVS S.p.A.
+SCB.F,Séché Environnement SA
+DR1.F,Dream International Limited
+XB1.F,NCAB Group AB (publ)
+MBB.F,MBB SE
+C0Y.F,Cardinal Energy Ltd.
+SS1A.F,"Radius Recycling, Inc."
+CBM.F,"ConnectOne Bancorp, Inc."
+A3I.F,"AMERISAFE, Inc."
+HA6.F,"Haitong Unitrust International Financial Leasing Co., Ltd."
+UVE.F,Univest Financial Corporation
+ZVB.F,Zignago Vetro S.p.A.
+PAT.F,PATRIZIA SE
+SFQ.F,SAF-Holland SE
+MUX.F,Mutares SE & Co. KGaA
+NA9.F,Nagarro SE
+X64.F,Momentum Group AB (publ)
+ANP.F,"Apogee Enterprises, Inc."
+2I5.F,Ibstock plc
+9EE.F,Zinzino AB (publ)
+BV4.F,Bouvet ASA
+OVI.F,Olvi Oyj
+9FZ.F,Synsam AB (publ)
+VBK.F,Verbio SE
+8AC.F,Acomo N.V.
+PBB.F,Deutsche Pfandbriefbank AG
+P8X.F,PAX Global Technology Limited
+CFW.F,"Capitol Federal Financial, Inc."
+CWC.F,CEWE Stiftung & Co. KGaA
+OSB.F,"Old Second Bancorp, Inc."
+TNIE.F,tonies SE
+FQT.F,Frequentis AG
+UK6A.F,Harworth Group plc
+9ND.F,"HBT Financial, Inc."
+5UI.F,"Universal Insurance Holdings, Inc."
+3GH.F,Kaufman & Broad S.A.
+C1S.F,China Shineway Pharmaceutical Group Limited
+MR9.F,Midea Real Estate Holding Limited
+P1I.F,Piaggio & C. SpA
+CJW1.F,Chow Sang Sang Holdings International Limited
+S92.F,SMA Solar Technology AG
+SSH.F,Südwestdeutsche Salzwerke AG
+ROF.F,Kforce Inc.
+MCS.F,Mercantile Bank Corporation
+NLM.F,FRoSTA Aktiengesellschaft
+GLJ.F,Grenke AG
+8SF.F,Sligro Food Group N.V.
+DIN.F,Digital China Holdings Limited
+3ND.F,NetDragon Websoft Holdings Limited
+0KZA.F,Amerant Bancorp Inc.
+CMJ.F,"Poly Property Group Co., Limited"
+EKT.F,Energiekontor AG
+SIS.F,First Sensor AG
+7IR.F,"MetroCity Bankshares, Inc."
+7XY.F,Swedencare AB (publ)
+KCO.F,Klöckner & Co SE
+S0A.F,Scanfil Oyj
+9MF.F,MTY Food Group Inc.
+OL5.F,Shui On Land Limited
+NBG6.F,NÜRNBERGER Beteiligungs-AG
+BZ1.F,Assystem S.A.
+S3T.F,"Shutterstock, Inc."
+ADG.F,AMG Critical Materials N.V.
+3TW.F,CoinShares International Limited
+Q75.F,Integral Corporation
+GFT.F,GFT Technologies SE
+0SL.F,Scandi Standard AB (publ)
+3B7.F,Bahnhof AB (publ)
+IJ8.F,ITM Power Plc
+1PH.F,China Resources Medical Holdings Company Limited
+ALI.F,Almonty Industries Inc.
+2ZP.F,Avio S.p.A.
+4IIA.F,Instalco AB (publ)
+ZHY.F,Zhou Hei Ya International Holdings Company Limited
+KU4.F,VBG Group AB (publ)
+EG7.F,FBD Holdings plc
+1OM.F,Meko AB (publ)
+ADN1.F,adesso SE
+4W9.F,Pexip Holding ASA
+5QR.F,Nederman Holding AB (publ)
+6UP.F,Thungela Resources Limited
+PCZ.F,ProCredit Holding AG
+2GB.F,2G Energy AG
+WSU.F,WashTec AG
+4C6.F,Hutchison Telecommunications Hong Kong Holdings Limited
+MKS.F,AS Merko Ehitus
+T7U.F,"Riley Exploration Permian, Inc."
+97Q.F,Kid ASA
+C6F.F,cBrain A/S
+OUE1.F,OUE Limited
+HJ1.F,Core Laboratories Inc.
+INH.F,INDUS Holding AG
+VZ8.F,China Aviation Oil (Singapore) Corporation Ltd
+5R02.F,"Ramaco Resources, Inc."
+OFR.F,"Orrstown Financial Services, Inc."
+D6H.F,DATAGROUP SE
+EUK3.F,EUROKAI GmbH & Co. KGaA
+4S4.F,"South Plains Financial, Inc."
+4F6.F,Five Star Bancorp
+7T4.F,Tinexta S.p.A.
+CBE.F,Mersen S.A.
+V7Y.F,Heba Fastighets AB (publ)
+CC3.F,"Cass Information Systems, Inc."
+1PU2.F,SP Group A/S
+1KS.F,"Shizuoka Gas Co., Ltd."
+3SY.F,"NIPPON PARKING DEVELOPMENT Co.,Ltd."
+FYB.F,Formycon AG
+HG1.F,HOMAG Group AG
+F0T.F,Forterra plc
+T5N.F,AS Tallink Grupp
+NKO.F,"Nikkiso Co., Ltd."
+WQ9.F,Wilson Bayly Holmes-Ovcon Limited
+5AO.F,Anton Oilfield Services Group
+BIU2.F,China Everbright Water Limited
+316.F,"Capital Bancorp, Inc."
+2ZI.F,"Eagle Bancorp, Inc."
+SL1.F,Scholastic Corporation
+B7C0.F,d'Amico International Shipping S.A.
+PSAN.F,PSI Software SE
+HDD.F,Heidelberger Druckmaschinen Aktiengesellschaft
+1CY.F,China Yongda Automobiles Services Holdings Limited
+MLI.F,"Mesa Laboratories, Inc."
+W2F.F,The Straits Trading Company Limited
+O060.F,Eastnine AB (publ)
+13B.F,bpost NV/SA
+VUL.F,Vulcan Energy Resources Limited
+B28.F,B2 Impact ASA
+317A.F,Stingray Group Inc.
+AAD.F,Amadeus FiRe AG
+BVB.F,Borussia Dortmund GmbH & Co. Kommanditgesellschaft auf Aktien
+SGL.F,SGL Carbon SE
+41Z0.F,Surge Energy Inc.
+AYJ.F,Valneva SE
+LS2.F,LSI Industries Inc.
+45V.F,Peapack-Gladstone Financial Corporation
+3RE.F,Rejlers AB (publ)
+9VC.F,Atai Life Sciences N.V.
+MM7.F,Mears Group plc
+RYO1.F,Ryobi Limited
+2DU.F,Duni AB (publ)
+0NY.F,Linklogis Inc.
+SER1.F,PetroTal Corp.
+B7H.F,Horizon Construction Development Limited
+9YM.F,"Krispy Kreme, Inc."
+1RQ.F,Cheerwin Group Limited
+C26.F,CellaVision AB (publ)
+76E.F,Cogeco Inc.
+OIZ.F,Origin Enterprises plc
+49R.F,Raksul Inc.
+W2B.F,Magnera Corporation
+ETG.F,EnviTec Biogas AG
+6AH.F,Ausnutria Dairy Corporation Ltd
+1J2.F,Warpaint London PLC
+TPE.F,PVA TePla AG
+SIM0.F,SIMONA Aktiengesellschaft
+3YU.F,Jiumaojiu International Holdings Limited
+SP8.F,"The Shyft Group, Inc."
+ZYE1.F,Addiko Bank AG
+IXX.F,init innovation in traffic systems SE
+9BA.F,ABC arbitrage SA
+6X8.F,"Nissha Co., Ltd."
+AJC.F,Atria Oyj
+FOBK.F,"kneat.com, inc."
+1W6.F,Idun Industrier AB (publ)
+VC3.F,Columbus McKinnon Corporation
+5FF.F,ForFarmers N.V.
+S8T.F,SThree plc
+AB9.F,ABO Energy GmbH & Co. KGaA
+74O.F,Atrium Mortgage Investment Corporation
+BIJ.F,Bijou Brigitte modische Accessoires Aktiengesellschaft
+45D.F,"First Business Financial Services, Inc."
+7GE.F,Geo Energy Resources Limited
+O5P.F,Far East Orchard Limited
+NR1A.F,National Research Corporation
+2HQ.F,"Tilray Brands, Inc."
+IVU.F,IVU Traffic Technologies AG
+CA1.F,Circus SE
+TLJ.F,Tian Lun Gas Holdings Limited
+84H.F,"Sichuan Energy Investment Development Co., Ltd."
+PSG.F,PharmaSGP Holding SE
+QJ8.F,Saratoga Investment Corp.
+BYW.F,BayWa Aktiengesellschaft
+S5L.F,Standard Lithium Ltd.
+HOF.F,Essentra plc
+JDC.F,JDC Group AG
+1ZK.F,Elmera Group ASA
+MD1.F,Medistim ASA
+9CK.F,China Kepei Education Group Limited
+ILM1.F,Medios AG
+169.F,Aeroporto Guglielmo Marconi di Bologna S.p.A.
+UZU.F,Uzin Utz SE
+BSL.F,Basler Aktiengesellschaft
+TW4.F,Ependion AB
+ST5.F,STEICO SE
+ZVF.F,Indofood Agri Resources Ltd.
+MV4.F,"Movado Group, Inc."
+DAB.F,ABG Sundal Collier Holding ASA
+44Q.F,"Civista Bancshares, Inc."
+6U2.F,"Southern States Bancshares, Inc."
+P5C.F,Pou Sheng International (Holdings) Limited
+74X.F,Firm Capital Mortgage Investment Corporation
+TZ0.F,"Jinmao Property Services Co., Limited"
+SBS.F,Stratec SE
+S2B.F,Selvaag Bolig ASA
+74R.F,K-Bro Linen Inc.
+JY0.F,ParTec AG
+3YM.F,Wee Hur Holdings Ltd.
+WB3.F,"West Bancorporation, Inc."
+EIS.F,Eisen- und Hüttenwerke AG
+ZIL2.F,ElringKlinger AG
+A9W1.F,SIIC Environment Holdings Ltd.
+17F.F,FDM Group (Holdings) plc
+BYY.F,Byggmax Group AB (publ)
+Q49.F,Svedbergs Group AB (publ)
+A3B.F,ACCO Brands Corporation
+NWQ.F,Best Pacific International Holdings Limited
+MRR.F,Reach plc
+PIU0.F,Proact IT Group AB (publ)
+4CM.F,YesAsia Holdings Limited
+A1OS.F,All for One Group SE
+HVB.F,ÜSTRA Hannoversche Verkehrsbetriebe Aktiengesellschaft
+93J.F,Polaris Media ASA
+XCC.F,CSE Global Limited
+SUR.F,Surteco Group SE
+5SZ.F,RBB Bancorp
+1O7.F,Banyan Tree Holdings Limited
+GIO.F,Giordano International Limited
+HTG.F,HomeToGo SE
+QGU.F,"Quad/Graphics, Inc."
+VIH1.F,VIB Vermögen AG
+97V.F,S&U plc
+HXCK.F,Ernst Russ AG
+DT8A.F,Datalogic S.p.A.
+FEW.F,Funkwerk AG
+33W.F,"Bankwell Financial Group, Inc."
+MXHN.F,MAX Automation SE
+6OJ.F,Stelrad Group PLC
+0Q3.F,"Beyond Meat, Inc."
+703.F,Alfen N.V.
+BWB.F,Baader Bank Aktiengesellschaft
+OKO.F,Plumas Bancorp
+EUX.F,EUWAX Aktiengesellschaft
+HAW.F,Hawesko Holding SE
+5K6.F,Macfarlane Group PLC
+6H90.F,Healwell AI Inc.
+XTP.F,Sino AG
+A1T.F,AS Tallinna Vesi
+SB1.F,Smartbroker Holding AG
+7H80.F,Primis Financial Corp.
+CB4.F,CAC Holdings Corporation
+BDT.F,Bertrandt Aktiengesellschaft
+LUS1.F,Lang & Schwarz Aktiengesellschaft
+HBD1.F,Philomaxcap AG
+TUS.F,Tuan Sing Holdings Limited
+PD7.F,"Public Policy Holding Company, Inc."
+2DZ.F,Bredband2 i Skandinavien AB (publ)
+LNSX.F,Allane SE
+7P0.F,"Ichikoh Industries, Ltd."
+LPK.F,LPKF Laser & Electronics SE
+FJV.F,Concurrent Technologies Plc
+STG.F,STINAG Stuttgart Invest AG
+TPG.F,The Platform Group AG
+ADE.F,Bitcoin Group SE
+HGR.F,Ecora Resources PLC
+Z29.F,029 Group SE
+UBK.F,UmweltBank AG
+DR0.F,Deutsche Rohstoff AG
+2HRA.F,H&R GmbH & Co. KGaA
+MPCK.F,MPC Münchmeyer Petersen Capital AG
+EA5B.F,Elanders AB (publ)
+NVM.F,Novem Group S.A.
+GSC1.F,Gesco SE
+88Q.F,4basebio PLC
+HPHA.F,Heidelberg Pharma AG
+P1F.F,Columbus A/S
+O1U1.F,Penguin International Limited
+SYV.F,3D Systems Corporation
+34Q0.F,Quantum eMotion Corp.
+2E3.F,Epwin Group Plc
+FAA.F,Fabasoft AG
+OEL.F,ADM Hamburg Aktiengesellschaft
+QB7.F,Quirin Privatbank AG
+TVJ.F,TSUKADA GLOBAL HOLDINGS Inc.
+WS7A.F,Binhai Investment Company Limited
+DZR.F,Avingtrans plc
+RBW.F,Robert Walters plc
+SJJ.F,Serviceware SE
+6LY.F,Wuling Motors Holdings Limited
+N4T.F,Polaris Renewable Energy Inc.
+BRNK.F,Branicks Group AG
+MULT.F,Multitude AG
+HRPK.F,7C Solarparken AG
+489.F,"Western New England Bancorp, Inc."
+MED.F,MEDICLIN Aktiengesellschaft
+OP3.F,OP Bancorp
+NP5.F,Newron Pharmaceuticals S.p.A.
+WEW.F,Westwing Group SE
+KGR.F,LEWAG Holding Aktiengesellschaft
+LEI.F,Leifheit Aktiengesellschaft
+4QM.F,ADF Group Inc.
+5GS1.F,Readly International AB (publ)
+BKHT.F,Brockhaus Technologies AG
+7PK0.F,Inspired Plc
+D77.F,DN Deutsche Nachhaltigkeit AG
+AGR.F,AGROB Immobilien AG
+2DI.F,Microlise Group plc
+KTA.F,Knaus Tabbert AG
+GTY.F,Gateway Real Estate AG
+9VI.F,"Tess Holdings Co.,Ltd."
+ED4.F,EDAG Engineering Group AG
+MUT.F,Mineralbrunnen Überkingen-Teinach GmbH & Co. KGaA
+WUG.F,Westag AG
+9WR.F,OMER S.p.A.
+NTG.F,Nabaltec AG
+DEF.F,DEFAMA Deutsche Fachmarkt AG
+4SM.F,Magnora ASA
+3YL.F,Smartoptics Group AS
+BST.F,Bastei Lübbe AG
+F3J.F,Formpipe Software AB (publ)
+MPO.F,Michelmersh Brick Holdings plc
+1HQ.F,Ten Square Games S.A.
+MBK.F,Merkur PrivatBank KgaA
+A4W.F,Arise AB (publ)
+DRE2.F,Deutsche Real Estate AG
+FEY.F,"FuelCell Energy, Inc."
+NC91.F,IAR Systems Group AB (publ)
+81N.F,RugVista Group AB (publ)
+FC9.F,FCR Immobilien AG
+OA5.F,Dynacor Group Inc.
+SWA.F,Schloss Wachenheim AG
+5L0.F,"MainStreet Bancshares, Inc."
+A7A.F,Heliad AG
+I49.F,Master Drilling Group Limited
+41Y.F,"BCB Bancorp, Inc."
+CTNK.F,centrotherm international AG
+7EVB.F,Eolus Aktiebolag (publ)
+LIK.F,LIMES Schlosskliniken AG
+RE3.F,"Richardson Electronics, Ltd."
+3FB.F,Bulten AB (publ)
+QBY.F,q.beyond AG
+ABO.F,clearvise AG
+SO0.F,"Being Holdings Co., Ltd."
+CEK.F,CeoTronics AG
+F7Y.F,Gaush Meditech Ltd
+8F5.F,"Eagle Bancorp Montana, Inc."
+BIKE.F,Bike24 Holding AG
+26Q.F,ABL Group ASA
+SRAG.F,Samara Asset Group plc
+BSS.F,Beta Systems Software AG
+NFN.F,NFON AG
+AJN.F,Ajisen (China) Holdings Limited
+NF4.F,Netfonds AG
+9KH.F,"SB Financial Group, Inc."
+GMM.F,Grammer AG
+7V0.F,Darwin AG
+KI9A.F,Anpario plc
+I8D.F,ISDN Holdings Limited
+7JB.F,Arla Plast AB
+PYR.F,Pyrum Innovations AG
+APPH.F,Apontis Pharma AG
+PC9.F,Decisive Dividend Corporation
+BG8.F,Bridgemarq Real Estate Services Inc.
+PWO.F,PWO AG
+W98.F,Micro Systemation AB (publ)
+CY1K.F,SBF AG
+R8C.F,"RACCOON HOLDINGS, Inc."
+K6V0.F,Unidata S.p.A.
+EDL.F,Edel SE & Co. KGaA
+VMED.F,Viromed Medical AG
+59N.F,NPC Incorporated
+SPT6.F,Sparta AG
+93M1.F,MPH Health Care AG
+7L4.F,Elica S.p.A.
+B7E.F,Blue Cap AG
+DAM.F,DATA MODUL Aktiengesellschaft Produktion und Vertrieb von elektronischen Systemen
+EXL.F,Exasol AG
+H2O.F,Enapter AG
+04T.F,Tian Ge Interactive Holdings Limited
+U3I.F,G5 Entertainment AB (publ)
+IUR.F,KAP AG
+V3V.F,FamiCord AG
+LQAG.F,Laiqon AG
+3DJ.F,Ultimate Products Plc
+K13.F,CombinedX AB (publ)
+4DS.F,Daldrup & Söhne Aktiengesellschaft
+WOLF.F,Meta Wolf AG
+45P.F,Playmates Toys Limited
+16T.F,Kreate Group Oyj
+DMRE.F,DEMIRE Deutsche Mittelstand Real Estate AG
+CSH.F,CENIT Aktiengesellschaft
+OBS.F,ORBIS AG
+H2A.F,H2APEX Group SCA
+GFG.F,Global Fashion Group S.A.
+TSS.F,InnoTec TSS AG
+IRI.F,Itera ASA
+0XD.F,Reconnaissance Energy Africa Ltd.
+APM.F,ad pepper media International N.V.
+2INV.F,2invest AG
+NWX.F,Nordwest Handel AG
+1GG.F,Nilörngruppen AB
+3TT0.F,Tecnotree Oyj
+CGX.F,CGRE AG
+ART.F,Artnet AG
+250.F,Wall to Wall Group AB
+RNR.F,Synectics plc
+PZS.F,Scherzer & Co. AG
+LRND.F,learnd SE
+SMB.F,Schwälbchen Molkerei Jakob Berz AG
+IFS.F,Infas Holding AG
+AJ91.F,DocCheck AG
+PTP.F,Pentixapharm Holding AG
+MSH.F,WASGAU Produktions & Handels AG
+SVE.F,Shareholder Value Beteiligungen AG
+HNL.F,Dr. Hönle AG
+ALG.F,ALBIS Leasing AG
+45I.F,First Northwest Bancorp
+ALXA.F,Alexanderwerk Aktiengesellschaft
+3ITN.F,audius SE
+ECK.F,LUDWIG BECK am Rathauseck - Textilhaus Feldmeier AG
+CYR.F,cyan AG
+FEV.F,FORTEC Elektronik AG
+HLG.F,Highlight Communications AG
+VBX.F,Voltabox AG
+FHW.F,Fernheizwerk Neukölln Aktiengesellschaft
+FVI.F,Fair Value REIT-AG
+MRX.F,Mister Spex SE
+76M0.F,Realbotix Corp.
+4Z2.F,Hopscotch Global PR Group
+K9I.F,Skillcast Group plc
+YOC.F,YOC AG
+UUU.F,3U Holding AG
+V6C.F,Viscom SE
+Q59.F,Adtraction Group AB
+R87.F,Nexteq plc
+E4C.F,ecotel communication ag
+M3V.F,MeVis Medical Solutions AG
+FPH.F,Francotyp-Postalia Holding AG
+MSAG.F,MS Industrie AG
+BXT.F,BioNxt Solutions Inc.
+PEH.F,PEH Wertpapier AG
+BNN.F,BRAIN Biotech AG
+N4G.F,The NAGA Group AG
+2MF.F,"Mobile Factory, Inc."
+CL6.F,Dedicare AB (publ)
+BEZ.F,Berentzen-Gruppe Aktiengesellschaft
+MLL.F,Müller - Die lila Logistik SE
+DIE.F,Dierig Holding AG
+ADJ.F,Adler Group S.A.
+EDD3.F,edding AG
+BLH.F,BREMER LAGERHAUS-GESELLSCHAFT -Aktiengesellschaft von 1877-
+TR9.F,OTRS AG
+DEX.F,Delticom AG
+PSH0.F,Sernova Biotherapeutics Inc
+KSC.F,KPS AG
+CLIQ.F,Cliq Digital AG
+SYT.F,Softing AG
+DAR.F,DATRON AG
+MAK.F,Maternus-Kliniken Aktiengesellschaft
+81D.F,beaconsmind AG
+IBU.F,IBU-tec advanced materials AG
+IPOK.F,Heidelberger Beteiligungsholding AG
+PAL.F,PAL Next AG
+H9W.F,HWA AG
+R1B.F,Rubean AG
+WFA.F,Weng Fine Art AG
+DLX.F,Delignit AG
+LSX.F,LS telcom AG
+ISHA.F,INTERSHOP Communications Aktiengesellschaft
+SBX.F,SynBiotic SE
+123F.F,123fahrschule SE
+HYI.F,Hyrican Informationssysteme Aktiengesellschaft
+C3RY.F,Cherry SE
+UCA1.F,U.C.A. Aktiengesellschaft
+VEZ.F,Veganz Group AG
+NN6.F,NanoRepro AG
+ACWN.F,A.S. Création Tapeten AG
+DFTK.F,DF Deutsche Forfait AG
+RTV.F,Your Family Entertainment AG
+AAQ1.F,aap Implantate AG
+ACX.F,bet-at-home.com AG
+SF3.F,STS Group AG
+FRS.F,FORIS AG
+EMH.F,pferdewetten.de AG
+M3BK.F,Pyramid AG
+ADC.F,AdCapital AG
+GME.F,Geratherm Medical AG
+RCMN.F,RCM Beteiligungs AG
+ECF.F,Mountain Alliance AG
+TGT.F,11880 Solutions AG
+HGEA.F,hGears AG
+LMIA.F,LION E-Mobility AG
+AMA.F,Altech Advanced Materials AG
+P4O.F,Planoptik AG
+CFC.F,aconnic AG
+PLEK.F,plenum AG
+02P.F,Pearl Gold AG
+VRL.F,Net-Digital AG
+ELB.F,elumeo SE
+TBX0.F,tick Trading Software AG
+SCE.F,Schweizer Electronic AG
+PKB.F,Park & Bellheimer AG
+GTK.F,Tonkens Agrar AG
+SZ50.F,Lübke Kelber AG
+RGB.F,Regenbogen AG
+A07.F,Avance Gas Holding Ltd
+TUF.F,LIBERO Football Finance AG
+DTD2.F,B+S Banksysteme Aktiengesellschaft
+3SQ1.F,AHT Syngas Technology N.V.
+14D.F,tokentus investment AG
+VSC.F,4SC AG
+C1V.F,mVISE AG
+MBQ.F,Mobotix AG
+ERO.F,tmc Content Group AG
+EAD.F,Erlebnis Akademie AG
+BIG1.F,Bio-Gate AG
+IS7.F,InTiCa Systems SE
+ITN.F,Intertainment AG
+ABX.F,Advanced Blockchain AG
+92T.F,Mustang Energy Corp.
+H68.F,Rigsave S.P.A.
+M0YN.F,Mynaric AG
+M5S.F,H2 Core AG
+ERWE.F,ERWE Immobilien AG
+B9B.F,BHB Brauholding Bayern-Mitte AG
+TUR.F,Turbon AG
+DCIK.F,DCI Database for Commerce and Industry AG
+A4Y.F,ACCENTRO Real Estate AG
+SPC.F,Staige One AG
+MA10.F,Binect AG
+AMI.F,medondo holding AG
+BMM.F,Brüder Mannesmann Aktiengesellschaft
+75S.F,sdm SE
+A6T.F,artec technologies AG
+MS1.F,Marley Spoon Group SE
+TTO.F,TTL Beteiligungs- und Grundbesitz-AG
+KSW.F,KST Beteiligungs AG
+EFF.F,Deutsche Effecten- und Wechsel-Beteiligungsgesellschaft AG
+CPU2.F,CPU Softwarehouse AG
+ICP.F,Panamax New Energy AG
+TLIK.F,Arzneiwerk AG VIDA
+PIT.F,Pittler Maschinenfabrik AG
+GGS.F,Gigaset AG
+EIF.F,MedNation AG
+PDA0.F,PRO DV AG
+GRF.F,Greiffenberger AG
+ML2.F,Ming Le Sports AG
+3330.F,Rostra AG
+EXJ.F,Readcrest Capital AG
+ZEF.F,ZhongDe Waste Technology AG
+LEH.F,Lehner Investments AG
+INW.F,GBS Software AG
+3H1.F,Nexus Uranium Corp.
+U1DA.F,Finchain Capital Partners AG
+E8X.F,elexxion AG
+RTML.F,CAMERIT AG
+FF24.F,Fast Finance24 Holding AG
+MDG1.F,Medigene AG
+WDL1.F,Nakiki SE
+PO1.F,Performance One AG
+UMDK.F,UMT United Mobility Technology AG
+RKB.F,Webac Holding AG
+VEH.F,Valora Effekten Handel AG
+CCB.F,Instant Group AG
+WIG1.F,Sporttotal AG
+ENGL.F,EV Digital Invest AG
+TIS0.F,tiscon AG
+VG0K.F,Vivanco Gruppe AG
+27N0.F,Cannovum Cannabis AG
+123.F,Sassy Gold Corp.
+C0M.F,CCS Abwicklungs AG
+SGU.F,Sino-German United AG
+PU11.F,The Social Chain AG
+AAH.F,Ahlers AG
+PH6.F,Philion SE
+RY8.F,ROY Asset Holding SE
+NXR.F,NeXR Technologies SE
+PA8K.F,Paion AG
+TCU.F,TC Unterhaltungselektronik AG
+CSQ.F,creditshelf Aktiengesellschaft

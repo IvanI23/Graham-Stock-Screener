@@ -1,0 +1,641 @@
+Ticker,Company
+GTII.CN,Green Thumb Industries Inc.
+TRUL.CN,Trulieve Cannabis Corp.
+ASE.CN,Asante Gold Corporation
+VREO.CN,Vireo Growth Inc.
+HODL.CN,Sol Strategies Inc.
+SNDL.CN,SNDL Inc.
+ACT.CN,Aduro Clean Technologies Inc.
+REK.U.CN,Rektron Group Inc.
+DRUG.CN,Bright Minds Biosciences Inc.
+METX.CN,ME Therapeutics Holdings Inc.
+CL.CN,Cresco Labs Inc.
+BOIL.CN,Beyond Oil Ltd.
+HBFG.CN,Happy Belly Food Group Inc.
+QNTM.CN,Quantum BioPharma Ltd.
+GRIN.CN,Grown Rogue International Inc.
+AIAI.CN,NetraMark Holdings Inc.
+SANU.CN,Sanu Gold Corp.
+BLLG.CN,Blue Lagoon Resources Inc.
+URL.CN,NameSilo Technologies Corp.
+YMC.CN,Yukon Metals Corp.
+PLTH.CN,Planet 13 Holdings Inc.
+AAWH.U.CN,"Ascend Wellness Holdings, Inc."
+JUSH.CN,Jushi Holdings Inc.
+CACR.CN,KWG Resources Inc.
+BLO.CN,Cannabix Technologies Inc.
+RAIL.CN,Railtown AI Technologies Inc.
+BNXT.CN,BioNxt Solutions Inc.
+GLAB.CN,Gemina Laboratories Ltd.
+BAR.CN,Barranco Gold Mining Corp.
+CLTE.CN,Clara Technologies Corp.
+ESAU.CN,ESGold Corp.
+ARS.CN,Ares Strategic Mining Inc.
+FRG.CN,Forge Resources Corp.
+INNO.CN,InnoCan Pharma Corporation
+WUC.CN,Western Uranium & Vanadium Corp.
+LEO.CN,Lion Copper and Gold Corp.
+FAT.CN,Foremost Clean Energy Ltd.
+HG.CN,HydroGraph Clean Power Inc.
+USGD.CN,American Pacific Mining Corp.
+MRM.CN,Micromem Technologies Inc.
+SPTZ.CN,Spetz Inc.
+FOX.CN,Fox River Resources Corporation
+KUYA.CN,Kuya Silver Corporation
+SONA.CN,Sona Nanotech Inc.
+DPRO.CN,Draganfly Inc.
+STCU.CN,Star Copper Corp.
+GFCO.CN,The Good Flour Corp.
+AXCP.CN,Axcap Ventures Inc.
+MTLC.CN,MTL Cannabis Corp.
+GTCH.CN,Getchell Gold Corp.
+VEXT.CN,"Vext Science, Inc."
+TWOH.X.CN,Two Hands Corporation
+DTC.CN,Defence Therapeutics Inc.
+KING.CN,King Global Ventures Inc.
+AMQ.CN,Abitibi Metals Corp.
+MRMD.CN,MariMed Inc.
+PRME.CN,Prime Drink Group Corp.
+APXC.CN,Apex Critical Metals Corp.
+TRUE.CN,Treatment.com AI Inc.
+HYLQ.CN,HYLQ Strategy Corp.
+SHLF.CN,Shelfie-Tech Ltd.
+NICO.CN,Class 1 Nickel and Technologies Limited
+NF.CN,Nuclear Fuels Inc.
+IAN.CN,"iAnthus Capital Holdings, Inc."
+LEEF.CN,Leef Brands Inc.
+PHOS.CN,First Phosphate Corp.
+ACM.CN,Allied Critical Metals Inc.
+TOC.CN,Tocvan Ventures Corp.
+LFG.CN,Universal Digital Inc.
+AUCU.CN,Inflection Resources Ltd.
+INTG.CN,Integral Metals Corp.
+EMPS.CN,EMP Metals Corp.
+NVRO.CN,EnviroGold Global Limited
+BUX.CN,Biomark Diagnostics Inc.
+FNT.U.CN,FLUENT Corp.
+MILI.CN,Military Metals Corp.
+DOSE.CN,Rapid Dose Therapeutics Corp.
+JSDA.CN,Jones Soda Co.
+DTR.CN,DiagnosTear Technologies Inc.
+PAU.CN,Provenance Gold Corp.
+CUAU.CN,Forte Minerals Corp.
+AUOZ.CN,Emperor Metals Inc.
+GWAY.CN,Greenway Greenhouse Cannabis Corporation
+WG.CN,Westward Gold Inc.
+ARGL.CN,Argyle Resources Corp.
+VRDN.CN,Viridian Metals Inc.
+RI.CN,Royalties Inc.
+CXXI.CN,C21 Investments Inc.
+EPIC.CN,1CM Inc.
+SCPE.CN,Scope Technologies Corp.
+IRV.CN,Irving Resources Inc.
+TELI.CN,Telescope Innovations Corp.
+SRAN.CN,Sranan Gold Corp.
+GXP.CN,Greenridge Exploration Inc.
+AVE.CN,Aventis Energy Inc.
+MMET.CN,Miata Metals Corp.
+NOM.CN,Norsemont Mining Inc.
+PHRM.CN,PharmaTher Holdings Ltd.
+HYTN.CN,HYTN Innovations Inc.
+CRTL.CN,Critical One Energy Inc.
+HWG.CN,Headwater Gold Inc.
+CSR.CN,Copper Standard Resources Inc.
+PDO.CN,PUDO Inc.
+PREV.CN,PreveCeutical Medical Inc.
+GPK.CN,Grand Peak Capital Corp.
+UE.CN,Urano Energy Corp.
+M.CN,Myriad Uranium Corp.
+VST.CN,Victory Square Technologies Inc.
+CUPA.CN,Cupani Metals Corp.
+LFLR.CN,LaFleur Minerals Inc.
+AYR.A.CN,Ayr Wellness Inc.
+QIM.CN,Quimbaya Gold Inc.
+BATX.CN,Battery X Metals Inc.
+FOMO.CN,Formation Metals Inc.
+UDOC.CN,Unidoc Health Corp.
+QIMC.CN,Quebec Innovative Materials Corp.
+BFG.CN,Giant Mining Corp.
+ICS.CN,Integrated Cyber Solutions Inc.
+WIFI.CN,American Aires Inc.
+SX.CN,St-Georges Eco-Mining Corp.
+VOY.CN,Voyageur Mineral Explorers Corp.
+GRBM.CN,Green Bridge Metals Corporation
+PM.CN,Pampa Metals Corporation
+RISE.CN,Rise Gold Corp.
+SPLY.CN,Safe Supply Streaming Co. Ltd.
+CCI.CN,Canadian Copper Inc.
+PPB.CN,P2P Group Ltd.
+EONX.CN,EonX Technologies Inc.
+OPTI.CN,Optimi Health Corp.
+CUPR.CN,Super Copper Corp.
+TN.CN,Tartisan Nickel Corp.
+TUNG.CN,American Tungsten Corp.
+SHRC.CN,Sharc International Systems Inc.
+IZO.CN,Izotropic Corporation
+AIML.CN,AI/ML Innovations Inc.
+ARGO.CN,Argo Living Soils Corp.
+SUPR.CN,Supernova Metals Corp.
+MAXX.CN,Max Power Mining Corp.
+NXT.CN,NextGen Digital Platforms Inc.
+PBIT.CN,POSaBIT Systems Corporation
+KBX.CN,Kobrea Exploration Corp.
+GNEM.CN,Great Northern Energy Metals Inc.
+FTEL.CN,First Tellurium Corp.
+SLV.CN,Silver Dollar Resources Inc.
+TTX.CN,Tantalex Lithium Resources Corp.
+SEAG.X.CN,Seahawk Ventures Inc.
+BETR.CN,BetterLife Pharma Inc.
+MEC.CN,Mustang Energy Corp.
+WERX.CN,Fintechwerx International Software Services Inc.
+TNJ.CN,Boba Mint Holdings Ltd.
+CYBT.CN,Cybeats Technologies Corp.
+BRAZ.CN,Canary Gold Corp.
+API.CN,Appia Rare Earths & Uranium Corp.
+INVR.CN,Inverite Insights Inc.
+ERTH.CN,Replenish Nutrients Holding Corp.
+ATHA.CN,Athena Gold Corporation
+DOCT.CN,Beyond Medical Technologies Inc.
+GEGC.CN,Great Eagle Gold Corp.
+TRIP.CN,Red Light Holland Corp.
+RUU.CN,Refined Energy Corp.
+AITT.CN,Trenchant Technologies Capital Corp.
+TCF.CN,Trillion Energy International Inc.
+PAID.CN,XTM Inc.
+RWB.CN,Red White & Bloom Brands Inc.
+PNRG.CN,Pan American Energy Corp.
+SOL.CN,SOL Global Investments Corp.
+SKUR.CN,Sekur Private Data Ltd.
+PMC.CN,Peloton Minerals Corporation
+RBTO.CN,Roberto Resources Inc.
+ZTE.CN,ZTEST Electronics Inc.
+MOSS.CN,Moss Genomics Inc.
+AICO.CN,Generative AI Solutions Corp.
+AUMC.CN,Auric Minerals Corp.
+MDMA.CN,Pharmala Biotech Holdings Inc.
+BLAB.CN,Britannia Life Sciences Inc.
+ZEUS.CN,Zeus North America Mining Corp.
+NTMC.CN,Neotech Metals Corp.
+NPRA.CN,Nepra Foods Inc.
+SCU.CN,Sankamap Metals Inc.
+BIOV.CN,BioVaxys Technology Corp.
+LUX.CN,Newlox Gold Ventures Corp.
+SIX.CN,Sixty Six Capital Inc.
+ISFT.CN,ICEsoft Technologies Canada Corp.
+OILS.CN,Nextleaf Solutions Ltd.
+CLC.CN,Christina Lake Cannabis Corp.
+RGR.CN,Rio Grande Resources Ltd.
+NUKV.CN,Nuclear Vision Limited
+BAC.CN,BacTech Environmental Corporation
+VSBY.CN,VSBLTY Groupe Technologies Corp.
+BTC.CN,Bluesky Digital Assets Corp.
+PNGA.CN,Pangea Natural Foods Inc.
+MLM.CN,McFarlane Lake Mining Limited
+DIGI.CN,Digital Commodities Capital Corp.
+KAS.CN,Dynamite Blockchain Corp.
+DATT.CN,Digital Asset Technologies Inc.
+BKTS.CN,Beckett's Inc.
+HEAT.CN,Hillcrest Energy Technologies Ltd.
+NORD.CN,Nordique Resources Inc.
+BLGV.CN,Belgravia Hartford Capital Inc.
+PWR.CN,Captiva Verde Wellness Corp.
+SUU.CN,Strathmore Plus Uranium Corp.
+TEX.CN,Targa Exploration Corp.
+PSYC.CN,Psyched Wellness Ltd.
+ARM.CN,Armada Mercantile Ltd.
+DWTZ.CN,Data Watts Partners Inc.
+SPRK.CN,Spark Energy Minerals Inc.
+IP.CN,ImagineAR Inc.
+TMAS.CN,Temas Resources Corp.
+BRS.CN,BRS Resources Ltd.
+RVV.CN,Revive Therapeutics Ltd.
+TROY.CN,Troy Minerals Inc.
+NARA.CN,Pangenomic Health Inc.
+NFLD.CN,Exploits Discovery Corp.
+ISP.CN,Inspiration Energy Corp.
+FNQ.CN,Fineqia International Inc.
+WISR.CN,Wisr AI Systems Inc.
+PKK.CN,Tenet Fintech Group Inc.
+IDK.CN,ThreeD Capital Inc.
+NWAI.CN,New Wave Holdings Corp.
+QQQ.CN,Questcorp Mining Inc.
+PSE.CN,Pasinex Resources Limited
+DCSI.CN,"Direct Communication Solutions, Inc."
+MBAI.CN,MedBright AI Investments Inc.
+FNAU.CN,Four Nines Gold Inc.
+LOBE.CN,Lobe Sciences Ltd.
+GLOW.CN,Glow Lifetech Corp.
+UUU.CN,Vanguard Mining Corp.
+STGX.CN,StrategX Elements Corp.
+FNDX.CN,FendX Technologies Inc.
+FNI.CN,Fathom Nickel Inc.
+BSKY.CN,BluSky Carbon Inc.
+AION.CN,Aion Therapeutic Inc.
+REDC.CN,Red Canyon Resources Ltd.
+BBM.CN,Blueberries Medical Corp.
+KCLI.CN,American Critical Minerals Corp.
+CLSH.CN,"CLS Holdings USA, Inc."
+SALI.CN,SALi Lithium Corp.
+MIRL.CN,Minera IRL Limited
+GSTR.CN,Glenstar Minerals Inc.
+HMLO.CN,Rocky Shore Gold Ltd.
+RSG.CN,Rocky Shore Gold Ltd.
+ATHR.CN,"Aether Catalyst Solutions, Inc."
+BLST.CN,Blast Resources Inc.
+MVMD.CN,Mountain Valley MD Holdings Inc.
+VRTX.CN,Vortex Energy Corp.
+PLUG.CN,Energy Plug Technologies Corp.
+SPIR.CN,Spirit Blockchain Capital Inc.
+CDVA.CN,CordovaCann Corp.
+SNA.CN,Star Navigation Systems Group Ltd.
+METG.CN,Metaguest.AI Incorporated
+CRCL.CN,Corcel Exploration Inc.
+SUR.CN,Surface Metals Inc.
+ULTH.CN,United Lithium Corp.
+PUMP.CN,Stock Trend Capital Inc.
+GURN.CN,Global Uranium Corp.
+SE.CN,Sweet Earth Holdings Corporation
+SKY.CN,Skycap Investment Holdings Inc.
+DEMC.CN,Discovery Energy Metals Corp.
+NTAR.CN,Nextech3D.AI Corporation
+LECR.CN,Leocor Mining Inc.
+PMAX.CN,Powermax Minerals Inc.
+ETR.CN,Etruscus Resources Corp.
+QCA.CN,Quinsam Capital Corporation
+MEO.CN,Cameo Resources Inc.
+ER.CN,Eagle Royalties Ltd.
+VRAI.CN,XR Immersive Tech Inc.
+MUSL.CN,Promino Nutritional Sciences Inc.
+SQX.CN,Squatex Energy and Resources Inc.
+VEJI.X.CN,Veji Holdings Ltd.
+SK.CN,Rottenstone Gold Inc.
+CFE.CN,Cartier Silver Corporation
+HWTN.CN,Hawthorn Resources Corp.
+CDN.CN,CDN Maverick Capital Corp.
+PLAS.CN,PlasCred Circular Innovations Inc.
+TAAT.CN,TAAT Global Alternatives Inc.
+AYUR.CN,Ayurcann Holdings Corp.
+SYAI.CN,Syntheia Corp.
+HUNT.CN,Gold Hunter Resources Inc.
+NUR.CN,Nuran Wireless Inc.
+CNCO.CN,Core Nickel Corp.
+CXC.CN,CMX Gold & Silver Corp.
+MBIO.CN,MindBio Therapeutics Corp.
+XBLK.X.CN,eXeBlock Technology Corporation
+HPSS.CN,Hybrid Power Solutions Inc.
+AJN.CN,AJN Resources Inc.
+ARQ.CN,Argo Gold Inc.
+CTTT.CN,Critical Infrastructure Technologies Ltd.
+MIS.CN,Mistango River Resources Inc.
+OWLI.CN,One World Lithium Inc.
+EDGM.CN,Edgemont Gold Corp.
+LCR.CN,Lancaster Resources Inc.
+TERA.CN,Terra Balcanica Resources Corp.
+NVPC.CN,Nova Pacific Metals Corp.
+MYND.CN,MYND Life Sciences Inc.
+USCM.CN,US Critical Metals Corp.
+CME.CN,Canadian Metals Inc.
+HTRC.CN,High Tide Resources Corp.
+PXI.CN,Planet Ventures Inc.
+GOH.CN,GoldHaven Resources Corp.
+MLKM.CN,Mayo Lake Minerals Inc.
+MCL.CN,McLaren Resources Inc.
+HML.CN,Heritage Mining Ltd.
+STK.CN,Silverstock Metals Inc.
+GCC.CN,Golden Cariboo Resources Ltd.
+NUE.CN,NU E Power Corp.
+EMRG.CN,Emergence Global Enterprises Inc.
+VTI.CN,Valdor Technology International Inc.
+SCYB.CN,Scryb Inc.
+KOG.CN,KO Gold Inc.
+TCEC.CN,Terra Clean Energy Corp.
+FFNT.CN,4Front Ventures Corp.
+RSH.CN,Rush Rare Metals Corp.
+ATMY.CN,Antimony Resources Corp.
+ZRO.CN,Biosenta Inc.
+CRC.CN,Canter Resources Corp.
+MSM.CN,Metalsource Mining Inc.
+YORK.CN,York Harbour Metals Inc.
+CC.CN,Core Silver Corp.
+NBRK.CN,New Break Resources Ltd.
+AMMP.CN,AmmPower Corp.
+OIL.CN,Permex Petroleum Corporation
+HAMR.CN,Silver Hammer Mining Corp.
+ASEP.CN,ASEP Medical Holdings Inc.
+TRG.CN,Tarachi Gold Corp.
+PRCG.CN,Precore Gold Corp.
+OMGA.CN,Omega Pacific Resources Inc.
+PLTO.CN,Pluto Ventures Inc.
+HERB.CN,Herbal Dispatch Inc.
+ANON.CN,Anonymous Intelligence Company Inc.
+BVCI.CN,Blockchain Venture Capital Inc.
+CQX.CN,Copper Quest Exploration Inc.
+SPAI.CN,Sparc Al Inc
+LUXX.CN,Luxxfolio Holdings Inc.
+RGX.CN,Regenx Tech Corp.
+TRAI.CN,Trilogy AI Corp.
+BATT.CN,Dark Star Minerals Inc.
+GPO.CN,Gold Port Corporation
+NSG.CN,Northstar Gold Corp.
+PRIZ.CN,Prismo Metals Inc.
+NEXU.CN,Nexus Uranium Corp.
+ATCM.CN,Atco Mining Inc.
+PMED.CN,Predictmedix AI Inc.
+DMED.CN,Diagnamed Holdings Corp.
+FLM.CN,First Lithium Minerals Corp.
+SGRO.CN,Sierra Grande Minerals Inc.
+ACDX.CN,American Copper Development Corporation
+RFR.CN,Renforth Resources Inc.
+SXTY.CN,Sixty North Gold Mining Ltd.
+CGII.CN,CleanGo Innovations Inc.
+NEVI.CN,Nevis Brands Inc.
+DST.CN,Dundee Sustainable Technologies Inc.
+WDGY.CN,Wedgemount Resources Corp.
+MUZU.CN,Muzhu Mining Ltd.
+SBTC.CN,Standard Strategies Inc.
+BRCO.CN,Buscando Resources Corp
+NCLR.CN,Basin Uranium Corp.
+MERC.CN,Mercado Minerals Ltd.
+BULL.CN,Quest Critical Metals Inc.
+LIVE.CN,Live Energy Minerals Corp.
+NWI.CN,Nuinsco Resources Limited
+GLM.CN,Golden Lake Exploration Inc.
+RGEN.CN,Regenera Insights Inc.
+HYPE.CN,Hyper Bit Technologies Ltd.
+SRS.CN,Sorrento Resources Ltd.
+PRR.CN,Prospect Ridge Resources Corp.
+IAI.CN,infinitii ai inc.
+QREE.CN,Quebec Rare Earth Elements Corp.
+LABZ.CN,Metasphere Labs Inc.
+FFF.CN,55 North Mining Inc.
+QMET.CN,Q Precious & Battery Metals Corp.
+MOOD.CN,Doseology Sciences Inc.
+QBAT.CN,Quantum Battery Metals Corp.
+BGLD.CN,Boreal Gold Inc.
+STWO.CN,S2 Minerals Inc.
+SHOE.CN,Grounded People Apparel Inc.
+SURE.CN,SureNano Science Ltd.
+VLTA.CN,Volta Metals Ltd.
+GGC.CN,Generic Gold Corp.
+PLAY.CN,Playground Ventures Inc.
+XBRA.CN,Xebra Brands Ltd.
+BYRG.CN,Bayridge Resources Corp.
+WHIP.CN,Credissential Inc.
+UBQ.CN,Ubique Minerals Limited
+TMIN.CN,Teako Minerals Corp.
+FGH.CN,Forte Group Holdings Inc.
+BRCH.CN,Birchtree Investments Ltd.
+AGC.CN,Avanti Gold Corp.
+LTHM.CN,Champion Electric Metals Inc.
+BPAI.CN,BrandPilot AI Inc.
+NIC.CN,Delota Corp.
+NIX.CN,NorthX Nickel Corp.
+XRI.CN,Xcite Resources Inc.
+ELEM.CN,Element79 Gold Corp.
+UUSA.CN,Kraken Energy Corp.
+NURL.CN,Neural Therapeutics Inc.
+CRUZ.CN,Cruz Battery Metals Corp.
+GLDR.CN,Golden Rapture Mining Corporation
+TRAC.CN,Traction Uranium Corp.
+DSAI.CN,DeepSpatial Inc.
+KASH.CN,Intellabridge Technology Corp.
+MOOO.CN,Bettermoo(d) Food Corporation
+HEAL.CN,Restart Life Sciences Corp.
+RGLD.CN,Red Lake Gold Inc.
+ORGN.CN,Origen Resources Inc.
+TGIF.CN,1933 Industries Inc.
+PGOL.CN,Patriot Gold Corp.
+BOOM.CN,Galloper Gold Corp.
+WBGD.CN,Waraba Gold Limited
+ROAD.CN,Mineral Road Discovery Inc.
+AGN.CN,Algernon Pharmaceuticals Inc.
+EPR.CN,E-Power Resources Inc
+CK.CN,Cascadia Blockchain Group Corp.
+TAI.CN,Talmora Diamond Inc.
+MBL.CN,Mabel Ventures Inc.
+CVGR.CN,City View Green Holdings Inc.
+ALMA.CN,Alma Gold Inc.
+NOP.CN,Nevada Organic Phosphate Inc.
+SHP.CN,Shoal Point Energy Ltd.
+SLZ.CN,Slave Lake Zinc Corp.
+HRO.CN,Hero Innovation Group Inc.
+ASHL.CN,Ashley Gold Corp.
+PNGC.CN,Loyalist Exploration Limited
+ARMY.CN,Armory Mining Corp.
+SPMT.CN,Spearmint Resources Inc.
+RFLX.CN,Reflex Advanced Materials Corp.
+BBRD.CN,Blackbird Critical Metals Corp.
+MOC.CN,Mosaic Minerals Corp.
+HARY.CN,Harrys Manufacturing Inc.
+READ.CN,Legible Inc.
+CISC.CN,Ciscom Corp.
+RAIN.CN,Rain City Resources Inc.
+AWLI.CN,Ameriwest Lithium Inc.
+GLDS.CN,Golden Spike Resources Corp.
+COMT.CN,Collective Metals Inc.
+CRCC.CN,Copland Road Capital Corporation
+AFI.CN,Affinor Growers Inc.
+ALE.CN,Alerio Gold Corp.
+MYTC.CN,MyndTec Inc.
+WMC.CN,Westmount Minerals Corp.
+ABND.CN,Abound Energy Inc.
+TGLD.CN,Torrent Gold Inc.
+GSRI.CN,Golden Shield Resources Inc.
+PBF.CN,Planet Based Foods Global Inc.
+SHOW.CN,Showcase Minerals Inc.
+GDN.CN,Golden Age Exploration Ltd.
+SCV.CN,Scotch Creek Ventures Inc.
+ADON.CN,Adonis Minerals Corp.
+CMET.CN,Clarity Metals Corp.
+EAGL.CN,EagleOne Metals Corporation
+OVAT.CN,Ovation Science Inc.
+CAPR.CN,Caprock Mining Corp.
+RKL.CN,Rockland Resources Ltd.
+BYT.CN,BYT Holdings Ltd.
+CULT.CN,Cult Food Science Corp.
+NLR.CN,Northern Lights Resources Corp.
+HARD.CN,Hardcore Discoveries Ltd.
+HZ.CN,Hertz Energy Inc.
+ADP.CN,Adelphi Metals Inc.
+LION.CN,Global Li-Ion Graphite Corp.
+SASQ.CN,Sasquatch Resources Corp.
+NERD.CN,Nerds on Site Inc.
+CBP.CN,Certive Solutions Inc.
+UX.CN,Puranium Energy Ltd.
+APP.CN,Global Compliance Applications Corp.
+QQ.CN,Quizam Media Corporation
+QNI.CN,Québec Nickel Corp.
+GOAT.CN,GOAT Industries Ltd.
+GCP.CN,Golcap Resources Corp.
+CODE.X.CN,Cypher Metaverse Inc.
+MOLT.CN,Molten Metals Corp
+GOCO.CN,Go Metals Corp.
+BY.CN,Beyond Lithium Inc.
+BHCC.CN,Blue Horizon Global Capital Corp.
+TIM.X.CN,QNB Metals Inc.
+POWR.CN,POWR Lithium Corp.
+HECO.CN,Global Helium Corp.
+PGR.CN,Planet Green Metals Inc.
+GOR.CN,Goldrea Resources Corp.
+CLDV.CN,Cloud3 Ventures Inc.
+BITE.CN,Blender Bites Limited
+LP.CN,Leopard Lake Gold Corp.
+GBC.CN,GreenBank Capital Inc.
+JBR.CN,James Bay Resources Limited
+EOM.CN,Eco Oro Minerals Corp.
+LITS.CN,Lithos Group Ltd.
+AETH.CN,Aether Global Innovations Corp.
+BDR.CN,Bird River Resources Inc.
+CODEX.CN,Cypher Metaverse Inc.
+TEMP.CN,Tempus Capital Inc.
+GRUV.CN,Protium Clean Energy Corp.
+URM.CN,First American Uranium Inc.
+MYR.CN,Meryllion Resources Corp.
+CPTR.CN,Captor Capital Corp.
+BURY.CN,Burrell Resources Inc.
+ERKA.CN,Eureka Lithium Corp.
+WSR.CN,Western Star Resources Inc.
+STRC.X.CN,Street Capital Inc.
+CARM.CN,Carmanah Minerals Corp.
+CAT.CN,CAT Strategic Metals Corporation
+PDFI.CN,Prophecy DeFi Inc.
+CCC.CN,Carlyle Commodities Corp.
+SPFY.CN,Spacefy Inc.
+XTRX.CN,Adastra Holdings Ltd.
+RXM.CN,Rockex Mining Corporation
+ADX.CN,Advantex Marketing International Inc.
+AIG.CN,Genesis AI Corp.
+ENBI.CN,Entheon Biomedical Corp.
+PSYG.CN,Psyence Group Inc.
+CASC.CN,Cascade Copper Corp.
+FREE.CN,Free Battery Metal Limited
+VC.CN,Volatus Capital Corp.
+UAV.CN,Global UAV Technologies Ltd.
+SPOD.CN,Spod Lithium Corp.
+VTAL.CN,Justera Health Ltd.
+LINE.CN,Linear Minerals Corp.
+GCA.X.CN,Gencan Capital Inc.
+ENRT.CN,Enertopia Corp.
+RAMM.CN,RAMM Pharma Corp.
+SI.CN,Silicon Metals Corp.
+TONE.CN,Triple One Metals Inc.
+PS.CN,Powerstone Metals Corp.
+TGGL.CN,Toggle3D.ai Inc.
+ETI.CN,EnviroMetal Technologies Inc.
+VIK.CN,Avila Energy Corporation
+FUTR.CN,Gold'n Futures Mineral Corp.
+ARWY.CN,ARway Corporation
+VENI.CN,Vencanna Ventures Inc.
+VOLT.CN,Voltage Metals Corp.
+OMND.CN,Optimind Pharma Corp.
+PHRX.CN,Pharmadrug Inc.
+GET.CN,GameOn Entertainment Technologies Inc.
+JJJ.CN,37 Capital Inc.
+GGLD.CN,General Copper Gold Corp.
+AWR.CN,Aurwest Resources Corporation
+CSS.CN,Cascada Silver Corp.
+BEE.CN,Bee Vectoring Technologies International Inc.
+LEXT.CN,Lexston Mining Corporation
+SEEM.CN,Serra Energy Metals Corp.
+BG.CN,Big Gold Inc.
+MONI.CN,Global Tactical Metals Corp.
+PLLR.CN,Forty Pillars Mining Corp.
+TUGA.CN,"TUGA Innovations, Inc."
+AFF.CN,Affinity Metals Corp.
+NINE.CN,Nine Mile Metals Ltd.
+STPH.CN,Steep Hill Inc.
+PATH.CN,Newpath Resources Inc.
+XIGM.CN,Xigem Technologies Corporation
+NSJ.CN,NSJ Gold Corp.
+ANT.CN,Anteros Metals Inc.
+TMED.CN,EGF Theramed Health Corp.
+VIBE.CN,Vibe Growth Corporation
+AVM.X.CN,Avarone Metals Inc.
+TGII.CN,Trojan Gold Inc.
+WEST.CN,West Mining Corp.
+GAND.CN,Gander Gold Corporation
+JOLT.CN,Jolt Health Inc.
+BLR.CN,Blackhawk Growth Corp.
+GRHK.CN,Greenhawk Resources Inc.
+MANN.CN,Manning Ventures Inc.
+NT.CN,Newterra Resources Inc.
+CMT.CN,Cullinan Metals Corp.
+MNG.CN,Mongoose Mining Ltd.
+MEAT.CN,Modern Plant Based Foods Inc.
+VBN.CN,Pedro Resources Ltd.
+AUEX.CN,Advanced Gold Exploration Inc.
+WOGC.CN,Waskahigan Oil & Gas Corp.
+ACRE.CN,American Critical Elements Inc.
+CRIT.CN,Supreme Critical Metals Inc.
+PURR.CN,Panther Minerals Inc.
+TAUR.CN,Taurus Gold Corp.
+MEGA.CN,MegaWatt Lithium and Battery Metals Corp.
+CRS.CN,Crestview Exploration Inc.
+MY.CN,Montego Resources Inc.
+AIC.CN,AlphaGen Intelligence Corp.
+MGW.CN,Maple Leaf Green World Inc.
+PLNK.CN,Plank Ventures Ltd.
+GMR.CN,Gelum Resources Ltd.
+GHG.CN,Global Hemp Group Inc.
+CLI.CN,Cape Lithium Corp.
+ASTI.CN,Aquarius Surgical Technologies Inc.
+CCR.CN,Green River Gold Corp.
+STMN.CN,Stearman Resources Inc
+FWM.CN,Flow Metals Corp.
+TYUM.CN,The Yumy Candy Company Inc.
+SASY.CN,Sassy Gold Corp.
+USLI.CN,American Salars Lithium Inc.
+HVW.CN,Hi-View Resources Inc
+NPT.CN,Plaintree Systems Inc.
+KETA.CN,TripSitter Clinic Ltd.
+STKT.CN,Stickit Technologies Inc
+OBRN.CN,Oberon Uranium Corp.
+NDAT.CN,nDatalyze Corp.
+GRCM.CN,Geologica Resource Corp.
+OPC.CN,Organic Potash Corporation
+WISE.CN,Earthwise Minerals Corp.
+SBD.CN,SBD Capital Corp.
+RMES.CN,Red Metal Resources Ltd.
+TANA.CN,Tana Resources Corp.
+GMC.CN,Germanium Mining Corp.
+MEDA.CN,Medaro Mining Corp.
+CURE.X.CN,Biocure Technology Inc.
+GTOO.CN,G2 Energy Corp.
+PLCN.CN,Cannibble Food-Tech Ltd.
+CMP.CN,Cmp Mining Inc
+KVM.CN,Kingsview Minerals Ltd.
+XCX.CN,Greenrise Global Brands Inc.
+BOLT.CN,Bolt Metals Corp.
+SAND.CN,Silver Sands Resources Corp.
+ADPT.CN,Adaptogenics Health Corp.
+CUH.CN,Copperhead Resources Inc.
+HERC.CN,Hercules Resources Corp.
+ATMO.CN,Atmofizer Technologies Inc.
+PXE.CN,P2Earn Inc.
+METL.CN,Metalite Resources Inc.
+CRPC.CN,Critical Reagent Processing Corp.
+MARY.CN,Mary Agrotechnologies Inc.
+ZEU.CN,ZeU Technologies Inc.
+CHGX.CN,ChitogenX Inc.
+NVR.CN,North Valley Resources Ltd.
+CNTR.CN,CENTR Brands Corp.
+FGFL.CN,First Growth Funds Limited
+NEWD.CN,Newfoundland Discovery Corp.
+ABRT.CN,Albert Labs International Corp.
+NSHS.CN,NanoSphere Health Sciences Inc.
+GRAY.CN,Graycliff Exploration Limited
+AFX.CN,Arctic Fox Lithium Corp.
+WBIO.CN,WPD Pharmaceuticals Inc.
+MYCO.CN,Mydecine Innovations Group Inc.
+WRUN.CN,Waverunner Capital Inc.
+NIRV.CN,Nirvana Life Sciences Inc.
+RAD.CN,Radial Research Corp.
+ULTA.CN,Ultra Brands Ltd.
+LOWL.CN,Lowell Farms Inc.
+JIVA.CN,JIVA Technologies Inc.
+GRM.CN,Great Republic Mining Corp.
+PGA.CN,Pegmatite One Lithium and Gold Corp.
+ZOG.CN,Zoglo's Food Corp.
+BAMM.CN,Body and Mind Inc.
+MJRX.CN,Global Health Clinics Ltd.
+LOAN.CN,Pegasus Mercantile Inc.

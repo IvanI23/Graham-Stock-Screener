@@ -1,0 +1,3456 @@
+Ticker,Company
+0QYP.L,Microsoft Corporation
+0R1I.L,NVIDIA Corporation
+0R2V.L,Apple Inc.
+0R1O.L,"Amazon.com, Inc."
+0HD6.L,Alphabet Inc.
+0RIH.L,Alphabet Inc.
+0QZI.L,"Meta Platforms, Inc."
+0YXG.L,Broadcom Inc.
+0HN0.L,Berkshire Hathaway Inc.
+0R37.L,Berkshire Hathaway Inc.
+0R0X.L,"Tesla, Inc."
+0LCV.L,Taiwan Semiconductor Manufacturing Company Limited
+0Q1F.L,JPMorgan Chase & Co.
+0R1W.L,Walmart Inc.
+0QZ0.L,Visa Inc.
+0R1Z.L,Oracle Corporation
+0LEA.L,Tencent Holdings Limited
+0Z4S.L,Tencent Holdings Limited
+0QYI.L,"Netflix, Inc."
+0R2Z.L,Mastercard Incorporated
+0R1M.L,Exxon Mobil Corporation
+0I47.L,Costco Wholesale Corporation
+0NOF.L,The Procter & Gamble Company
+0R34.L,Johnson & Johnson
+0R1G.L,"The Home Depot, Inc."
+0Q16.L,Bank of America Corporation
+0QIU.L,Novo Nordisk A/S
+0TDD.L,Novo Nordisk A/S
+0A2W.L,SAP SE
+0NW4.L,SAP SE
+0A7R.L,Palantir Technologies Inc.
+0QCV.L,AbbVie Inc.
+0QZK.L,The Coca-Cola Company
+0M42.L,ASML Holding N.V.
+0QB8.L,ASML Holding N.V.
+0M8V.L,Philip Morris International Inc.
+BC94.L,"Samsung Electronics Co., Ltd."
+SMSN.L,"Samsung Electronics Co., Ltd."
+0R0O.L,UnitedHealth Group Incorporated
+0HCI.L,Alibaba Group Holding Limited
+0HV2.L,Hermès International Société en commandite par actions
+0R0K.L,"Cisco Systems, Inc."
+0HAU.L,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne"
+0QR4.L,Nestlé S.A.
+0R2Q.L,Chevron Corporation
+0QOK.L,Roche Holding AG
+0QQ6.L,Roche Holding AG
+0TDF.L,Roche Holding AG
+0R2L.L,"T-Mobile US, Inc."
+0QYJ.L,"Salesforce, Inc."
+0R2F.L,Wells Fargo & Company
+0Q15.L,Abbott Laboratories
+0K9E.L,Novartis AG
+0QLR.L,Novartis AG
+0LG5.L,Toyota Motor Corporation
+TYT.L,Toyota Motor Corporation
+0NZM.L,L'Oréal S.A.
+0A4J.L,AstraZeneca PLC
+AZN.L,AstraZeneca PLC
+0M2B.L,Linde plc
+SHEL.L,Shell plc
+0QYU.L,Morgan Stanley
+0QZO.L,The Walt Disney Company
+0JCT.L,Intuit Inc.
+RIGD.L,Reliance Industries Limited
+0R3C.L,American Express Company
+0R16.L,McDonald's Corporation
+0QZD.L,"Advanced Micro Devices, Inc."
+0L5N.L,"ServiceNow, Inc."
+HSBA.L,HSBC Holdings plc
+0QAH.L,"Merck & Co., Inc."
+MRK.L,"Merck & Co., Inc."
+0QZ1.L,AT&T Inc.
+0R2N.L,RTX Corporation
+0Y0Y.L,Accenture plc
+0P6M.L,Siemens Aktiengesellschaft
+0R3G.L,"The Goldman Sachs Group, Inc."
+0R29.L,"Intuitive Surgical, Inc."
+0QKU.L,Royal Bank of Canada
+0R2H.L,Texas Instruments Incorporated
+0QOS.L,"PepsiCo, Inc."
+0Q1S.L,Verizon Communications Inc.
+0A1U.L,"Uber Technologies, Inc."
+0W2Y.L,Booking Holdings Inc.
+0A7I.L,HDFC Bank Limited
+0MPH.L,Deutsche Telekom AG
+0QZ3.L,QUALCOMM Incorporated
+0Q18.L,Caterpillar Inc.
+0L3I.L,The Charles Schwab Corporation
+0R2Y.L,Adobe Inc.
+0QWI.L,"Industria de Diseño Textil, S.A."
+0R0T.L,Amgen Inc.
+0K1Y.L,"Mitsubishi UFJ Financial Group, Inc."
+0ADF.L,Arm Holdings plc
+0KYY.L,S&P Global Inc.
+ULVR.L,Unilever PLC
+0L83.L,Sony Group Corporation
+0KOC.L,The Progressive Corporation
+0QZZ.L,"BlackRock, Inc."
+0HOY.L,Boston Scientific Corporation
+0BOE.L,The Boeing Company
+0M6S.L,Allianz SE
+0R0H.L,Thermo Fisher Scientific Inc.
+0K80.L,"NextEra Energy, Inc."
+0KVV.L,Airbus SE
+0R01.L,Citigroup Inc.
+0SPT.L,Spotify Technology S.A.
+0A2S.L,PDD Holdings Inc.
+0HKY.L,BYD Company Limited
+0VSO.L,BYD Company Limited
+0R2S.L,Stryker Corporation
+0R2P.L,Deere & Company
+0NWV.L,Schneider Electric S.E.
+0A30.L,TotalEnergies SE
+TTE.L,TotalEnergies SE
+0A22.L,Anheuser-Busch InBev SA/NV
+0RJI.L,Anheuser-Busch InBev SA/NV
+0R2B.L,Danaher Corporation
+0R1A.L,"Applied Materials, Inc."
+0VHA.L,Shopify Inc.
+0LCE.L,"The TJX Companies, Inc."
+0R2T.L,"Micron Technology, Inc."
+0Q1N.L,Pfizer Inc.
+0QYQ.L,"Gilead Sciences, Inc."
+0KF5.L,"Palo Alto Networks, Inc."
+0R2E.L,Union Pacific Corporation
+0Y3K.L,Eaton Corporation plc
+0QYF.L,Comcast Corporation
+0OMK.L,EssilorLuxottica Société anonyme
+0HJI.L,"Automatic Data Processing, Inc."
+0IU8.L,Safran SA
+0VL8.L,The Toronto-Dominion Bank
+0K0E.L,"MercadoLibre, Inc."
+0A3N.L,"CrowdStrike Holdings, Inc."
+0A28.L,Prosus N.V.
+0HN3.L,BHP Group Limited
+BHP.L,BHP Group Limited
+0QZA.L,ConocoPhillips
+0NWF.L,L'Air Liquide S.A.
+0JVQ.L,"Lowe's Companies, Inc."
+0JT5.L,Lam Research Corporation
+0HIT.L,"Iberdrola, S.A."
+0A2V.L,Sanofi
+0O59.L,Sanofi
+0ADE.L,AppLovin Corporation
+0HLE.L,"Banco Santander, S.A."
+BNC.L,"Banco Santander, S.A."
+0A7M.L,ICICI Bank Limited
+0JPO.L,KLA Corporation
+0QZU.L,Vertex Pharmaceuticals Incorporated
+0HFN.L,"Analog Devices, Inc."
+0HHR.L,Arista Networks Inc
+0HFB.L,Amphenol Corporation
+0VQD.L,Chubb Limited
+0Y6X.L,Medtronic plc
+0R3E.L,Lockheed Martin Corporation
+0Z1W.L,KKR & Co. Inc.
+0A76.L,British American Tobacco p.l.c.
+BATS.L,British American Tobacco p.l.c.
+0R1E.L,"Nintendo Co., Ltd."
+0HO8.L,Blackstone Inc.
+0QMU.L,Compagnie Financière Richemont SA
+0A6W.L,ABB Ltd
+0NX2.L,ABB Ltd
+CYPC.L,"China Yangtze Power Co., Ltd."
+0QZH.L,Starbucks Corporation
+0HAR.L,AXA SA
+0JC3.L,"Intercontinental Exchange, Inc."
+0A7O.L,MicroStrategy Incorporated
+0K85.L,"Nintendo Co., Ltd."
+0HEU.L,American Tower Corporation
+0R31.L,"Altria Group, Inc."
+0LUS.L,Welltower Inc.
+RR.L,Rolls-Royce Holdings plc
+0RLS.L,UniCredit S.p.A.
+0HR2.L,CME Group Inc.
+0KTI.L,Enbridge Inc.
+0KOD.L,"Prologis, Inc."
+0L8A.L,The Southern Company
+0HBC.L,Intesa Sanpaolo S.p.A.
+REL.L,RELX PLC
+0QP2.L,Zurich Insurance Group AG
+0LAF.L,"Sumitomo Mitsui Financial Group, Inc."
+0HB5.L,BNP Paribas SA
+0R1F.L,Bristol-Myers Squibb Company
+0KWZ.L,Rio Tinto Group
+RIO.L,Rio Tinto Group
+0LTG.L,"Waste Management, Inc."
+0R24.L,Intel Corporation
+0Y2S.L,Trane Technologies plc
+0R3T.L,UBS Group AG
+0NRE.L,Enel SpA
+0A3T.L,Sea Limited
+0JZU.L,McKesson Corporation
+0J1R.L,"HCA Healthcare, Inc."
+0KEH.L,Brookfield Corporation
+0NI1.L,Rheinmetall AG
+0A6Q.L,AIA Group Limited
+0IP9.L,"Fiserv, Inc."
+0NPL.L,Christian Dior SE
+0ID1.L,Duke Energy Corporation
+0HYJ.L,Cintas Corporation
+0Q89.L,Thomson Reuters Corporation
+0QZ6.L,"NIKE, Inc."
+0NC5.L,Investor AB (publ)
+0NC6.L,Investor AB (publ)
+0II4.L,"Equinix, Inc."
+0L7L.L,SoftBank Group Corp.
+0R15.L,SoftBank Group Corp.
+0R0G.L,"Mondelez International, Inc."
+0A2B.L,"Banco Bilbao Vizcaya Argentaria, S.A."
+BVA.L,"Banco Bilbao Vizcaya Argentaria, S.A."
+0HG8.L,"Elevance Health, Inc."
+0K36.L,Moody's Corporation
+0HRS.L,CVS Health Corporation
+0R08.L,"United Parcel Service, Inc."
+0A77.L,The Cigna Group
+0KFZ.L,Parker-Hannifin Corporation
+0L5V.L,The Sherwin-Williams Company
+0KFE.L,Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München
+0HKP.L,BP p.l.c.
+BP.L,BP p.l.c.
+0K6G.L,"NetEase, Inc."
+0A8C.L,"Airbnb, Inc."
+0ITL.L,Arthur J. Gallagher & Co.
+0RDT.L,Ferrari N.V.
+0KHP.L,Petróleo Brasileiro S.A. - Petrobras
+0HS2.L,"Cadence Design Systems, Inc."
+SBID.L,State Bank of India
+0REK.L,TransDigm Group Incorporated
+0A7D.L,Dell Technologies Inc.
+0SEA.L,Siemens Energy AG
+GSK.L,GSK plc
+0KW1.L,"Republic Services, Inc."
+0XSE.L,Infosys Limited
+BA.L,BAE Systems plc
+0IR9.L,"Fortinet, Inc."
+LSEG.L,London Stock Exchange Group plc
+0A7F.L,Equinor ASA
+0M2Z.L,Equinor ASA
+0UKH.L,Bank of Montreal
+0QNY.L,3M Company
+0L8B.L,Southern Copper Corporation
+0NQM.L,Vinci SA
+0XHL.L,Aon plc
+0HT4.L,Capital One Financial Corporation
+0KAB.L,"O'Reilly Automotive, Inc."
+0IUC.L,General Dynamics Corporation
+0Q0J.L,Mitsubishi Corporation
+0IFA.L,Ecolab Inc.
+0LBP.L,"Synopsys, Inc."
+0XXT.L,Atlas Copco AB (publ)
+0XXV.L,Atlas Copco AB (publ)
+0I1W.L,Royal Caribbean Cruises Ltd.
+HHPD.L,"Hon Hai Precision Industry Co., Ltd."
+0R33.L,Emerson Electric Co.
+0LXB.L,"The Williams Companies, Inc."
+0P59.L,Colgate-Palmolive Company
+0K92.L,Northrop Grumman Corporation
+0J8W.L,Illinois Tool Works Inc.
+0A93.L,Snowflake Inc.
+0JYW.L,"Marriott International, Inc."
+0HXW.L,"Chipotle Mexican Grill, Inc."
+0KEF.L,"The PNC Financial Services Group, Inc."
+NG.L,National Grid plc
+0M3Q.L,Zoetis Inc.
+0TCU.L,Howmet Aerospace Inc.
+0Y7S.L,Johnson Controls International plc
+0UKI.L,The Bank of Nova Scotia
+0IDR.L,"EOG Resources, Inc."
+0K3H.L,"Motorola Solutions, Inc."
+0S23.L,Enterprise Products Partners L.P.
+0LHY.L,U.S. Bancorp
+0R9U.L,"PayPal Holdings, Inc."
+0HLQ.L,The Bank of New York Mellon Corporation
+0ACJ.L,"Marvell Technology, Inc."
+0R28.L,Newmont Corporation
+0UNI.L,Canadian Imperial Bank of Commerce
+0M18.L,"Workday, Inc."
+0HJF.L,"Autodesk, Inc."
+0A3Z.L,"Cloudflare, Inc."
+0QKY.L,Holcim AG
+0R2J.L,Agnico Eagle Mines Limited
+0K34.L,Monster Beverage Corporation
+0A8O.L,Vistra Corp.
+0HBH.L,"Air Products and Chemicals, Inc."
+0JR2.L,"Kinder Morgan, Inc."
+0A2K.L,ING Groep N.V.
+0RIC.L,ING Groep N.V.
+BARC.L,Barclays PLC
+LLOY.L,Lloyds Banking Group plc
+0HRJ.L,CSX Corporation
+0HJL.L,"AutoZone, Inc."
+0R03.L,"The Travelers Companies, Inc."
+0HKE.L,"Axon Enterprise, Inc."
+CRH.L,CRH plc
+0KXM.L,"Roper Technologies, Inc."
+0AD4.L,Carrier Global Corporation
+0I9F.L,"Digital Realty Trust, Inc."
+0ILK.L,"CaixaBank, S.A."
+0R2O.L,Freeport-McMoRan Inc.
+0PMJ.L,Siemens Healthineers AG
+0J5I.L,Hilton Worldwide Holdings Inc.
+0IW5.L,Thales S.A.
+LTOD.L,Larsen & Toubro Limited
+0HF3.L,"Cencora, Inc."
+0K8M.L,Norfolk Southern Corporation
+0IL0.L,Federal National Mortgage Association
+0JN9.L,DSV A/S
+DGE.L,Diageo plc
+DGED.L,Diageo plc
+CPG.L,Compass Group PLC
+0H3T.L,Deutsche Börse AG
+0YP5.L,Adyen N.V.
+0UMG.L,Universal Music Group N.V.
+NWG.L,NatWest Group plc
+0H68.L,Aflac Incorporated
+0O14.L,Merck KGaA
+0LD0.L,Engie SA
+0HTP.L,AB Volvo (publ)
+0MHW.L,AB Volvo (publ)
+0R2M.L,"Regeneron Pharmaceuticals, Inc."
+0KGE.L,"Paychex, Inc."
+0HEC.L,"American Electric Power Company, Inc."
+0HAI.L,Crédit Agricole S.A.
+COD.L,Compagnie de Saint-Gobain S.A.
+0NXX.L,Mercedes-Benz Group AG
+0QZX.L,FedEx Corporation
+0EDE.L,NXP Semiconductors N.V.
+0KSR.L,"Quanta Services, Inc."
+0H7D.L,Deutsche Bank Aktiengesellschaft
+0KFX.L,Danone S.A.
+0H3Q.L,Deutsche Post AG
+0K0X.L,"MetLife, Inc."
+0V5H.L,Manulife Financial Corporation
+III.L,3i Group plc
+0HW4.L,"Charter Communications, Inc."
+0HWH.L,"Cheniere Energy, Inc."
+0ACZ.L,Truist Financial Corporation
+0K78.L,Assicurazioni Generali S.p.A.
+0KUE.L,Realty Income Corporation
+0HCZ.L,The Allstate Corporation
+0JYA.L,Marathon Petroleum Corporation
+0L6P.L,"Simon Property Group, Inc."
+0KCI.L,"ONEOK, Inc."
+0KS3.L,Public Storage
+0O0U.L,Bayerische Motoren Werke Aktiengesellschaft
+0KED.L,Infineon Technologies AG
+0KHZ.L,Phillips 66
+0A1W.L,"Corteva, Inc."
+0P6N.L,Volkswagen AG
+0IZI.L,"W.W. Grainger, Inc."
+0K4T.L,"Nasdaq, Inc."
+0N4T.L,Nordea Bank Abp
+0SCL.L,Schlumberger Limited
+0QL6.L,Swiss Re AG
+0OAL.L,"American International Group, Inc."
+0L5A.L,Sempra
+0R19.L,"Becton, Dickinson and Company"
+0QNO.L,Lonza Group AG
+0HF6.L,"Ameriprise Financial, Inc."
+0N9S.L,Eni S.p.A.
+0TD2.L,Eni S.p.A.
+FLTR.L,Flutter Entertainment plc
+0O26.L,Heineken N.V.
+0KET.L,PACCAR Inc
+0IKW.L,Fastenal Company
+0XVU.L,"Zscaler, Inc."
+0JOQ.L,"JD.com, Inc."
+RKT.L,Reckitt Benckiser Group plc
+0HB4.L,Dassault Systèmes SE
+0L3H.L,"L3Harris Technologies, Inc."
+EXPN.L,Experian plc
+HLN.L,Haleon plc
+0ACI.L,"Copart, Inc."
+0R0E.L,General Motors Company
+0A87.L,Takeda Pharmaceutical Company Limited
+0IC9.L,"Dominion Energy, Inc."
+0LO3.L,Veeva Systems Inc.
+0MPP.L,E.ON SE
+0QPS.L,Givaudan SA
+0IVW.L,Glencore plc
+GLEN.L,Glencore plc
+0LIY.L,"United Rentals, Inc."
+0Z62.L,Keurig Dr Pepper Inc.
+0A3O.L,"Datadog, Inc."
+0KAK.L,Occidental Petroleum Corporation
+0J50.L,Hess Corporation
+0LK6.L,Valero Energy Corporation
+0JS2.L,The Kroger Co.
+AXB.L,Axis Bank Limited
+0LCX.L,"Take-Two Interactive Software, Inc."
+0AD6.L,"Diamondback Energy, Inc."
+0I58.L,Cummins Inc.
+0I4W.L,Crown Castle Inc.
+0R2X.L,Corning Incorporated
+0LD8.L,Target Corporation
+0TIQ.L,Fair Isaac Corporation
+0LP3.L,"Verisk Analytics, Inc."
+0IJN.L,Exelon Corporation
+0J6Y.L,Société Générale Société anonyme
+0BFA.L,BASF SE
+0JQZ.L,Kimberly-Clark Corporation
+0ILW.L,"Fidelity National Information Services, Inc."
+FERG.L,Ferguson Enterprises Inc.
+CPIC.L,"China Pacific Insurance (Group) Co., Ltd."
+0A8Y.L,MSCI Inc.
+CCEP.L,Coca-Cola Europacific Partners PLC
+0A0D.L,Alcon Inc.
+0KXO.L,"Ross Stores, Inc."
+0J8P.L,"IDEXX Laboratories, Inc."
+0Z4C.L,Sika AG
+0A79.L,Carvana Co.
+0P4F.L,Ford Motor Company
+0HF7.L,"AMETEK, Inc."
+0KS2.L,Public Service Enterprise Group Incorporated
+0J5T.L,"Honda Motor Co., Ltd."
+WPM.L,Wheaton Precious Metals Corp.
+0HD2.L,"Alnylam Pharmaceuticals, Inc."
+0O84.L,DNB Bank ASA
+MHID.L,Mahindra & Mahindra Limited
+0LBF.L,Vale S.A.
+0OLD.L,adidas AG
+0HTG.L,"Cardinal Health, Inc."
+0R4Y.L,"Aena S.M.E., S.A."
+0HQP.L,"CBRE Group, Inc."
+0QZ5.L,Cognizant Technology Solutions Corporation
+0OQV.L,Orange S.A.
+0L95.L,"Block, Inc."
+0RR8.L,Baker Hughes Company
+0QYD.L,"Yum! Brands, Inc."
+0EYG.L,KBC Group NV
+0A6X.L,Ambev S.A.
+0M1R.L,Xcel Energy Inc.
+0QKN.L,Chocoladefabriken Lindt & Sprüngli AG
+0IFX.L,Electronic Arts Inc.
+0KV5.L,Fairfax Financial Holdings Limited
+0NMU.L,Wolters Kluwer N.V.
+0ADV.L,Otis Worldwide Corporation
+0RLW.L,Commerzbank AG
+0J46.L,HEICO Corporation
+0QO1.L,Schindler Holding AG
+0QOT.L,Schindler Holding AG
+0I6K.L,"D.R. Horton, Inc."
+0M9A.L,Hannover Rück SE
+0I50.L,Trip.com Group Limited
+0KRX.L,"Prudential Financial, Inc."
+0LD9.L,Targa Resources Corp.
+0KW4.L,ResMed Inc.
+0RI8.L,Koninklijke Ahold Delhaize N.V.
+0K19.L,Microchip Technology Incorporated
+0I35.L,"Consolidated Edison, Inc."
+0KXA.L,"Rockwell Automation, Inc."
+0R22.L,Barrick Mining Corporation
+0P2N.L,Ferrovial SE
+STAN.L,Standard Chartered PLC
+0VJA.L,Sun Life Financial Inc.
+0LC6.L,Sysco Corporation
+0R3D.L,eBay Inc.
+0QKI.L,Swisscom AG
+0MG2.L,Heidelberg Materials AG
+TSCO.L,Tesco PLC
+0IDU.L,EQT Corporation
+0J3H.L,"The Hartford Insurance Group, Inc."
+0ADT.L,"Brown & Brown, Inc."
+0GUX.L,Skandinaviska Enskilda Banken AB (publ)
+0HBY.L,Skandinaviska Enskilda Banken AB (publ)
+0IHP.L,Entergy Corporation
+0P2W.L,"Amadeus IT Group, S.A."
+0NZT.L,UCB SA
+0J4X.L,The Hershey Company
+0A7Y.L,Westinghouse Air Brake Technologies Corporation
+0JVD.L,"Live Nation Entertainment, Inc."
+0LRK.L,Vulcan Materials Company
+0Q4U.L,Novozymes A/S
+0F08.L,Kongsberg Gruppen ASA
+0R87.L,ASSA ABLOY AB (publ)
+0AH3.L,Great-West Lifeco Inc.
+0LF5.L,"The Trade Desk, Inc."
+0AAZ.L,EQT AB (publ)
+0QW0.L,argenx SE
+0II2.L,KONE Oyj
+0ADC.L,"Monolithic Power Systems, Inc."
+0LSL.L,"WEC Energy Group, Inc."
+0AB9.L,Daimler Truck Holding AG
+0A7P.L,"Old Dominion Freight Line, Inc."
+0N9G.L,"Endesa, S.A."
+0ADL.L,GE HealthCare Technologies Inc.
+CFHS.L,"Cathay Financial Holding Co., Ltd."
+0HAV.L,"Agilent Technologies, Inc."
+0MW7.L,Legrand SA
+0JZ0.L,"Martin Marietta Materials, Inc."
+0NVC.L,Danske Bank A/S
+0QYZ.L,Franco-Nevada Corporation
+IMB.L,Imperial Brands PLC
+0QA8.L,Talanx AG
+0A4M.L,"DexCom, Inc."
+0II3.L,Equifax Inc.
+0QOQ.L,Partners Group Holding AG
+0MJK.L,Erste Group Bank AG
+0ONG.L,Leonardo S.p.a.
+0IJV.L,Extra Space Storage Inc.
+0QZ4.L,"Delta Air Lines, Inc."
+0QR3.L,PG&E Corporation
+0A74.L,Kuaishou Technology
+0ITV.L,"Gartner, Inc."
+0EV1.L,Carnival Corporation & plc
+CCL.L,Carnival Corporation & plc
+PRU.L,Prudential plc
+0M29.L,Xylem Inc.
+0P6S.L,Bayer Aktiengesellschaft
+0JRV.L,The Kraft Heinz Company
+0JDP.L,Iron Mountain Incorporated
+0NHS.L,Nutrien Ltd.
+0HL8.L,Banco Bradesco S.A.
+0IZ8.L,Henkel AG & Co. KGaA
+0R35.L,Cameco Corporation
+0KU1.L,"Raymond James Financial, Inc."
+0K4C.L,"NRG Energy, Inc."
+0A2Y.L,"Telefónica, S.A."
+0TDE.L,"Telefónica, S.A."
+0NPV.L,"Naturgy Energy Group, S.A."
+0HG3.L,"ANSYS, Inc."
+0QY4.L,Las Vegas Sands Corp.
+0Y4Q.L,Willis Towers Watson Public Limited Company
+0A2Z.L,Tencent Music Entertainment Group
+0HA0.L,RWE Aktiengesellschaft
+0J6Z.L,Humana Inc.
+0HJO.L,"AvalonBay Communities, Inc."
+AAL.L,Anglo American plc
+0JW2.L,M&T Bank Corporation
+0K9L.L,Nucor Corporation
+0HL1.L,"Baidu, Inc."
+0R1X.L,"General Mills, Inc."
+0NX3.L,ASM International NV
+0H6T.L,Swedbank AB (publ)
+0TZZ.L,"HubSpot, Inc."
+0AC9.L,DSM-Firmenich AG
+0HAZ.L,Capgemini SE
+0L9G.L,State Street Corporation
+0LO4.L,"Ventas, Inc."
+0QFT.L,Vonovia SE
+0HAG.L,Sampo Oyj
+0A2U.L,Ryanair Holdings plc
+0RYA.L,Ryanair Holdings plc
+0A6B.L,"DuPont de Nemours, Inc."
+0QMG.L,Swiss Life Holding AG
+0O76.L,A.P. Møller - Mærsk A/S
+0O77.L,A.P. Møller - Mærsk A/S
+0HPW.L,"Broadridge Financial Solutions, Inc."
+0K8D.L,Nokia Oyj
+0IID.L,Telefonaktiebolaget LM Ericsson (publ)
+0O86.L,Telefonaktiebolaget LM Ericsson (publ)
+0O87.L,Telefonaktiebolaget LM Ericsson (publ)
+0RC2.L,Poste Italiane S.p.A.
+0HMZ.L,W. R. Berkley Corporation
+0REL.L,Tractor Supply Company
+0A7N.L,"Keysight Technologies, Inc."
+0RCG.L,Hapag-Lloyd Aktiengesellschaft
+0HEW.L,"American Water Works Company, Inc."
+0HVB.L,Centene Corporation
+0HAF.L,Nokia Oyj
+0JVT.L,lululemon athletica inc.
+0GWL.L,Saab AB (publ)
+0R1R.L,Kellanova
+0I6Q.L,DTE Energy Company
+0IAX.L,Dassault Aviation société anonyme
+0HC0.L,Sandvik AB (publ)
+0JU0.L,Lennar Corporation
+0QXR.L,Stellantis N.V.
+SSE.L,SSE plc
+0OO9.L,Fresenius SE & Co. KGaA
+0NR1.L,VERBUND AG
+0DQ7.L,Beiersdorf Aktiengesellschaft
+0FQI.L,Publicis Groupe S.A.
+0JTM.L,The Estée Lauder Companies Inc.
+0JDM.L,IQVIA Holdings Inc.
+0R9C.L,"Cellnex Telecom, S.A."
+0LOZ.L,"VeriSign, Inc."
+0IIB.L,Equity Residential
+0IKZ.L,Federal Home Loan Mortgage Corporation
+0I77.L,"Darden Restaurants, Inc."
+0JQQ.L,Archer-Daniels-Midland Company
+0IM1.L,Fifth Third Bancorp
+0R7R.L,Svenska Handelsbanken AB (publ)
+0R7S.L,Svenska Handelsbanken AB (publ)
+AHT.L,Ashtead Group plc
+0A3M.L,BioNTech SE
+0QMW.L,Kuehne + Nagel International AG
+0INB.L,STMicroelectronics N.V.
+0L9Y.L,STMicroelectronics N.V.
+0QQ2.L,Geberit AG
+0FMN.L,Orlen S.A.
+0HE2.L,Ameren Corporation
+0HAT.L,Pernod Ricard SA
+0OFM.L,Compagnie Générale des Établissements Michelin Société en commandite par actions
+0GRX.L,Hexagon AB (publ)
+0LQQ.L,Vodafone Group Public Limited Company
+VOD.L,Vodafone Group Public Limited Company
+BT.A.L,BT Group plc
+0JUJ.L,Formula One Group
+0YSU.L,Epiroc AB (publ)
+0YSV.L,Epiroc AB (publ)
+0NY8.L,Veolia Environnement SA
+0KEJ.L,PPL Corporation
+0JYM.L,Markel Group Inc.
+0IC7.L,Dollar General Corporation
+0IIH.L,Kering SA
+0KEI.L,"PPG Industries, Inc."
+0KYZ.L,SBA Communications Corporation
+IPC.L,International Paper Company
+0LIU.L,"United Airlines Holdings, Inc."
+0QYR.L,Panasonic Holdings Corporation
+0ICP.L,Dover Corporation
+0TIV.L,Fanuc Corporation
+0A18.L,CGI Inc.
+0HQN.L,"Cboe Global Markets, Inc."
+0K10.L,Mettler-Toledo International Inc.
+0IRE.L,Fortive Corporation
+0Y9S.L,Check Point Software Technologies Ltd.
+0R13.L,"Church & Dwight Co., Inc."
+0A1O.L,Zoom Communications Inc.
+0LC3.L,Synchrony Financial
+0J51.L,Hewlett Packard Enterprise Company
+0HVF.L,"CenterPoint Energy, Inc."
+0SAN.L,Sandoz Group AG
+0IPB.L,FirstEnergy Corp.
+0IJ2.L,Eversource Energy
+0J72.L,Huntington Bancshares Incorporated
+0ACF.L,Teledyne Technologies Incorporated
+0RP9.L,ArcelorMittal S.A.
+0LI9.L,Ubiquiti Inc.
+0HYE.L,Cincinnati Financial Corporation
+0J2E.L,HP Inc.
+0FC9.L,MTU Aero Engines AG
+0RG8.L,Sartorius Stedim Biotech S.A.
+ANTO.L,Antofagasta plc
+0IYR.L,Gold Fields Limited
+SWR.L,Smurfit Westrock Plc
+AV.L,Aviva plc
+AV..L,Aviva plc
+0JSY.L,Labcorp Holdings Inc.
+0I8W.L,Devon Energy Corporation
+0RDM.L,ABN AMRO Bank N.V.
+0KC4.L,ON Semiconductor Corporation
+TTST.L,Tata Steel Limited
+0VFA.L,Restaurant Brands International Inc.
+0A2M.L,Koninklijke Philips N.V.
+0LNG.L,Koninklijke Philips N.V.
+0K91.L,Northern Trust Corporation
+0HBP.L,H & M Hennes & Mauritz AB (publ)
+0LIB.L,"Ulta Beauty, Inc."
+0QBO.L,Coloplast A/S
+0IHQ.L,EnBW Energie Baden-Württemberg AG
+0NBD.L,Heineken Holding N.V.
+0G8C.L,Telenor ASA
+0J1G.L,"Guidewire Software, Inc."
+0NVR.L,"NVR, Inc."
+0R1T.L,"Expedia Group, Inc."
+0QZF.L,Western Digital Corporation
+0LBM.L,Terna S.p.A.
+0K6F.L,"NetApp, Inc."
+0HR4.L,CMS Energy Corporation
+OTPD.L,OTP Bank Nyrt.
+KNM.L,Konami Group Corporation
+0YZ2.L,Geely Automobile Holdings Limited
+0HRZ.L,Coterra Energy Inc.
+0NQP.L,Snam S.p.A.
+0IC8.L,"Dollar Tree, Inc."
+0KNY.L,"T. Rowe Price Group, Inc."
+0LTI.L,Waters Corporation
+0A1S.L,Dow Inc.
+0QMV.L,Straumann Holding AG
+0KSX.L,Quest Diagnostics Incorporated
+HTSC.L,"Huatai Securities Co., Ltd."
+0QMI.L,SGS SA
+0ACE.L,PTC Inc.
+0RKY.L,Exor N.V.
+ABF.L,Associated British Foods plc
+0KS6.L,"PulteGroup, Inc."
+0KV3.L,Regions Financial Corporation
+0LXC.L,"Williams-Sonoma, Inc."
+0K9O.L,"Nutanix, Inc."
+0ABA.L,DraftKings Inc.
+0JZS.L,"McCormick & Company, Incorporated"
+0L1G.L,"SS&C Technologies Holdings, Inc."
+0LER.L,Teva Pharmaceutical Industries Limited
+0A2L.L,International Consolidated Airlines Group S.A.
+IAG.L,International Consolidated Airlines Group S.A.
+NXT.L,NEXT plc
+LGEN.L,Legal & General Group Plc
+0IFJ.L,Edison International
+0LHR.L,"Tyson Foods, Inc."
+0HXB.L,Tenaris S.A.
+0R23.L,Halliburton Company
+0JAV.L,Insmed Incorporated
+CCH.L,Coca-Cola HBC AG
+0EDD.L,LyondellBasell Industries N.V.
+0LWG.L,Weyerhaeuser Company
+0R2D.L,Kinross Gold Corporation
+0RQC.L,Essity AB (publ)
+0RQD.L,Essity AB (publ)
+0IW7.L,Global Payments Inc.
+0AI3.L,Carlsberg A/S
+0AI4.L,Carlsberg A/S
+0O8F.L,Koninklijke KPN N.V.
+0R1B.L,Biogen Inc.
+0JVI.L,Loews Corporation
+0K87.L,NiSource Inc.
+0RJ4.L,Uniper SE
+0NUX.L,Prysmian S.p.A.
+0IIR.L,"Essex Property Trust, Inc."
+0AD5.L,Gen Digital Inc.
+KYGA.L,Kerry Group plc
+0M5J.L,Aker BP ASA
+0QPY.L,Sonova Holding AG
+0HYP.L,"Citizens Financial Group, Inc."
+0R4P.L,Lifco AB (publ)
+0LHL.L,Twilio Inc.
+0RHE.L,Ørsted A/S
+0HBF.L,Mediobanca Banca di Credito Finanziario S.p.A.
+0L8F.L,Southwest Airlines Co.
+0JQR.L,KeyCorp
+0LD5.L,"Tapestry, Inc."
+0K1E.L,"Mid-America Apartment Communities, Inc."
+0MKH.L,OMV Aktiengesellschaft
+0OF7.L,"EDP, S.A."
+0KB7.L,"Okta, Inc."
+0U8N.L,Credicorp Ltd.
+0KSA.L,"Pure Storage, Inc."
+0NNF.L,Alfa Laval AB (publ)
+0AD2.L,Trimble Inc.
+0NQG.L,"Repsol, S.A."
+0LQ1.L,Continental Aktiengesellschaft
+0H00.L,"Banco de Sabadell, S.A."
+0KO5.L,"Principal Financial Group, Inc."
+0QVV.L,NN Group N.V.
+0FUT.L,Futu Holdings Limited
+0RLA.L,Banco BPM S.p.A.
+0IXZ.L,Bolloré SE
+0QM9.L,EMS-CHEMIE HOLDING AG
+0QVJ.L,Euronext N.V.
+IHG.L,InterContinental Hotels Group PLC
+0KKZ.L,"MongoDB, Inc."
+0K7U.L,News Corporation
+0K7V.L,News Corporation
+SDIC.L,"SDIC Power Holdings Co., Ltd"
+0KEZ.L,Packaging Corporation of America
+CKI.L,CK Infrastructure Holdings Limited
+0J5Z.L,Hormel Foods Corporation
+0IUX.L,Genuine Parts Company
+0HAH.L,Fortum Oyj
+AIBG.L,AIB Group plc
+0IL6.L,"F5, Inc."
+SGE.L,The Sage Group plc
+0HQU.L,"CF Industries Holdings, Inc."
+0KTS.L,Ralph Lauren Corporation
+0HAN.L,Bouygues SA
+0RUG.L,bioMérieux S.A.
+0HAC.L,"ACS, Actividades de Construcción y Servicios, S.A."
+0NMK.L,Vestas Wind Systems A/S
+0L7G.L,Snap-on Incorporated
+0RQP.L,Investment AB Latour (publ)
+0QGU.L,CNH Industrial N.V.
+0Y5X.L,Pentair plc
+HLMA.L,Halma plc
+0M30.L,"Yum China Holdings, Inc."
+0ACR.L,"Rivian Automotive, Inc."
+0AA4.L,Traton SE
+0ADY.L,"West Pharmaceutical Services, Inc."
+0RDX.L,Amundi S.A.
+0H9X.L,Fresenius Medical Care AG
+0G6T.L,Symrise AG
+0HL5.L,Ball Corporation
+0IJR.L,"Expeditors International of Washington, Inc."
+0NIQ.L,Sartorius Aktiengesellschaft
+0FDT.L,Nemetschek SE
+0HCT.L,Alliant Energy Corporation
+0R06.L,"First Solar, Inc."
+0R78.L,Tryg A/S
+0A7E.L,"Domino's Pizza, Inc."
+0QK8.L,Baxter International Inc.
+0JOI.L,Jacobs Solutions Inc.
+0EXG.L,"Jerónimo Martins, SGPS, S.A."
+0KBI.L,Knorr-Bremse AG
+0XNH.L,"DocuSign, Inc."
+0QII.L,Moncler S.p.A.
+0H13.L,AB Industrivärden (publ)
+0MHU.L,AB Industrivärden (publ)
+0KGP.L,Kingspan Group plc
+0I0J.L,The Clorox Company
+0ACG.L,Zebra Technologies Corporation
+0MH1.L,Bureau Veritas SA
+0RMV.L,TechnipFMC plc
+0RQ6.L,Evolution AB (publ)
+0H9N.L,AECOM
+0A33.L,ZTO Express (Cayman) Inc.
+WISE.L,Wise plc
+0R18.L,"Best Buy Co., Inc."
+0NV5.L,UPM-Kymmene Oyj
+0H6X.L,Telia Company AB (publ)
+0J8Z.L,"Illumina, Inc."
+0J5Q.L,"Hologic, Inc."
+0M1O.L,"XPO, Inc."
+0JR1.L,Kimco Realty Corporation
+0U96.L,"Everest Group, Ltd."
+FRES.L,Fresnillo plc
+0LS8.L,W. P. Carey Inc.
+0I3I.L,"The Cooper Companies, Inc."
+ADM.L,Admiral Group plc
+INF.L,Informa plc
+0MYY.L,Powszechny Zaklad Ubezpieczen SA
+0LEF.L,"Teradyne, Inc."
+0LF0.L,Textron Inc.
+0J71.L,"J.B. Hunt Transport Services, Inc."
+0NQC.L,Pandora A/S
+0B67.L,"Galp Energia, SGPS, S.A."
+0RNH.L,Snap Inc.
+0A62.L,RPM International Inc.
+GAID.L,GAIL (India) Limited
+0LJN.L,Unum Group
+0Q6M.L,Unipol Assicurazioni S.p.A.
+0LHS.L,"UDR, Inc."
+0HJR.L,Avery Dennison Corporation
+0KBK.L,Omnicom Group Inc.
+JAR.L,Jardine Matheson Holdings Limited
+0HEJ.L,American Homes 4 Rent
+0TCP.L,Dino Polska S.A.
+0A71.L,Antero Resources Corporation
+0YO9.L,Unibail-Rodamco-Westfield SE
+0MGB.L,Genmab A/S
+0J9P.L,Incyte Corporation
+0A6D.L,"Jack Henry & Associates, Inc."
+0RHS.L,ASR Nederland N.V.
+0EPW.L,HOCHTIEF Aktiengesellschaft
+0QVF.L,FinecoBank Banca Fineco S.p.A.
+0IKJ.L,Wärtsilä Oyj Abp
+0HCK.L,"Align Technology, Inc."
+0A5I.L,JDE Peet's N.V.
+0KGH.L,"Paycom Software, Inc."
+0RBE.L,Covestro AG
+BIRG.L,Bank of Ireland Group plc
+0QO6.L,Julius Bär Gruppe AG
+0DVR.L,Santander Bank Polska S.A.
+0JZ1.L,Masco Corporation
+0KUT.L,Regency Centers Corporation
+0LHO.L,Coherent Corp.
+0R4M.L,Lundin Gold Inc.
+0HOT.L,Booz Allen Hamilton Holding Corporation
+SN.L,Smith & Nephew plc
+SN..L,Smith & Nephew plc
+0KBS.L,Recordati Industria Chimica e Farmaceutica S.p.A.
+0K6R.L,"Neurocrine Biosciences, Inc."
+SGRO.L,SEGRO Plc
+0AD1.L,Solventum Corporation
+0Q99.L,ageas SA/NV
+0QK6.L,Logitech International S.A.
+0K9V.L,HAL Trust
+0DP0.L,Bank Polska Kasa Opieki S.A.
+0OJC.L,Gjensidige Forsikring ASA
+0MV5.L,Eurofins Scientific SE
+HKLB.L,Hongkong Land Holdings Limited
+HKLD.L,Hongkong Land Holdings Limited
+HKLJ.L,Hongkong Land Holdings Limited
+0RFL.L,VAT Group AG
+0HCH.L,"Alexandria Real Estate Equities, Inc."
+0HQ3.L,Brown-Forman Corporation
+0SGN.L,Brown-Forman Corporation
+0MU6.L,BPER Banca SpA
+0NQF.L,Renault SA
+0GWB.L,L E Lundbergföretagen AB (publ)
+0A5S.L,Hensoldt AG
+0NPT.L,Eiffage SA
+0JPH.L,"Juniper Networks, Inc."
+0QMR.L,BELIMO Holding AG
+0ACB.L,Helvetia Holding AG
+0KXI.L,"Roku, Inc."
+0RDO.L,Banca Mediolanum S.p.A.
+0RT6.L,"Franklin Resources, Inc."
+0NTU.L,Elia Group SA/NV
+0NP8.L,Aeroports de Paris SA
+0I4X.L,"Crown Holdings, Inc."
+0KXS.L,"Royal Gold, Inc."
+0Y5C.L,Allegion plc
+0QOG.L,Swiss Prime Site AG
+0ML1.L,"EDP Renováveis, S.A."
+RTO.L,Rentokil Initial plc
+0NQ2.L,"Mapfre, S.A."
+0K3B.L,The Mosaic Company
+0HBQ.L,"Akamai Technologies, Inc."
+0H7O.L,"Bankinter, S.A."
+0H59.L,Accor SA
+0XVE.L,BE Semiconductor Industries N.V.
+KAP.L,National Atomic Company Kazatomprom JSC
+0RI5.L,"Redeia Corporación, S.A."
+0HOX.L,"BXP, Inc."
+0HD0.L,Ally Financial Inc.
+0JPB.L,Jones Lang LaSalle Incorporated
+0EEE.L,CTS Eventim AG & Co. KGaA
+0UGS.L,Alamos Gold Inc.
+0A00.L,Akzo Nobel N.V.
+0QQ0.L,BKW AG
+0KHE.L,"Revvity, Inc."
+0RJN.L,"Banco Comercial Português, S.A."
+0IJO.L,"Exelixis, Inc."
+0HQW.L,"C.H. Robinson Worldwide, Inc."
+0F4I.L,Klépierre SA
+0RCP.L,Eurobank Ergasias Services and Holdings S.A.
+0A6U.L,Luckin Coffee Inc.
+0LJL.L,"Universal Health Services, Inc."
+0RCR.L,National Bank of Greece S.A.
+SVT.L,Severn Trent PLC
+0J66.L,"Host Hotels & Resorts, Inc."
+0R8S.L,Infrastrutture Wireless Italiane S.p.A.
+0MPJ.L,GEA Group Aktiengesellschaft
+0Q11.L,Norsk Hydro ASA
+VALT.L,Valterra Platinum Limited
+0FIN.L,Orkla ASA
+CNA.L,Centrica plc
+0OBQ.L,Deutsche Wohnen SE
+0L77.L,"Skyworks Solutions, Inc."
+0SAY.L,DWS Group GmbH & Co. KGaA
+0ADW.L,Pool Corporation
+0KBL.L,"Omega Healthcare Investors, Inc."
+0R07.L,Pan American Silver Corp.
+0HNC.L,BioMarin Pharmaceutical Inc.
+0KIT.L,Pinnacle West Capital Corporation
+0ON7.L,D'Ieteren Group SA
+0Q0Y.L,Aegon Ltd.
+0HHB.L,Aramark
+0R3U.L,HELLA GmbH & Co. KGaA
+UU.L,United Utilities Group PLC
+UU..L,United Utilities Group PLC
+0A6L.L,GameStop Corp.
+0HYA.L,Ciena Corporation
+0QQ3.L,Baloise Holding AG
+0LFS.L,"Toll Brothers, Inc."
+0M2N.L,Orion Oyj
+0M2O.L,Orion Oyj
+0HVD.L,Permian Resources Corporation
+0A5V.L,Viatris Inc.
+0I2P.L,"Conagra Brands, Inc."
+0I7E.L,DaVita Inc.
+0NPH.L,Carrefour SA
+0A2I.L,H World Group Limited
+0L7F.L,The J. M. Smucker Company
+0QE6.L,Tele2 AB (publ)
+0KTW.L,Range Resources Corporation
+0P72.L,Getlink SE
+0MGI.L,Metso Oyj
+0RLT.L,Qiagen N.V.
+0O7D.L,Yara International ASA
+ITRK.L,Intertek Group plc
+0L9E.L,"Stanley Black & Decker, Inc."
+0A8Z.L,"MACOM Technology Solutions Holdings, Inc."
+0MKP.L,Strabag SE
+MKS.L,Marks and Spencer Group plc
+0H6I.L,Telecom Italia S.p.A.
+0HIN.L,"Assurant, Inc."
+BNZL.L,Bunzl plc
+SMIN.L,Smiths Group plc
+0K2K.L,Molson Coors Beverage Company
+0LSZ.L,"Walgreens Boots Alliance, Inc."
+0A45.L,"Moderna, Inc."
+0RK6.L,Banca Monte dei Paschi di Siena S.p.A.
+0NWW.L,AB SKF (publ)
+0NWX.L,AB SKF (publ)
+0HTQ.L,"CarMax, Inc."
+0O46.L,Neste Oyj
+CNSD.L,China Steel Corporation
+0QDS.L,Evonik Industries AG
+0G2X.L,Sofina Société Anonyme
+0MTD.L,Swedish Orphan Biovitrum AB (publ)
+0J2R.L,Alstom SA
+0OAW.L,Mowi ASA
+0IN2.L,Groupe Bruxelles Lambert SA
+0H30.L,Indutrade AB (publ)
+0MH6.L,Ipsen S.A.
+0RB8.L,Scout24 SE
+0MPT.L,Brenntag SE
+0L2T.L,"Samsung SDI Co., Ltd."
+0RVE.L,BAWAG Group AG
+0J3K.L,"Hasbro, Inc."
+0JSJ.L,LKQ Corporation
+AUTO.L,Auto Trader Group plc
+0HST.L,The Campbell's Company
+0HBT.L,Skanska AB (publ)
+0TDG.L,Sociedad Química y Minera de Chile S.A.
+PSON.L,Pearson plc
+0H6E.L,AGNC Investment Corp.
+0ACP.L,Banque Cantonale Vaudoise
+0L73.L,"Skechers U.S.A., Inc."
+PSH.L,"Pershing Square Holdings, Ltd."
+0BNS.L,Kesko Oyj
+0BNT.L,Kesko Oyj
+0I0T.L,"Coca-Cola Consolidated, Inc."
+0H4A.L,Deutsche Lufthansa AG
+0MCJ.L,Svenska Cellulosa Aktiebolaget SCA (publ)
+0MCK.L,Svenska Cellulosa Aktiebolaget SCA (publ)
+0JWC.L,MGM Resorts International
+0J76.L,"Huntington Ingalls Industries, Inc."
+0NXR.L,Raiffeisen Bank International AG
+0LVK.L,Westlake Corporation
+0NVQ.L,Buzzi S.p.A.
+39IB.L,LG Electronics Inc.
+LGLD.L,LG Electronics Inc.
+0H4K.L,"Acciona, S.A."
+0J39.L,Harmony Gold Mining Company Limited
+0M09.L,Rockwool A/S
+0M0A.L,Rockwool A/S
+0KJD.L,"Planet Fitness, Inc."
+0QYK.L,"Wynn Resorts, Limited"
+0FRJ.L,RATIONAL Aktiengesellschaft
+0L7A.L,A. O. Smith Corporation
+0CX9.L,Stora Enso Oyj
+0KCK.L,Stora Enso Oyj
+PHNX.L,Phoenix Group Holdings plc
+BTRW.L,Barratt Redrow plc
+0AAY.L,Vår Energi AS
+0JZ2.L,Masimo Corporation
+0IKH.L,"Komercní banka, a.s."
+0J3F.L,Sodexo S.A.
+0QI7.L,Addtech AB (publ.)
+SBRY.L,J Sainsbury plc
+0RGT.L,Demant A/S
+0QM4.L,The Swatch Group AG
+0Z4I.L,Sunny Optical Technology (Group) Company Limited
+0L3C.L,"Henry Schein, Inc."
+0KGS.L,Pegasystems Inc.
+DPLM.L,Diploma PLC
+0HAL.L,"AeroVironment, Inc."
+0RQ9.L,Lundin Mining Corporation
+0IF3.L,Eastman Chemical Company
+0HGR.L,"Applied Industrial Technologies, Inc."
+MRO.L,Melrose Industries PLC
+WEIR.L,The Weir Group PLC
+0R8M.L,SPIE SA
+0A65.L,Paramount Global
+0JCK.L,"The Interpublic Group of Companies, Inc."
+0HJH.L,"Autoliv, Inc."
+0MI0.L,"Autoliv, Inc."
+0KBZ.L,Rexel S.A.
+0QJV.L,The Swatch Group AG
+0I8Y.L,Elisa Oyj
+0H90.L,Acuity Inc.
+0H2Z.L,Fastighets AB Balder (publ)
+AAF.L,Airtel Africa Plc
+0RG6.L,Flughafen Zürich AG
+0YAL.L,Boliden AB (publ)
+S32.L,South32 Limited
+TIBD.L,Türkiye Is Bankasi A.S.
+0HOJ.L,Blueprint Medicines Corporation
+0QO8.L,PSP Swiss Property AG
+0T3W.L,Bilibili Inc.
+0IL1.L,Federal Realty Investment Trust
+0IQC.L,Fluor Corporation
+0UC3.L,Norwegian Cruise Line Holdings Ltd.
+MNG.L,M&G plc
+0RSP.L,Ayvens
+0IAH.L,Securitas AB (publ)
+0NL3.L,Trelleborg AB (publ)
+0N54.L,A2A S.p.A.
+0RH0.L,NIBE Industrier AB (publ)
+0GYM.L,Ackermans & Van Haaren NV
+RMV.L,Rightmove plc
+0SGO.L,"Dropbox, Inc."
+0A8N.L,"Commvault Systems, Inc."
+0NWQ.L,CPI Property Group
+0OPE.L,Gecina
+0QXN.L,Zalando SE
+0F4O.L,Lotus Bakeries NV
+0Q7S.L,Brunello Cucinelli S.p.A.
+0Q88.L,AB Sagax (publ)
+0QDX.L,AB Sagax (publ)
+0QLD.L,Swissquote Group Holding Ltd
+STJ.L,St. James's Place plc
+0CXC.L,Stora Enso Oyj
+0ITS.L,"The Gap, Inc."
+0LR2.L,Vornado Realty Trust
+0FI1.L,Organization of Football Prognostics S.A.
+0ROY.L,Davide Campari-Milano N.V.
+0A6K.L,InPost S.A.
+0A0H.L,Beijer Ref AB (publ)
+CTEC.L,ConvaTec Group PLC
+0K75.L,New Oriental Education & Technology Group Inc.
+0A1K.L,NIO Inc.
+BEZ.L,Beazley plc
+0QVU.L,IMCD N.V.
+0MHM.L,Vend Marketplaces ASA
+0R9I.L,Vend Marketplaces ASA
+0QZP.L,Bombardier Inc.
+SDR.L,Schroders plc
+0K1G.L,The Middleby Corporation
+0LQ0.L,Vipshop Holdings Limited
+0I3Q.L,Corcept Therapeutics Incorporated
+0H6G.L,The AES Corporation
+ZEG.L,Zegona Communications plc
+WPP.L,WPP plc
+0KSJ.L,"Qorvo, Inc."
+ICG.L,Intermediate Capital Group plc
+0QK3.L,Avolta AG
+0JZ7.L,"Match Group, Inc."
+EDV.L,Endeavour Mining plc
+0HOB.L,"H&R Block, Inc."
+0S2J.L,Impala Platinum Holdings Limited
+0HCB.L,Alcoa Corporation
+0I1P.L,Comerica Incorporated
+0HGC.L,APA Corporation
+0HOU.L,BorgWarner Inc.
+0NKL.L,Telekom Austria AG
+0LJE.L,Universal Display Corporation
+0LX1.L,CD Projekt S.A.
+0NW2.L,Randstad N.V.
+0OPN.L,Compagnie de l'Odet
+GAW.L,Games Workshop Group PLC
+ENT.L,Entain Plc
+0I76.L,Compagnie du Cambodge
+BAB.L,Babcock International Group PLC
+0RDU.L,"Grifols, S.A."
+0P4G.L,SIG Group AG
+0RTC.L,Delivery Hero SE
+0RCS.L,Alpha Services and Holdings S.A.
+0M3L.L,"Zions Bancorporation, National Association"
+MNDI.L,Mondi plc
+0QVM.L,"MERLIN Properties SOCIMI, S.A."
+0KDI.L,Oshkosh Corporation
+0QT5.L,Gaztransport & Technigaz SA
+0A6F.L,Lattice Semiconductor Corporation
+0HC7.L,Albemarle Corporation
+0HE6.L,American Airlines Group Inc.
+WTB.L,Whitbread plc
+0A8B.L,FDJ United
+IMI.L,IMI plc
+0P1R.L,Pirelli & C. S.p.A.
+0HA9.L,"Indra Sistemas, S.A."
+0JPN.L,"KBR, Inc."
+0A8A.L,Technip Energies N.V.
+0NVV.L,Hera S.p.A.
+0A0J.L,AAK AB (publ.)
+0YAA.L,Nova Ltd.
+0L9F.L,"Starwood Property Trust, Inc."
+0NX5.L,Nexi S.p.A.
+0IPD.L,"Five Below, Inc."
+0L98.L,"STAG Industrial, Inc."
+0QLQ.L,Ypsomed Holding AG
+0Q57.L,SpareBank 1 Sør-Norge ASA
+0MJZ.L,Andritz AG
+0NRN.L,"Grupo Catalana Occidente, S.A."
+0MUM.L,Edenred SE
+0UAN.L,Invesco Ltd.
+HSBK.L,Halyk Bank of Kazakhstan Joint Stock Company
+0J2O.L,"Halozyme Therapeutics, Inc."
+0RK1.L,Italgas S.p.A.
+0QYL.L,Rambus Inc.
+0A6V.L,Nordnet AB (publ)
+0J6V.L,Covivio
+0JS0.L,"Kratos Defense & Security Solutions, Inc."
+0D53.L,Financière de Tubize SA
+KGF.L,Kingfisher plc
+0QC9.L,LEG Immobilien SE
+0U6C.L,Axalta Coating Systems Ltd.
+0HI1.L,"Arrow Electronics, Inc."
+0A2X.L,TAL Education Group
+0A4A.L,Wayfair Inc.
+0MZX.L,Vienna Insurance Group AG
+HWDN.L,Howden Joinery Group Plc
+0ACC.L,Accelleron Industries AG
+0A0L.L,Sectra AB (publ)
+0JXI.L,"Madrigal Pharmaceuticals, Inc."
+0KJZ.L,"Post Holdings, Inc."
+0QP4.L,Georg Fischer AG
+0O1R.L,Fraport AG
+0XS9.L,Holmen AB (publ)
+0RA8.L,Elis SA
+LAND.L,Land Securities Group Plc
+0HAA.L,"Fomento de Construcciones y Contratas, S.A."
+0GT1.L,Castellum AB (publ)
+0OIR.L,ALK-Abelló A/S
+0JWG.L,MKS Inc.
+0A2O.L,"Lyft, Inc."
+0DQZ.L,Banca Generali S.p.A.
+UPLL.L,UPL Limited
+DCC.L,DCC plc
+0JVV.L,Lumentum Holdings Inc.
+0YTR.L,"Wyndham Hotels & Resorts, Inc."
+0JKF.L,Jackson Financial Inc.
+0QFU.L,KION GROUP AG
+0RV0.L,Reply S.p.A.
+0K2F.L,"Mohawk Industries, Inc."
+0JZH.L,"Mattel, Inc."
+0O1C.L,thyssenkrupp AG
+0QQ9.L,Sulzer Ltd
+HIK.L,Hikma Pharmaceuticals PLC
+0R6R.L,Axfood AB (publ)
+0IQE.L,Flowserve Corporation
+0U95.L,Essent Group Ltd.
+0NWJ.L,Banca Popolare di Sondrio S.p.A
+0IRN.L,"Fortune Brands Innovations, Inc."
+0HUR.L,Celanese Corporation
+0K76.L,Rithm Capital Corp.
+INVP.L,Investec Group
+0QO7.L,Barry Callebaut AG
+0JDI.L,"Ionis Pharmaceuticals, Inc."
+0H0G.L,Sweco AB (publ)
+0JSC.L,"Bath & Body Works, Inc."
+0DHC.L,Carl Zeiss Meditec AG
+0U3Q.L,"InterDigital, Inc."
+0MET.L,Konecranes Plc
+0MGD.L,Jyske Bank A/S
+SPX.L,Spirax Group plc
+0FWY.L,SalMar ASA
+FEDS.L,The Federal Bank Limited
+0NO0.L,Storebrand ASA
+0RPW.L,Janus Henderson Group plc
+0A78.L,"Caesars Entertainment, Inc."
+0GZX.L,DiaSorin S.p.A.
+0R0U.L,"Coeur Mining, Inc."
+0IIW.L,"Etsy, Inc."
+0LK3.L,"Vail Resorts, Inc."
+0A9L.L,AUTO1 Group SE
+0HA8.L,"Corporación Financiera Alba, S.A."
+0IT3.L,SCOR SE
+HSX.L,Hiscox Ltd
+0A2N.L,Lynas Rare Earths Limited
+PSN.L,Persimmon Plc
+0HC3.L,"Alaska Air Group, Inc."
+0G3T.L,Fortnox AB (publ)
+0KII.L,SSAB AB (publ)
+0MHZ.L,SSAB AB (publ)
+TW.L,Taylor Wimpey plc
+0JV3.L,Lincoln National Corporation
+0OGK.L,Subsea 7 S.A.
+0A3L.L,"Vertex, Inc."
+0O8V.L,Koninklijke Vopak N.V.
+LMP.L,LondonMetric Property Plc
+CRDA.L,Croda International Plc
+UTG.L,Unite Group PLC
+0MNC.L,RTL Group S.A.
+0MU2.L,Warehouses De Pauw SA
+0VOU.L,"Varonis Systems, Inc."
+0RR7.L,"Unicaja Banco, S.A."
+BKG.L,The Berkeley Group Holdings plc
+0QIW.L,Valmet Oyj
+0RPI.L,Saipem SpA
+0ABR.L,H. Lundbeck A/S
+0ND5.L,H. Lundbeck A/S
+0HYI.L,"Cirrus Logic, Inc."
+0QLT.L,Graubündner Kantonalbank
+0J6X.L,Teleperformance SE
+BKM.L,Bank Muscat SAOG
+0UVO.L,Finning International Inc.
+DLG.L,Direct Line Insurance Group plc
+0AB7.L,Technoprobe S.p.A.
+0N61.L,Amplifon S.p.A.
+0RHU.L,Flughafen Wien Aktiengesellschaft
+EZJ.L,easyJet plc
+0QND.L,Bachem Holding AG
+0MHD.L,ACEA S.p.A.
+0ROG.L,Galenica AG
+0DPM.L,Bechtle AG
+0HAQ.L,"Affiliated Managers Group, Inc."
+0N4Y.L,Colruyt Group N.V.
+0JXQ.L,Main Street Capital Corporation
+0QWN.L,Fincantieri S.p.A.
+0ADI.L,Teleflex Incorporated
+0IK3.L,FMC Corporation
+0QM5.L,Emmi AG
+0QW8.L,SFS Group AG
+0QJX.L,EFG International AG
+0K58.L,NOV Inc.
+0L5R.L,Shake Shack Inc.
+0GZV.L,Getinge AB (publ)
+0KDH.L,"Ormat Technologies, Inc."
+RICO.L,"Ricoh Company, Ltd."
+0RPR.L,Ringkjøbing Landbobank A/S
+BLND.L,British Land Company PLC
+0VGI.L,"TG Therapeutics, Inc."
+0MJX.L,Aker ASA
+0IB0.L,Arkema S.A.
+0LWH.L,Whirlpool Corporation
+0NUK.L,Avanza Bank Holding AB (publ)
+0HKF.L,"Axsome Therapeutics, Inc."
+0HP1.L,"Box, Inc."
+JD.L,JD Sports Fashion Plc
+0MFW.L,KBC Ancora SA
+0QQO.L,Siegfried Holding AG
+0I14.L,Cognex Corporation
+0MG1.L,Fielmann Group AG
+0MGS.L,SEB SA
+0AAK.L,Volvo Car AB (publ.)
+0A4L.L,Bloom Energy Corporation
+0IGF.L,Nexans S.A.
+BBOX.L,Tritax Big Box REIT plc
+IGG.L,IG Group Holdings plc
+0NJP.L,SOL S.p.A.
+0QOA.L,Temenos AG
+SCT.L,Softcat plc
+0ACK.L,Dottikon ES Holding AG
+0V9N.L,Science Applications International Corporation
+0A56.L,Sibanye Stillwater Limited
+0LQ4.L,Krones AG
+0OA4.L,VusionGroup S.A.
+0VBE.L,OR Royalties Inc.
+0JTQ.L,Lear Corporation
+BRBY.L,Burberry Group plc
+0GE4.L,United Internet AG
+0QQN.L,Bucher Industries AG
+0QYN.L,B2Gold Corp.
+0EEI.L,EVN AG
+0QYE.L,"Enphase Energy, Inc."
+HBR.L,Harbour Energy plc
+0QQE.L,DKSH Holding AG
+CBQS.L,The Commercial Bank (P.S.Q.C.)
+0KV7.L,Tomra Systems ASA
+CBKD.L,Commercial International Bank Egypt (CIB) S.A.E.
+0AB5.L,Iveco Group N.V.
+0HZC.L,Eurazeo SE
+0E5M.L,De'Longhi S.p.A.
+0K93.L,Credito Emiliano S.p.A.
+0RB7.L,Lagercrantz Group AB (publ)
+0NIS.L,SBM Offshore N.V.
+0QNM.L,Adecco Group AG
+0A7L.L,"iRhythm Technologies, Inc."
+0NJQ.L,Sopra Steria Group SA
+0KZ6.L,SL Green Realty Corp.
+0R30.L,V.F. Corporation
+0HK4.L,"Avis Budget Group, Inc."
+0LF8.L,"THOR Industries, Inc."
+0MEC.L,Nordex SE
+ABDN.L,Aberdeen Group Plc
+UBLS.L,United Bank Limited
+0ILI.L,"Fluidra, S.A."
+BWY.L,Bellway p.l.c.
+0AAL.L,Allfunds Group plc
+0QRS.L,ISS A/S
+0L4F.L,Sealed Air Corporation
+SXS.L,Spectris plc
+0N6B.L,Arcadis NV
+0HDY.L,Golar LNG Limited
+0SE9.L,Air Canada
+0A75.L,"BILL Holdings, Inc."
+0VAG.L,Novanta Inc.
+0RBK.L,Schaeffler AG
+0MKX.L,Voestalpine AG
+0REH.L,Frontline plc
+0QNU.L,Luzerner Kantonalbank AG
+0LRI.L,Jumbo S.A.
+0EBQ.L,"Enagás, S.A."
+0QWA.L,"Logista Integral, S.A."
+0NZU.L,Zealand Pharma A/S
+0QKE.L,Vontobel Holding AG
+0HZD.L,Wendel
+0MHJ.L,Azimut Holding S.p.A.
+0I4A.L,Coty Inc.
+0XGN.L,IAMGOLD Corporation
+0RID.L,"Inmobiliaria Colonial, SOCIMI, S.A."
+0NR2.L,Vallourec S.A.
+ITV.L,ITV plc
+0OP0.L,DMG MORI AKTIENGESELLSCHAFT
+0KX9.L,Robert Half Inc.
+CEIR.L,"Compal Electronics, Inc."
+0K50.L,National Beverage Corp.
+0R6Z.L,Royal Unibrew A/S
+0UB6.L,"Lazard, Inc."
+0EWD.L,Interpump Group S.p.A.
+0IS8.L,Covivio Hotels
+0HVP.L,"Lumen Technologies, Inc."
+0MGC.L,NKT A/S
+0VRQ.L,CRISPR Therapeutics AG
+0JX5.L,The Macerich Company
+0QEP.L,Maire S.p.A.
+0A4H.L,StoneCo Ltd.
+0QYC.L,First Majestic Silver Corp.
+0ZC0.L,"Tenable Holdings, Inc."
+0K7F.L,Aurubis AG
+0DOS.L,Bank Handlowy w Warszawie S.A.
+FRAS.L,Frasers Group Plc
+0MUN.L,Iren SpA
+ITH.L,Ithaca Energy plc
+0GDR.L,UNIQA Insurance Group AG
+0V9D.L,NexGen Energy Ltd.
+BGEO.L,Lion Finance Group PLC
+0RIX.L,Globant S.A.
+0N2X.L,TAURON Polska Energia S.A.
+0QLW.L,ALSO Holding AG
+CWK.L,Cranswick plc
+0BJP.L,Webuild S.p.A.
+0A4W.L,ACADIA Pharmaceuticals Inc.
+JMAT.L,Johnson Matthey Plc
+0MKZ.L,Wienerberger AG
+0MJF.L,Ambu A/S
+0QPD.L,Allreal Holding AG
+0ABH.L,Verallia Société Anonyme
+0V90.L,New Gold Inc.
+0AHJ.L,Hudbay Minerals Inc.
+0RUH.L,Aroundtown SA
+0LRV.L,Budimex SA
+0QLU.L,Basler Kantonalbank
+0E6Y.L,1&1 AG
+0KEC.L,PJT Partners Inc.
+0NV7.L,"Vidrala, S.A."
+0IXY.L,Société Foncière Lyonnaise
+0MGH.L,Hiab Oyj
+0RP0.L,Tikehau Capital
+0JH4.L,Spar Nord Bank A/S
+0K9W.L,Huhtamäki Oyj
+0QS4.L,Thurgauer Kantonalbank
+0R0A.L,Hecla Mining Company
+GLB.L,Glanbia plc
+BME.L,B&M European Value Retail S.A.
+0NX1.L,Aalberts N.V.
+0A7X.L,"Virtu Financial, Inc."
+0MV2.L,freenet AG
+SHC.L,Shaftesbury Capital PLC
+0MQG.L,Mycronic AB (publ)
+ROR.L,Rotork plc
+0HQI.L,"CBIZ, Inc."
+0AA6.L,Azelis Group NV
+QQ.L,QinetiQ Group plc
+0RPS.L,Medicover AB (publ)
+0NQE.L,PUMA SE
+0I0H.L,Cleveland-Cliffs Inc.
+0NW7.L,Sixt SE
+0Y5E.L,Perrigo Company plc
+0ACY.L,TUI AG
+0R32.L,Abercrombie & Fitch Co.
+DFIB.L,DFI Retail Group Holdings Limited
+DFIJ.L,DFI Retail Group Holdings Limited
+0RD1.L,Camurus AB (publ)
+0DKX.L,Aedifica NV/SA
+0K3S.L,Murphy Oil Corporation
+0DJI.L,Alm. Brand A/S
+0N0B.L,Wallenius Wilhelmsen ASA
+CCC.L,Computacenter plc
+0KTF.L,RH
+0QMS.L,dormakaba Holding AG
+0LIF.L,Ultragenyx Pharmaceutical Inc.
+0QPJ.L,Cembra Money Bank AG
+55VX.L,Nova Ljubljanska Banka d.d.
+NLB.L,Nova Ljubljanska Banka d.d.
+RCP.L,RIT Capital Partners Plc
+0NZR.L,Solvay SA
+RS1.L,RS Group plc
+UKW.L,Greencoat UK Wind PLC
+0L45.L,The Scotts Miracle-Gro Company
+0MGO.L,JCDecaux SE
+0RJ6.L,L.D.C. S.A.
+0QBM.L,Alior Bank S.A.
+0QQZ.L,St. Galler Kantonalbank AG
+0MGG.L,Kemira Oyj
+0VAQ.L,OceanaGold Corporation
+0RUY.L,Umicore SA
+INCH.L,Inchcape plc
+ROO.L,Deliveroo plc
+0NR4.L,Wacker Chemie AG
+0Q2N.L,K+S Aktiengesellschaft
+0LD4.L,Tanger Inc.
+0MGE.L,Sydbank A/S
+0HPH.L,"Brighthouse Financial, Inc."
+MAW.L,"Maruwa Co.,Ltd."
+0J3X.L,Cofinimmo SA
+0OJA.L,FLSmidth & Co. A/S
+0JXF.L,Protector Forsikring ASA
+TBCG.L,TBC Bank Group PLC
+BBY.L,Balfour Beatty plc
+0DZC.L,"CIE Automotive, S.A."
+0RTS.L,Rubis
+0R8U.L,Pandox AB (publ)
+ACID.L,Acer Incorporated
+0HB2.L,Lagardere SA
+0QJS.L,Clariant AG
+0IIF.L,Vivendi SE
+0M1K.L,Travel + Leisure Co.
+0ILL.L,"Laboratorios Farmaceuticos Rovi, S.A."
+PLUS.L,Plus500 Ltd.
+MYSE.L,Ming Yang Smart Energy Group Limited
+0IUJ.L,Interparfums SA
+0A5W.L,"C3.ai, Inc."
+OGDC.L,Oil and Gas Development Company Limited
+0NRG.L,Bilfinger SE
+0RHI.L,Signify N.V.
+0A0I.L,Wihlborgs Fastigheter AB (publ)
+0A05.L,Medacta Group SA
+0J4L.L,Herc Holdings Inc.
+BPT.L,Bridgepoint Group plc
+0MKW.L,"Viscofan, S.A."
+DNLM.L,Dunelm Group plc
+0R7Y.L,Wallenstam AB (publ)
+0MAN.L,Mandatum Oyj
+ALBH.L,Aluminium Bahrain B.S.C.
+0OFU.L,"Sacyr, S.A."
+0KZA.L,SM Energy Company
+0A0E.L,Kojamo Oyj
+DRX.L,Drax Group plc
+0J2Z.L,"HA Sustainable Infrastructure Capital, Inc."
+0TXW.L,Perseus Mining Limited
+TATE.L,Tate & Lyle plc
+0MHC.L,ERG S.p.A.
+0J4M.L,"Hercules Capital, Inc."
+0KEQ.L,PVH Corp.
+0NM7.L,Virbac SA
+0MYZ.L,Ströer SE & Co. KGaA
+0JDO.L,Iridium Communications Inc.
+0QAG.L,ID Logistics Group SA
+PNN.L,Pennon Group Plc
+0NYH.L,"Ebro Foods, S.A."
+PHLL.L,Petershill Partners plc
+DLN.L,Derwent London Plc
+0R7O.L,HEXPOL AB (publ)
+0FA0.L,Melexis NV
+0I8F.L,DENTSPLY SIRONA Inc.
+0RP8.L,Liechtensteinische Landesbank Aktiengesellschaft
+0QK5.L,INFICON Holding AG
+0JK4.L,TAG Immobilien AG
+0NX0.L,Trigano S.A.
+0OHG.L,"Minor Hotels Europe & Americas, S.A."
+0J9J.L,"Impinj, Inc."
+0JXD.L,"Macy's, Inc."
+0QLL.L,The Goodyear Tire & Rubber Company
+0DPU.L,Proximus PLC
+0OIQ.L,"Acerinox, S.A."
+0VCO.L,Peyto Exploration & Development Corp.
+0Q8F.L,Hugo Boss AG
+0A91.L,"Lemonade, Inc."
+CAN.L,Canal+ SA
+0LJQ.L,Uranium Energy Corp.
+0VQA.L,"Viking Therapeutics, Inc."
+0Z1Q.L,Manchester United plc
+0R3W.L,Thule Group AB (publ)
+0J7Q.L,IAC Inc.
+0PAN.L,CPI Europe AG
+0O80.L,Société Anonyme des Bains de Mer et du Cercle des Étrangers à Monaco
+0A5B.L,The Cheesecake Factory Incorporated
+0QQY.L,Mobimo Holding AG
+0GVS.L,Catena AB (publ)
+0YQA.L,Carel Industries S.p.A.
+0H9G.L,"Advance Auto Parts, Inc."
+0GWI.L,Husqvarna AB (publ)
+0O1S.L,Alten S.A.
+0VL5.L,Torex Gold Resources Inc.
+0GTR.L,Husqvarna AB (publ)
+QLT.L,Quilter plc
+0FHP.L,Olav Thon Eiendomsselskap ASA
+0QYY.L,"Harley-Davidson, Inc."
+0J86.L,IPG Photonics Corporation
+0W89.L,flatexDEGIRO AG
+0HHO.L,"Argan, Inc."
+VTY.L,Vistry Group PLC
+0QM2.L,Berner Kantonalbank AG
+OMU.L,Old Mutual Limited
+0HC2.L,"Alarm.com Holdings, Inc."
+0A8X.L,"M/I Homes, Inc."
+0QOW.L,Transocean Ltd.
+0LVJ.L,The Western Union Company
+0M6P.L,SES S.A.
+0RPV.L,Brembo N.V.
+0MGJ.L,Vicat S.A.
+RSW.L,Renishaw plc
+0RG1.L,Technogym S.p.A.
+0A37.L,Betsson AB (publ)
+0HRR.L,"CVR Energy, Inc."
+0NPX.L,Imerys S.A.
+0A7U.L,The St. Joe Company
+0QVK.L,COFACE SA
+0XPX.L,Fabege AB (publ)
+MGNS.L,Morgan Sindall Group plc
+0MGU.L,Rémy Cointreau SA
+0KLO.L,"The Navigator Company, S.A."
+0QNN.L,Burckhardt Compression Holding AG
+IWG.L,International Workplace Group plc
+0GM2.L,Lerøy Seafood Group ASA
+SRP.L,Serco Group plc
+0O9B.L,"Almirall, S.A."
+0QAP.L,Carmila S.A.
+0VGM.L,Sandstorm Gold Ltd.
+0IVM.L,SpareBank 1 SMN
+0MIP.L,CA Immobilien Anlagen AG
+0I6U.L,DXC Technology Company
+0KE0.L,PBF Energy Inc.
+AJB.L,AJ Bell plc
+0QO9.L,TX Group AG
+0JYZ.L,Loomis AB (publ)
+0A99.L,"Magnite, Inc."
+0VGE.L,SSR Mining Inc.
+0JZZ.L,"Medical Properties Trust, Inc."
+EMG.L,Man Group Plc
+BYG.L,Big Yellow Group Plc
+CLDN.L,Caledonia Investments Plc
+0VVY.L,JOYY Inc.
+0HM0.L,VGP NV
+0A2P.L,Melco Resorts & Entertainment Limited
+0MQ2.L,P/F Bakkafrost
+0ABY.L,Hemnet Group AB (publ)
+GRG.L,Greggs plc
+0GW3.L,Hufvudstaden AB (publ)
+TCAP.L,TP ICAP Group PLC
+0GWS.L,Billerud AB (publ)
+0ML0.L,"Sonae, SGPS, S.A."
+0G7B.L,Südzucker AG
+0O4B.L,Van Lanschot Kempen NV
+OCDO.L,Ocado Group plc
+0FF9.L,Nordic Semiconductor ASA
+0R0P.L,BlackBerry Limited
+0A9W.L,Organon & Co.
+GFTU.L,Grafton Group plc
+0LIK.L,"Under Armour, Inc."
+0R2I.L,"Under Armour, Inc."
+0RIE.L,ENAV S.p.A.
+0EXO.L,Exosens
+0MFY.L,ARYZTA AG
+0IRK.L,Altarea SCA
+0HY2.L,Cementir Holding N.V.
+0QLN.L,Tecan Group AG
+0RU6.L,SpareBank 1 Østlandet
+0N66.L,ATOSS Software SE
+0RH5.L,Valeo SE
+0QNJ.L,Dätwyler Holding AG
+0MGP.L,Société BIC SA
+0A46.L,"Peloton Interactive, Inc."
+0QQ4.L,Basellandschaftliche Kantonalbank
+0GFE.L,Embracer Group AB (publ)
+MDOB.L,Mandarin Oriental International Limited
+MDOJ.L,Mandarin Oriental International Limited
+0HCR.L,"Bread Financial Holdings, Inc."
+0V50.L,"RingCentral, Inc."
+0AAN.L,OVH Groupe S.A.
+0APM.L,Danieli & C. Officine Meccaniche S.p.A.
+0QOL.L,Kardex Holding AG
+0Q3J.L,Benefit Systems S.A.
+OSB.L,OSB Group Plc
+0RPO.L,Munters Group AB (publ)
+0H7I.L,LANXESS Aktiengesellschaft
+RAT.L,Rathbones Group Plc
+0REZ.L,AddLife AB (publ)
+0RE6.L,Walliser Kantonalbank
+0A0C.L,Stadler Rail AG
+0MHT.L,Peab AB (publ)
+PAG.L,Paragon Banking Group PLC
+PFD.L,Premier Foods plc
+0LN7.L,Air France-KLM SA
+0LH0.L,"Trupanion, Inc."
+0RGR.L,XTB S.A.
+0LUG.L,Weibo Corporation
+0KBT.L,"REN - Redes Energéticas Nacionais, SGPS, S.A."
+0VOA.L,Wesdome Gold Mines Ltd.
+0O2R.L,Caisse Régionale de Crédit Agricole Mutuel de Paris et d'Ile-de-France
+BCG.L,Baltic Classifieds Group PLC
+0RH1.L,Kinnevik AB
+0NTM.L,Österreichische Post AG
+0QPU.L,Valiant Holding AG
+MTO.L,Mitie Group plc
+0IQK.L,"Foot Locker, Inc."
+0FCK.L,MVV Energie AG
+0R3Y.L,Entra ASA
+0A8P.L,"Walker & Dunlop, Inc."
+0RGZ.L,Kinnevik AB
+0K7J.L,Newell Brands Inc.
+0NE1.L,MFE-Mediaforeurope N.V.
+0HQ7.L,"The Buckle, Inc."
+0KJQ.L,Polaris Inc.
+0ROQ.L,Comet Holding AG
+0YU1.L,"Ambarella, Inc."
+0HGM.L,Appian Corporation
+0KG0.L,TietoEVRY Oyj
+0FIW.L,Embla Medical hf.
+0J1Z.L,"NOS, S.G.P.S., S.A."
+0IJW.L,"Extreme Networks, Inc."
+MAB.L,Mitchells & Butlers plc
+0OLF.L,Aperam S.A.
+0V56.L,MAG Silver Corp.
+0O0N.L,Aktieselskabet Schouw & Co.
+0RPK.L,Grand City Properties S.A.
+0IHM.L,Atrium Ljungberg AB (publ)
+ENOG.L,Energean plc
+AGR.L,Assura Plc
+0AA7.L,Truecaller AB (publ)
+0F1N.L,KWS SAAT SE & Co. KGaA
+0RL2.L,Cenergy Holdings SA
+0N9V.L,Esso S.A.F.
+0RBI.L,Sinch AB (publ)
+0KA3.L,Ipsos SA
+TEP.L,Telecom Plus Plc
+0LNQ.L,Koninklijke BAM Groep nv
+0KAN.L,"Oceaneering International, Inc."
+0K9P.L,GN Store Nord A/S
+GRI.L,Grainger plc
+0HI3.L,"Arrowhead Pharmaceuticals, Inc."
+0AA5.L,Antin Infrastructure Partners SAS
+0A5J.L,Dermapharm Holding SE
+0QTI.L,Anima Holding SpA
+N91.L,Ninety One Group
+0RJT.L,Redcare Pharmacy NV
+0GF6.L,Veidekke ASA
+0O2B.L,Moltiply Group S.p.A.
+0YH9.L,Netcompany Group A/S
+0QYM.L,Fortuna Mining Corp.
+0LEE.L,Teradata Corporation
+0N7D.L,Bure Equity AB (publ)
+0QN7.L,Vaudoise Assurances Holding SA
+0TMV.L,"Five9, Inc."
+0DPB.L,Bavarian Nordic A/S
+0GEG.L,Vaisala Oyj
+0JAX.L,Innospec Inc.
+0LB2.L,"Supernus Pharmaceuticals, Inc."
+0RMP.L,Banque Cantonale de Genève SA
+CHG.L,Chemring Group PLC
+0HB0.L,"Agios Pharmaceuticals, Inc."
+0NQT.L,TF1 SA
+0RPZ.L,HMS Networks AB (publ)
+0HV8.L,Peugeot Invest Société anonyme
+0L35.L,"Sarepta Therapeutics, Inc."
+0KFU.L,Park Hotels & Resorts Inc.
+0QL7.L,Compagnie Financière Tradition SA
+0GDU.L,Paradox Interactive AB (publ)
+0ABJ.L,Alleima AB (publ)
+0K4O.L,Icade
+0NEX.L,emeis Société anonyme
+SEPL.L,Seplat Energy Plc
+0NY3.L,STEF SA
+0RFX.L,Bell Food Group AG
+0RHV.L,Investis Holding SA
+0SKN.L,SKAN Group AG
+JUST.L,Just Group plc
+0ROM.L,"Gestamp Automoción, S.A."
+0QNH.L,Huber+Suhner AG
+SAFE.L,Safestore Holdings Plc
+0V1L.L,International Petroleum Corporation
+0A61.L,Discovery Silver Corp.
+0OQJ.L,NV Bekaert SA
+0K97.L,"Elecnor, S.A."
+SRE.L,Sirius Real Estate Limited
+0A0K.L,Nyfosa AB (publ)
+0RTL.L,Landis+Gyr Group AG
+0YAY.L,Vitrolife AB (publ)
+GPE.L,Great Portland Estates Plc
+0RON.L,BFF Bank S.p.A.
+0A55.L,QuidelOrtho Corporation
+0RG4.L,TORM plc
+0IYQ.L,Gogo Inc.
+HMSO.L,Hammerson Plc
+0I3Z.L,Deutsche EuroShop AG
+0O5H.L,Elekta AB (publ)
+0RDI.L,Vitec Software Group AB (publ)
+0AA9.L,Storskogen Group AB (publ)
+0RBW.L,Bravida Holding AB (publ)
+0GN6.L,Argan SA
+0NZN.L,Robertet SA
+0QB7.L,Borregaard ASA
+0QGH.L,OCI N.V.
+0HNZ.L,Fagron NV
+0HXI.L,Metrovacesa S.A.
+0OPS.L,Clariane SE
+0OFP.L,NCC AB (publ)
+0P0O.L,Wilh. Wilhelmsen Holding ASA
+0P0T.L,Wilh. Wilhelmsen Holding ASA
+0ABE.L,Ariston Holding N.V.
+0QIX.L,BW LPG Limited
+0HDK.L,Systemair AB (publ)
+0MDT.L,AB Electrolux (publ)
+0QG9.L,ProSiebenSat.1 Media SE
+PHP.L,Primary Health Properties Plc
+0DNW.L,Austevoll Seafood ASA
+LRE.L,Lancashire Holdings Limited
+0R40.L,Rai Way S.p.A.
+0QN2.L,Interroll Holding AG
+0RQO.L,Bonesupport Holding AB (publ)
+0NW1.L,OPmobility SE
+AWE.L,Alphawave IP Group plc
+0REQ.L,Per Aarsleff Holding A/S
+SMWH.L,WH Smith PLC
+0RKF.L,"Construcciones y Auxiliar de Ferrocarriles, S.A."
+SVS.L,Savills plc
+0MGR.L,Forvia SE
+0RMT.L,Soitec SA
+0JXZ.L,Galapagos NV
+0NTI.L,Gerresheimer AG
+0FQR.L,Pfeiffer Vacuum Technology AG
+0JLQ.L,Sanoma Oyj
+BREE.L,Breedon Group plc
+0EKR.L,Gimv NV
+JTC.L,JTC PLC
+0K9A.L,Cmb.Tech NV
+HILS.L,Hill & Smith PLC
+0K11.L,Wacker Neuson SE
+0Q2F.L,"Distribuidora Internacional de Alimentación, S.A."
+0YY7.L,"DigitalBridge Group, Inc."
+0QUU.L,Afry AB
+0KCP.L,Tessenderlo Group NV
+RHIM.L,RHI Magnesita N.V.
+0NP9.L,AIXTRON SE
+0HF9.L,"Amicus Therapeutics, Inc."
+0MGL.L,Métropole Télévision S.A.
+0I1B.L,Enovis Corporation
+0QXP.L,Aker Solutions ASA
+SSPG.L,SSP Group plc
+LWDB.L,The Law Debenture Corporation p.l.c.
+IGN.L,AB Ignitis grupe
+0AAE.L,AutoStore Holdings Ltd.
+CURY.L,Currys plc
+0RD7.L,Scandic Hotels Group AB (publ)
+0J9C.L,Dürr Aktiengesellschaft
+0RV2.L,BioArctic AB (publ)
+0LPE.L,"Viasat, Inc."
+TPK.L,Travis Perkins plc
+0RLO.L,AQ Group AB (publ)
+0QRA.L,Bufab AB (publ)
+0J4G.L,"Helmerich & Payne, Inc."
+0LBY.L,Montea Comm. VA
+INDV.L,Indivior PLC
+0RHD.L,Basic-Fit N.V.
+0MSJ.L,TGS ASA
+0A36.L,TeamViewer SE
+0J22.L,"HCI Group, Inc."
+0MKT.L,"Técnicas Reunidas, S.A."
+GNS.L,Genus plc
+HOC.L,Hochschild Mining plc
+0EKE.L,Lisi S.A.
+0RD8.L,Xior Student Housing NV
+0MKO.L,"Meliá Hotels International, S.A."
+0Q8P.L,"Prosegur Compañía de Seguridad, S.A."
+0ACX.L,Centessa Pharmaceuticals plc
+0HTF.L,BlueNord ASA
+0JWO.L,Atea ASA
+0FJ8.L,Outokumpu Oyj
+0QHX.L,Odfjell Drilling Ltd.
+FGP.L,FirstGroup plc
+0R43.L,NP3 Fastigheter AB (publ)
+0QS5.L,Bossard Holding AG
+ALPH.L,Alpha Group International plc
+0G67.L,Sparebanken Norge
+0OHC.L,Exail Technologies
+DAR.L,Dar Global PLC
+BAKK.L,Bakkavor Group plc
+0NO1.L,TKH Group N.V.
+0MPM.L,Ceconomy AG
+0M6I.L,Koninklijke Heijmans N.V.
+HTWS.L,Helios Towers plc
+0RV1.L,Terveystalo Oyj
+0RC6.L,"Pharma Mar, S.A."
+0KIZ.L,New Wave Group AB (publ)
+0NZ7.L,Mayr-Melnhof Karton AG
+0HWG.L,The Chemours Company
+BYIT.L,Bytes Technology Group plc
+0J5H.L,"Himax Technologies, Inc."
+0DH7.L,AF Gruppen ASA
+0G1T.L,Wavestone SA
+0IW3.L,"Global Net Lease, Inc."
+YTT.L,"Zhejiang Yongtai Technology Co.,Ltd."
+0L9J.L,Kontron AG
+0XWG.L,"iQIYI, Inc."
+0K45.L,NCR Voyix Corporation
+0Q7U.L,Fluxys Belgium SA
+0I5Z.L,"Customers Bancorp, Inc."
+0BQD.L,KSB SE & Co. KGaA
+0NBI.L,Hamburger Hafen und Logistik Aktiengesellschaft
+0JSP.L,"LTC Properties, Inc."
+0JBD.L,"Innovative Industrial Properties, Inc."
+0QO2.L,Burkhalter Holding AG
+COA.L,Coats Group plc
+0N2Z.L,Vossloh AG
+FAN.L,Volution Group plc
+NBS.L,Nationwide Building Society
+0K9H.L,"Faes Farma, S.A."
+0RC9.L,HORNBACH Holding AG & Co. KGaA
+0EAQ.L,Teekay Tankers Ltd.
+0URY.L,Denison Mines Corp.
+0AAI.L,Montana Aerospace AG
+0QI2.L,Viohalco S.A.
+0RG5.L,Qt Group Oyj
+0ABQ.L,Cibus Nordic Real Estate AB (publ)
+0OA9.L,Nolato AB (publ)
+PETS.L,Pets at Home Group Plc
+0K9J.L,DNOW Inc.
+0FH7.L,OHB SE
+0UWL.L,Freehold Royalties Ltd.
+0R6M.L,Intershop Holding AG
+0J2X.L,Hanesbrands Inc.
+0R86.L,Invisio AB (publ)
+TRN.L,Trainline plc
+0RII.L,Golden Ocean Group Limited
+ETL.L,Eutelsat Communications S.A.
+0R8W.L,Alimak Group AB (publ)
+MONY.L,MONY Group plc
+0ACT.L,AlzChem Group AG
+0QZS.L,"Tripadvisor, Inc."
+ONT.L,Oxford Nanopore Technologies plc
+0MWK.L,Lindab International AB (publ)
+0A23.L,"Phreesia, Inc."
+0MGV.L,ERAMET S.A.
+0NZY.L,Eckert & Ziegler SE
+0NWC.L,secunet Security Networks Aktiengesellschaft
+CRN.L,Cairn Homes plc
+0N9K.L,Elmos Semiconductor SE
+0KTX.L,"Rapid7, Inc."
+DAL.L,Dalata Hotel Group plc
+0KGQ.L,UIE Plc
+0RVI.L,HelloFresh SE
+SPT.L,Spirent Communications plc
+0VGV.L,Seabridge Gold Inc.
+0LNT.L,Fugro N.V.
+0JRJ.L,Knowles Corporation
+0IE9.L,"Semapa - Sociedade de Investimento e Gestão, SGPS, S.A."
+0R1H.L,"Groupon, Inc."
+WIZZ.L,Wizz Air Holdings Plc
+0A32.L,UP Fintech Holding Limited
+0R96.L,Flow Traders Ltd.
+0LY1.L,"WisdomTree, Inc."
+0UP5.L,Centerra Gold Inc.
+0QVI.L,Worldline SA
+0LJD.L,Universal Corporation
+0G9J.L,Tamburi Investment Partners S.p.A.
+0SFN.L,Elkem ASA
+0JOT.L,JetBlue Airways Corporation
+0AMJ.L,Trisura Group Ltd.
+0SE5.L,Sensirion Holding AG
+0QKD.L,Forbo Holding AG
+0GJN.L,Wüstenrot & Württembergische AG
+0J1N.L,SpareBank 1 Nord-Norge
+0AAR.L,Intercos S.p.A.
+0GMG.L,Addnode Group AB (publ)
+0FGL.L,Nexus AG
+0V6R.L,Perpetua Resources Corp.
+0R2C.L,Endeavour Silver Corp.
+0M2A.L,Adeia Inc.
+GAMA.L,Gamma Communications plc
+0ABI.L,Industrie De Nora S.p.A.
+0QO3.L,OC Oerlikon Corporation AG
+0DZ0.L,ChemoMetec A/S
+0R3I.L,Scatec ASA
+SUPR.L,Supermarket Income REIT plc
+0JVS.L,Hypoport SE
+0A4S.L,Sunrun Inc.
+0RAI.L,Europris ASA
+0OD6.L,Ramsay Générale de Santé SA
+0O7A.L,Metsä Board Oyj
+0QU6.L,HIAG Immobilien Holding AG
+0QHK.L,SeSa S.p.A.
+0MJ1.L,Palfinger AG
+0OHK.L,Stolt-Nielsen Limited
+0NVL.L,Ubisoft Entertainment SA
+0K2P.L,Hello Group Inc.
+0QNG.L,Jungfraubahn Holding AG
+0KCD.L,"Solaria Energía y Medio Ambiente, S.A."
+0GTI.L,Caisse Régionale de Crédit Agricole Mutuel Brie Picardie Société coopérative
+0YG7.L,Beijer Alma AB (publ)
+0IJ7.L,Caisse Régionale de Crédit Agricole Mutuel du Languedoc Société coopérative
+OXIG.L,Oxford Instruments plc
+0MHP.L,DNO ASA
+PTEC.L,Playtech plc
+CKN.L,Clarkson PLC
+0HQ1.L,"Azenta, Inc."
+0QQG.L,Romande Energie Holding SA
+0RNO.L,"Prosegur Cash, S.A."
+BBGI.L,BBGI Global Infrastructure S.A.
+0MSD.L,CompuGroup Medical SE & Co. KGaA
+KLR.L,Keller Group plc
+0M0F.L,"Tandem Diabetes Care, Inc."
+0JSZ.L,Ladder Capital Corp
+HAS.L,Hays plc
+0A9O.L,About You Holding SE
+0K5R.L,Navient Corporation
+0HHU.L,"ARMOUR Residential REIT, Inc."
+0KBQ.L,Ratos AB (publ)
+0RNU.L,"Neinor Homes, S.A."
+IHP.L,IntegraFin Holdings plc
+0MJT.L,"Atresmedia Corporación de Medios de Comunicación, S.A."
+0QPW.L,Zug Estates Holding AG
+ASHM.L,Ashmore Group Plc
+0DXG.L,CropEnergies AG
+0L9Q.L,Fiskars Oyj Abp
+0IRF.L,Evotec SE
+0MT8.L,Drägerwerk AG & Co. KGaA
+0A88.L,"10x Genomics, Inc."
+DOM.L,Domino's Pizza Group plc
+0FGH.L,Norwegian Air Shuttle ASA
+ZENB.L,Zenith Bank Plc
+0H65.L,Juventus Football Club S.p.A.
+BOY.L,Bodycote plc
+0GX2.L,Neurones S.A.
+0RQ8.L,FLEX LNG Ltd.
+FOUR.L,4imprint Group plc
+0GXJ.L,Modern Times Group MTG AB
+0NBX.L,Banca IFIS S.p.A.
+WOSG.L,Watches of Switzerland Group PLC
+0QW7.L,Voltalia SA
+0RQY.L,B.F. S.p.A.
+GNC.L,Greencore Group plc
+0R9X.L,Gränges AB (publ)
+0P5L.L,74Software
+0KUY.L,PNE AG
+0UU0.L,Energy Fuels Inc.
+0R1J.L,Plug Power Inc.
+0A9C.L,Southern Cross Gold Consolidated Ltd.
+0QSA.L,Tarkett S.A.
+0FBS.L,Orange Belgium S.A.
+TRST.L,Trustpilot Group plc
+GEN.L,Genuit Group plc
+0I4T.L,Criteo S.A.
+0R8P.L,Siltronic AG
+0QHL.L,Corbion N.V.
+0RVK.L,Befesa S.A.
+0KDK.L,Barco NV
+0FB0.L,"Mota-Engil, SGPS, S.A."
+0RNQ.L,Mips AB (publ)
+0NOL.L,Adtran Networks SE
+0FHO.L,Piraeus Port Authority S.A.
+0IDA.L,Dynavax Technologies Corporation
+0A9E.L,CureVac N.V.
+0JTT.L,"Leggett & Platt, Incorporated"
+0LDR.L,"Teladoc Health, Inc."
+VSVS.L,Vesuvius plc
+0K1R.L,"Viridian Therapeutics, Inc."
+0RTZ.L,Aktor Societe Anonyme Holding Company Technical and Energy Projects
+0RV8.L,"Aedas Homes, S.A."
+TEEG.L,Telecom Egypt Company
+ELM.L,Elementis plc
+PTSB.L,Permanent TSB Group Holdings plc
+ADT1.L,Adriatic Metals PLC
+KNOS.L,Kainos Group plc
+0ICU.L,DRDGOLD Limited
+0DJN.L,Alma Media Oyj
+0ZPV.L,Jenoptik AG
+0A26.L,Ellington Financial Inc.
+0RHR.L,Kuros Biosciences AG
+0AAS.L,Samhällsbyggnadsbolaget i Norden AB (publ)
+0RP4.L,Italmobiliare S.p.A.
+0NCY.L,LAMDA Development S.A.
+0N5Z.L,Altamir SCA
+0QXM.L,Inwido AB (publ)
+0F6L.L,Etablissements Maurel & Prom S.A.
+0AHI.L,Caisse Régionale de Crédit Agricole Mutuel Nord de France Société coopérative
+0QNT.L,Implenia AG
+0G77.L,Salzgitter AG
+0ZFN.L,"Sonos, Inc."
+DWL.L,Dowlais Group plc
+0GRP.L,Biotage AB (publ)
+0O7J.L,"Corticeira Amorim, S.G.P.S., S.A."
+0QOH.L,naturenergie holding AG
+GTCO.L,Guaranty Trust Holding Company Plc
+RPI.L,Raspberry Pi Holdings plc
+0AB3.L,Elopak ASA
+0J74.L,Électricite de Strasbourg Société Anonyme
+0RCO.L,Dometic Group AB (publ)
+0RQ2.L,Bilia AB (publ)
+0J04.L,PORR AG
+0F0J.L,Kitron ASA
+DEC.L,Diversified Energy Company PLC
+0OHY.L,Aegean Airlines S.A.
+OCI.L,Oakley Capital Investments Limited
+0DJV.L,"Altri, SGPS, S.A."
+0IQU.L,Mercialys SA
+0A39.L,Karnov Group AB (publ)
+MTRO.L,Metro Bank Holdings PLC
+MEGP.L,ME Group International plc
+AML.L,Aston Martin Lagonda Global Holdings plc
+0JQI.L,"Kennedy-Wilson Holdings, Inc."
+0MDR.L,Liberty Latin America Ltd.
+0MDS.L,Liberty Latin America Ltd.
+ELSA.L,Societatea Energetica Electrica S.A.
+SPI.L,Spire Healthcare Group plc
+KIE.L,Kier Group plc
+0HSU.L,"Camping World Holdings, Inc."
+0QJQ.L,ZEAL Network SE
+0HGV.L,"Applied Optoelectronics, Inc."
+0JSI.L,"LGI Homes, Inc."
+0A7B.L,Chimera Investment Corporation
+0QV7.L,Kinepolis Group NV
+0NDP.L,MLP SE
+0RGI.L,Cosmo Pharmaceuticals N.V.
+0GRZ.L,RaySearch Laboratories AB (publ)
+0A8W.L,Dorian LPG Ltd.
+WKP.L,Workspace Group Plc
+JDW.L,J D Wetherspoon plc
+0N7N.L,Compagnie des Alpes SA
+MOON.L,Moonpig Group PLC
+0E4K.L,DEUTZ Aktiengesellschaft
+0UNA.L,Canada Goose Holdings Inc.
+0QKB.L,LEM Holding SA
+0HZW.L,"VIEL & Cie, société anonyme"
+GLV.L,Glenveagh Properties PLC
+0NEL.L,BASSAC Société anonyme
+0DXU.L,Cembre S.p.A.
+0QIM.L,"CTT - Correios De Portugal, S.A."
+0ABF.L,Harvia Oyj
+0GTN.L,BioGaia AB (publ)
+0O5V.L,Banco di Desio e della Brianza S.p.A.
+ZIG.L,Zigup Plc
+0IVJ.L,Lectra SA
+0RS2.L,Mensch und Maschine Software SE
+0RES.L,Scandinavian Tobacco Group A/S
+KOS.L,Kosmos Energy Ltd.
+0QI9.L,Creades AB
+0JOX.L,"JinkoSolar Holding Co., Ltd."
+0FSO.L,Retail Estates N.V.
+0QSH.L,Fnac Darty SA
+0KCS.L,"OPKO Health, Inc."
+BAG.L,A.G. BARR p.l.c.
+HFG.L,Hilton Food Group plc
+0A3S.L,"Novavax, Inc."
+BPCP.L,BioPharma Credit PLC
+BPCR.L,BioPharma Credit PLC
+0O0F.L,Cancom SE
+ICGC.L,Irish Continental Group plc
+0QOB.L,Autoneum Holding AG
+0GTM.L,Diös Fastigheter AB (publ)
+0QS9.L,eDreams ODIGEO S.A.
+0MI3.L,JM AB (publ)
+PAGE.L,PageGroup plc
+0A73.L,TELUS International (Cda) Inc.
+0LJB.L,Uniti Group Inc.
+0L7S.L,"SolarEdge Technologies, Inc."
+0IUV.L,TotalEnergies EP Gabon Société Anonyme
+0R8X.L,Plazza AG
+0K8W.L,Derichebourg SA
+0JBU.L,"Intellia Therapeutics, Inc."
+0J38.L,Harmonic Inc.
+0GV5.L,GVS S.p.A.
+0QIA.L,Platzer Fastigheter Holding AB (publ)
+0RKK.L,Volati AB (publ)
+0M2Q.L,"Yext, Inc."
+0IV3.L,Geron Corporation
+0N7X.L,Cloetta AB (publ)
+0P3O.L,Alerion Clean Power S.p.A.
+0A3P.L,"Fastly, Inc."
+0QWC.L,ams-OSRAM AG
+FUTR.L,Future plc
+XPS.L,XPS Pensions Group plc
+SHED.L,Urban Logistics REIT plc
+0TVQ.L,Grupo Supervielle S.A.
+0A95.L,"Corsair Gaming, Inc."
+0QW1.L,Bystronic AG
+0A7G.L,Gaotu Techedu Inc.
+0RH2.L,EL.En. S.p.A.
+0HDP.L,Dampskibsselskabet Norden A/S
+0ABD.L,BW Energy Limited
+0NCV.L,Lenzing Aktiengesellschaft
+0FFY.L,Nokian Renkaat Oyj
+0FNZ.L,Ponsse Oyj
+0OH1.L,Spadel SA
+0RNX.L,Ambea AB (publ)
+DOCS.L,Dr. Martens plc
+0DWL.L,Adecoagro S.A.
+0OIY.L,Caltagirone SpA
+0I74.L,Daqo New Energy Corp.
+0NQH.L,RHÖN-KLINIKUM Aktiengesellschaft
+TKO.L,Taseko Mines Limited
+0O1O.L,Vetoquinol SA
+0P52.L,Salvatore Ferragamo S.p.A.
+0DTI.L,Bonheur ASA
+SNR.L,Senior plc
+0JRL.L,Kohl's Corporation
+0QZ2.L,Silvercorp Metals Inc.
+0RB3.L,DFDS A/S
+0LID.L,"Ultra Clean Holdings, Inc."
+0DTK.L,Savencia SA
+0RKL.L,Xvivo Perfusion AB (publ)
+0HQ8.L,Arjo AB (publ)
+0Q3C.L,SUSS MicroTec SE
+ESP.L,Empiric Student Property Plc
+0UHC.L,Altius Minerals Corporation
+CMCX.L,CMC Markets Plc
+ALFA.L,Alfa Financial Software Holdings PLC
+0R6S.L,Zehnder Group AG
+MSLH.L,Marshalls plc
+0NMR.L,Wereldhave N.V.
+0KRR.L,"Proto Labs, Inc."
+VCT.L,Victrex plc
+0GGK.L,Vestjysk Bank A/S
+0QNI.L,u-blox Holding AG
+0RCY.L,Attendo AB (publ)
+0IX0.L,GL Events SA
+0HDQ.L,Synergie SE
+0QVL.L,Meren Energy Inc.
+RNWH.L,Renew Holdings plc
+0YB1.L,HUYA Inc.
+PPH.L,PPHE Hotel Group Limited
+0ROZ.L,X-FAB Silicon Foundries SE
+THRL.L,Target Healthcare REIT PLC
+0QN0.L,APG|SGA SA
+0J77.L,Odfjell SE
+0J78.L,Odfjell SE
+ATYM.L,"Atalaya Mining Copper, S.A."
+0RTR.L,JOST Werke SE
+0QIK.L,Quest Holdings S.A.
+0IZ2.L,"Sonaecom, SGPS, S.A."
+0KBV.L,"Realia Business, S.A."
+0OQK.L,Caisse régionale de Crédit Agricole Mutuel Atlantique Vendée
+DSCV.L,discoverIE Group plc
+0R5R.L,OVS S.p.A.
+0OG6.L,Séché Environnement SA
+0AAQ.L,NCAB Group AB (publ)
+CCR.L,C&C Group plc
+0J7X.L,MBB SE
+PRSR.L,The PRS REIT plc
+0A70.L,"Ameresco, Inc."
+0R65.L,Hoist Finance AB (publ)
+0DZJ.L,Groupe CRIT SA
+0NDA.L,Manitou BF SA
+0OQ0.L,Pierre et Vacances SA
+0KFH.L,Revenio Group Oyj
+0NNC.L,Zignago Vetro S.p.A.
+0FJC.L,PATRIZIA SE
+0EE0.L,uniQure N.V.
+0O4N.L,SAF-Holland SE
+0UTK.L,Mutares SE & Co. KGaA
+0RHN.L,AcadeMedia AB (publ)
+0AA3.L,Nagarro SE
+RSG.L,Resolute Mining Limited
+0R9T.L,Equasens Société anonyme
+WPS.L,W.A.G payment solutions plc
+0AAJ.L,PolyPeptide Group AG
+0AAV.L,Sdiptech AB (publ)
+0O3R.L,Caisse Régionale de Crédit Agricole Mutuel Alpes Provence Société coopérative
+0AA8.L,Better Collective A/S
+0I5O.L,Bergman & Beving AB (publ)
+0K96.L,"ENCE Energía y Celulosa, S.A."
+CRE.L,Conduit Holdings Limited
+IBST.L,Ibstock plc
+0RHM.L,TF Bank AB (publ)
+RNK.L,The Rank Group Plc
+0KBY.L,"Renta 4 Banco, S.A."
+0QF8.L,Aktia Pankki Oyj
+0QRL.L,"Lar España Real Estate SOCIMI, S.A."
+0HQK.L,"CBL & Associates Properties, Inc."
+0O3Q.L,Caisse Régionale de Crédit Agricole Mutuel Sud Rhône Alpes
+0A0F.L,Citycon Oyj
+0HDU.L,Bouvet ASA
+0EEV.L,Exmar NV
+CGEO.L,Georgia Capital PLC
+MGAM.L,Morgan Advanced Materials plc
+0FHS.L,Olvi Oyj
+0GW8.L,Grieg Seafood ASA
+0A3B.L,Musti Group Oyj
+JDG.L,Judges Scientific plc
+0EIB.L,"Audax Renovables, S.A."
+0NLY.L,Verbio SE
+0QFA.L,Matas A/S
+0HFR.L,Anavex Life Sciences Corp.
+0RQH.L,Fagerhult Group AB
+0XFV.L,Thermador Groupe SA
+0NXA.L,Floridienne S.A.
+0IUE.L,Société de la Tour Eiffel
+0AAU.L,Surgical Science Sweden AB (publ)
+0QNK.L,Warteck Invest AG
+PAY.L,PayPoint plc
+0R9K.L,Deutsche Pfandbriefbank AG
+0DLI.L,Acomo N.V.
+0QPR.L,Cicor Technologies Ltd.
+0VA3.L,Northern Dynasty Minerals Ltd.
+0JSU.L,Sipef NV
+OCN.L,Ocean Wilsons Holdings Limited
+0N8F.L,CEWE Stiftung & Co. KGaA
+0QNA.L,Basilea Pharmaceutica AG
+HWG.L,Harworth Group plc
+0A27.L,MPC Container Ships ASA
+0QVP.L,Elior Group SA
+0DHA.L,Arendals Fossekompani ASA
+0A5Q.L,LINK Mobility Group Holding ASA
+AO.L,AO World plc
+GDWN.L,Goodwin PLC
+0QCO.L,Pharming Group N.V.
+0OG5.L,Burelle SA
+CBG.L,Close Brothers Group plc
+0QVE.L,Fenix Outdoor International AG
+0DME.L,Ascopiave S.p.A.
+0DNH.L,Atos SE
+0A8E.L,"Xeris Biopharma Holdings, Inc."
+0F07.L,Kaufman & Broad S.A.
+0RQV.L,LU-VE S.p.A.
+0RD0.L,SJF Bank A/S
+0K8N.L,Bénéteau S.A.
+0QUL.L,Stabilus SE
+FDP.L,FD Technologies plc
+0O5C.L,AT & S Austria Technologie & Systemtechnik Aktiengesellschaft
+0MKS.L,TomTom N.V.
+0A6A.L,"Digital Turbine, Inc."
+0IPY.L,Aubay Société Anonyme
+0GWJ.L,"Clínica Baviera, S.A."
+0FM1.L,Piaggio & C. SpA
+0NIF.L,SMA Solar Technology AG
+GROW.L,Molten Ventures Plc
+AVON.L,Avon Technologies Plc
+0XGH.L,Canadian Solar Inc.
+ATG.L,Auction Technology Group plc
+WIX.L,Wickes Group plc
+0O40.L,Caisse Régionale de Crédit Agricole Mutuel de Normandie-Seine Société coopérative
+0RG2.L,Tokmanni Group Oyj
+0O33.L,Oeneo SA
+0R97.L,Grenke AG
+0MKM.L,Sligro Food Group N.V.
+0ET5.L,Vastned
+0IQP.L,Caisse Régionale de Crédit Agricole Mutuel de la Touraine et du Poitou Société Coopérative
+0E9V.L,Energiekontor AG
+NICL.L,Nichols plc
+0HFQ.L,"AnaptysBio, Inc."
+0XOD.L,UroGen Pharma Ltd.
+0HTZ.L,Cars.com Inc.
+0QR1.L,Schweiter Technologies AG
+0IUS.L,Genie Energy Ltd.
+0JDK.L,"Iovance Biotherapeutics, Inc."
+0ABG.L,Swedencare AB (publ)
+0KVR.L,Klöckner & Co SE
+0Q59.L,Scanfil Oyj
+0A6Y.L,Xerox Holdings Corporation
+0OA7.L,Assystem S.A.
+0NHV.L,Recticel SA/NV
+FGEN.L,Foresight Environmental Infrastructure Limited
+0O2N.L,Ålandsbanken Abp
+0A8F.L,"Shutterstock, Inc."
+0KEP.L,Kempower Oyj
+0LO9.L,AMG Critical Materials N.V.
+0IVQ.L,Gladstone Commercial Corporation
+0NSS.L,MARR S.p.A.
+0MV6.L,Laurent-Perrier S.A.
+0O2W.L,GFT Technologies SE
+0QVQ.L,Ontex Group NV
+0SGC.L,Arbutus Biopharma Corporation
+0QVR.L,Scandi Standard AB (publ)
+PINT.L,Pantheon Infrastructure PLC
+0AAA.L,Aramis Group SAS
+0GKA.L,YIT Oyj
+EFGD.L,EFG Holding Company S.A.E
+0ITP.L,Caisse Régionale de Crédit Agricole Mutuel Loire Haute-Loire Société coopérative
+JUP.L,Jupiter Fund Management Plc
+0IXL.L,NRJ Group SA
+0R9S.L,Avio S.p.A.
+0RP5.L,Instalco AB (publ)
+0GXK.L,VBG Group AB (publ)
+0QT8.L,Irish Residential Properties REIT Plc
+0HMG.L,"Beazer Homes USA, Inc."
+0HDJ.L,Meko AB (publ)
+0N5I.L,adesso SE
+CRST.L,Crest Nicholson Holdings plc
+0ACH.L,MedinCell S.A.
+0KAV.L,Arnoldo Mondadori Editore S.p.A.
+POLN.L,Pollen Street Group Limited
+0D1X.L,Groupe Guillin S.A.
+0A3H.L,Pexip Holding ASA
+0GLY.L,Samse SA
+TGA.L,Thungela Resources Limited
+0RL9.L,ProCredit Holding AG
+0WAG.L,Waga Energy SA
+0QKL.L,Komax Holding AG
+0GJK.L,WashTec AG
+0O6D.L,"Miquel y Costas & Miquel, S.A."
+CER.L,Cerillion Plc
+0MCG.L,Hamborner REIT AG
+WHR.L,Warehouse REIT plc
+0EG8.L,Finnair Oyj
+0I0P.L,IDI
+0RI3.L,Pareto Bank ASA
+0RCW.L,Kid ASA
+PINE.L,Pinewood Technologies Group PLC
+NCC.L,NCC Group plc
+0UC0.L,Nordic American Tankers Limited
+CSN.L,Chesnara plc
+0DWV.L,cBrain A/S
+0RG7.L,VP Bank AG
+0K16.L,"Evolus, Inc."
+0IH4.L,TFF Group
+0KB3.L,Nexity SA
+FSG.L,Foresight Group Holdings Limited
+0NJB.L,SNP Schneider-Neureither & Partner SE
+0ONR.L,CIR S.p.A. - Compagnie Industriali Riunite
+0R7W.L,"Promotora de Informaciones, S.A."
+0YNU.L,OneSpan Inc.
+0EUH.L,INDUS Holding AG
+0RTK.L,Alligo AB (publ)
+0R6V.L,mobilezone holding ag
+IPO.L,IP Group Plc
+0NQ5.L,Quadient S.A.
+0JX9.L,Marimekko Oyj
+0EX6.L,Jensen-Group NV
+0RKH.L,BW Offshore Limited
+0W19.L,DATAGROUP SE
+0H9P.L,Intrum AB (publ)
+0KD1.L,"Tubacex, S.A."
+0RGW.L,ITAB Shop Concept AB (publ)
+HTG.L,Hunting PLC
+0QLX.L,Metall Zug AG
+PCTN.L,Picton Property Income Limited
+0A90.L,B&S Group S.A.
+0QEJ.L,RCS MediaGroup S.p.A.
+0N2C.L,Wereldhave Belgium
+0Z0F.L,"Ichor Holdings, Ltd."
+0IN0.L,Caisse régionale de Crédit Agricole Mutuel d'Ille-et-Vilaine Société coopérative
+0RIW.L,Tinexta S.p.A.
+0Q6Q.L,Mersen S.A.
+0GNV.L,Heba Fastighets AB (publ)
+BMY.L,Bloomsbury Publishing Plc
+0RFP.L,Resurs Holding AB (publ)
+BOWL.L,Hollywood Bowl Group plc
+OTB.L,On the Beach Group plc
+MHPC.L,MHP SE
+0MW2.L,Lindex Group Oyj
+0A4C.L,"Altimmune, Inc."
+GFRD.L,Galliford Try Holdings plc
+0RFW.L,"Global Dominion Access, S.A."
+0DK7.L,eQ Oyj
+0QIQ.L,F.I.L.A. - Fabbrica Italiana Lapis ed Affini S.p.A.
+0R8N.L,Multiconsult ASA
+AIRA.L,Air Astana Joint Stock Company
+ORIT.L,Octopus Renewables Infrastructure Trust plc
+0O05.L,Schoeller-Bleckmann Oilfield Equipment Aktiengesellschaft
+0W4N.L,Formycon AG
+FORT.L,Forterra plc
+0R6H.L,Care Property Invest NV
+0RGB.L,Investment AB Öresund (publ)
+0J0N.L,Green Dot Corporation
+COST.L,Costain Group PLC
+0N9Z.L,EVS Broadcast Equipment SA
+PRV.L,Porvair plc
+0QUM.L,Brunel International N.V.
+0QQK.L,Meier Tobler Group AG
+0QNZ.L,CPH Group AG
+0RFM.L,Figeac Aero Société Anonyme
+0RPY.L,Boozt AB (publ)
+0RI9.L,Viridien Société anonyme
+0P47.L,PostNL N.V.
+0XGF.L,Avino Silver & Gold Mines Ltd.
+YOU.L,YouGov plc
+0JZT.L,McEwen Mining Inc.
+PBEE.L,PensionBee Group plc
+0OEY.L,d'Amico International Shipping S.A.
+0KUR.L,PSI Software SE
+0RQN.L,NSI N.V.
+0RDH.L,Hexatronic Group AB (publ)
+0OC2.L,Heidelberger Druckmaschinen Aktiengesellschaft
+DFS.L,DFS Furniture plc
+0NNU.L,Nedap N.V.
+0HEZ.L,Eastnine AB (publ)
+MTVW.L,Mountview Estates P.L.C.
+0JD3.L,Invesco Mortgage Capital Inc.
+HFD.L,Halfords Group plc
+0G40.L,Sparebanken Møre
+0RQE.L,Idorsia Ltd
+0IN3.L,Jacquet Metals SA
+0QKP.L,Phoenix Mecano AG
+0L9X.L,"Stitch Fix, Inc."
+0K9T.L,Ellaktor S.A.
+0QF5.L,bpost NV/SA
+0GSS.L,NOTE AB (publ)
+0NUT.L,Nextensa NV/SA
+0Q19.L,"CEVA, Inc."
+THG.L,THG Plc
+0QP7.L,COLTENE Holding AG
+0QF7.L,Deutsche Beteiligungs AG
+0A6M.L,Nabors Industries Ltd.
+0RIT.L,B2 Impact ASA
+ASC.L,ASOS Plc
+FCH.L,Funding Circle Holdings plc
+0RTI.L,doValue S.p.A.
+0DK9.L,Amadeus FiRe AG
+0I3G.L,"Controladora Vuela Compañía de Aviación, S.A.B. de C.V."
+0DVE.L,Borussia Dortmund GmbH & Co. Kommanditgesellschaft auf Aktien
+0GC8.L,TAKKT AG
+0EGH.L,Fiera Milano S.p.A.
+CREI.L,Custodian Property Income REIT plc
+0HEM.L,"Smith & Wesson Brands, Inc."
+0MPL.L,SGL Carbon SE
+NRR.L,NewRiver REIT plc
+0A2T.L,Qudian Inc.
+0NLD.L,TXT e-solutions S.p.A.
+0OB3.L,Valneva SE
+0P38.L,NORMA Group SE
+0AVG.L,EPC Groupe
+0IF4.L,Eastman Kodak Company
+0AHX.L,Caisse Régionale de Crédit Agricole du Morbihan
+IPF.L,International Personal Finance plc
+GKP.L,Gulf Keystone Petroleum Limited
+0MKG.L,"Obrascón Huarte Lain, S.A."
+0R6B.L,Enento Group Oyj
+SBRE.L,Sabre Insurance Group plc
+0QY5.L,Ballard Power Systems Inc.
+0JTZ.L,"LendingTree, Inc."
+0JH0.L,Rejlers AB (publ)
+0K3W.L,"Myriad Genetics, Inc."
+0HR3.L,Duni AB (publ)
+0O9C.L,Compagnie du Bois Sauvage S.A.
+0ZQ7.L,Instone Real Estate Group SE
+0DTF.L,Boiron SA
+0IWV.L,Van de Velde NV
+0L91.L,"Grupo Empresarial San José, S.A."
+0RNK.L,Inventiva S.A.
+0A9G.L,Mereo BioPharma Group plc
+0F2S.L,Linedata Services S.A.
+0MK6.L,Caisse Regionale de Credit Agricole Mutuel Toulouse 31
+0JGO.L,Endúr ASA
+MER.L,Mears Group plc
+0CIJ.L,Raisio plc
+0N7I.L,Cairo Communication S.p.A.
+0MR5.L,CellaVision AB (publ)
+OXB.L,Oxford Biomedica plc
+0QKR.L,Arbonia AG
+0KJ7.L,"Ibersol, S.G.P.S., S.A."
+AEP.L,Anglo-Eastern Plantations Plc
+0MVY.L,SFC Energy AG
+0E4Q.L,Nel ASA
+0P30.L,Patrimoine et Commerce SA
+0NL1.L,PVA TePla AG
+0K1W.L,"Mitek Systems, Inc."
+0I04.L,Clean Energy Fuels Corp.
+0LSO.L,Wabash National Corporation
+CARD.L,Card Factory plc
+FSTA.L,"Fuller, Smith & Turner P.L.C."
+CPI.L,Capita plc
+0R99.L,"Talgo, S.A."
+APN.L,Applied Nutrition Plc
+0JD8.L,MT Højgaard Holding A/S
+0EWR.L,init innovation in traffic systems SE
+0OPJ.L,ABC arbitrage SA
+0GFY.L,Viking Line Abp
+0HKD.L,"Axogen, Inc."
+0SOM.L,BHG Group AB (publ)
+0R7T.L,TINC NV
+0IY1.L,Atria Oyj
+0DQP.L,Marie Brizard Wine & Spirits SA
+LSL.L,LSL Property Services plc
+0EGI.L,Immobiliere Dassault SA
+PRTC.L,PureTech Health plc
+0QKG.L,Schweizerische Nationalbank
+0F29.L,Lassila & Tikanoja Oyj
+0I21.L,Sea1 Offshore Inc.
+0N6O.L,BasicNet S.p.A.
+PZC.L,PZ Cussons plc
+WIL.L,Wilmington plc
+EGY.L,"VAALCO Energy, Inc."
+0RHZ.L,ForFarmers N.V.
+0QOJ.L,Peach Property Group AG
+0FRI.L,Lumibird SA
+0QQM.L,IVF Hartmann Holding AG
+0GZK.L,Ion Beam Applications SA
+0JZ8.L,Greenyard NV
+0W1D.L,AURELIUS Equity Opportunities SE & Co. KGaA
+STEM.L,SThree plc
+0QN6.L,SF Urban Properties AG
+0MN5.L,Sword Group S.E.
+0N2Q.L,Bijou Brigitte modische Accessoires Aktiengesellschaft
+0QKA.L,Rieter Holding AG
+0NJ5.L,Safilo Group S.p.A.
+BOOT.L,Henry Boot PLC
+0STP.L,Immobiliare Grande Distribuzione SIIQ S.p.A.
+0R8H.L,Pihlajalinna Oyj
+0RA9.L,ABIVAX Société Anonyme
+0EAW.L,Kambi Group plc
+0A44.L,Jumia Technologies AG
+0R8Q.L,Coor Service Management Holding AB
+0QNE.L,Leonteq AG
+ENRG.L,VH Global Energy Infrastructure PLC
+0MDP.L,GeoPark Limited
+0NCA.L,IVU Traffic Technologies AG
+0NB0.L,Gérard Perrier Industrie S.A.
+0ABK.L,Nordic Paper Holding AB (publ)
+0RHA.L,Bonava AB (publ)
+KMR.L,Kenmare Resources plc
+0E1L.L,CapMan Oyj
+0ERY.L,Incap Oyj
+0RRB.L,DocMorris AG
+SOHO.L,Social Housing REIT plc
+0P2J.L,Ascencio SA
+0RUZ.L,Nilfisk Holding A/S
+0RNT.L,Brødrene A & O Johansen A/S
+0OPY.L,Parrot S.A.
+0J0V.L,Campine NV
+0AH6.L,BayWa Aktiengesellschaft
+0AH7.L,BayWa Aktiengesellschaft
+FXPO.L,Ferrexpo plc
+0GNK.L,Knowit AB (publ)
+0VIK.L,Standard Lithium Ltd.
+HLCL.L,Helical plc
+0J0P.L,Green Plains Inc.
+0A2A.L,Stillfront Group AB (publ)
+ESNT.L,Essentra plc
+0RPX.L,Econocom Group SE
+CGL.L,Castelnau Group Limited
+0VH4.L,ShaMaran Petroleum Corp.
+ENQ.L,EnQuest PLC
+RCDO.L,Ricardo plc
+0RQ7.L,XANO Industri AB (publ)
+TLW.L,Tullow Oil plc
+EFID.L,Edita Food Industries Company (S.A.E)
+0OCD.L,Medistim ASA
+0CXS.L,Gofore Oyj
+GYM.L,The Gym Group plc
+0QB4.L,Medios AG
+CLI.L,CLS Holdings plc
+0NLT.L,Uzin Utz SE
+0QV3.L,Glarner Kantonalbank
+BOOK.L,Literacy Capital plc
+0DUI.L,Basler Aktiengesellschaft
+0UIT.L,Galiano Gold Inc.
+MARS.L,Marston's PLC
+0RUJ.L,Delta Plus Group
+0A63.L,"Oil States International, Inc."
+0KT6.L,"RCI Hospitality Holdings, Inc."
+0GT8.L,Ependion AB
+0YI6.L,Allot Ltd.
+BRK.L,Brooks Macdonald Group plc
+0W1V.L,STEICO SE
+0OKB.L,"Alantra Partners, S.A."
+SREI.L,Schroder Real Estate Investment Trust Limited
+0IGA.L,Emergent BioSolutions Inc.
+IIG.L,Intuitive Investments Group Plc
+0HX1.L,Eagle Football Group SA
+DLAR.L,De La Rue plc
+0IZM.L,ABG Sundal Collier Holding ASA
+0G33.L,Solar A/S
+0KDU.L,"Beyond, Inc."
+MCB.L,McBride plc
+EVOK.L,Evoke plc
+0QW9.L,FACC AG
+0QQF.L,Mikron Holding AG
+0EAP.L,Euroapi S.A.
+XPP.L,XP Power Limited
+0RVA.L,SMCP S.A.
+0IPT.L,Akastor ASA
+ASLI.L,abrdn European Logistics Income plc
+0EOF.L,Hexagon Composites ASA
+0RAR.L,Stratec SE
+0Q92.L,Selvaag Bolig ASA
+0G2Z.L,Solstad Offshore ASA
+VP.L,Vp plc
+0MEL.L,Deceuninck NV
+0A66.L,Metalla Royalty & Streaming Ltd.
+NXR.L,Norcros plc
+0A3J.L,illimity Bank S.p.A.
+0M6J.L,H+H International A/S
+0OLG.L,BAUER Aktiengesellschaft
+0NA0.L,EXEL Industries SA
+0A41.L,"Gevo, Inc."
+0JG5.L,Bittium Oyj
+0M0E.L,"Ercros, S.A."
+THS.L,Tharisa plc
+0G29.L,Semperit Aktiengesellschaft Holding
+0MG5.L,ElringKlinger AG
+0RHT.L,Sif Holding N.V.
+0ELV.L,Guerbet SA
+0K17.L,"MicroVision, Inc."
+0JCO.L,All for One Group SE
+DOTD.L,dotdigital Group Plc
+0Y3M.L,Prothena Corporation plc
+0OQQ.L,Infotel SA
+0MR4.L,Byggmax Group AB (publ)
+LIO.L,Liontrust Asset Management PLC
+0H7R.L,Abeona Therapeutics Inc.
+SAGA.L,Saga plc
+FDM.L,FDM Group (Holdings) plc
+0ABM.L,Cambi ASA
+0J4V.L,"Heron Therapeutics, Inc."
+GLE.L,MJ Gleeson plc
+0GXD.L,Svedbergs Group AB (publ)
+VANQ.L,Vanquis Banking Group plc
+0A54.L,Niu Technologies
+RCH.L,Reach plc
+0GT3.L,Proact IT Group AB (publ)
+0N75.L,Bonduelle SCA
+0G19.L,Skjern Bank A/S
+0A92.L,Nano Dimension Ltd.
+0KAS.L,Onity Group Inc.
+LUCE.L,Luceco plc
+GMS.L,Gulf Marine Services PLC
+0JR0.L,Polaris Media ASA
+0M26.L,XOMA Royalty Corporation
+0OR2.L,LNA Santé SA
+TMI.L,Taylor Maritime Limited
+TMIP.L,Taylor Maritime Limited
+0MTZ.L,"Novabase S.G.P.S., S.A."
+0N08.L,Panoro Energy ASA
+SOLG.L,SolGold Plc
+0R5W.L,Dustin Group AB (publ)
+0NV0.L,Sogefi S.p.A.
+0E1Y.L,Compagnie Chargeurs Invest
+0ELP.L,Groupe Pizzorno Environnement
+0HHI.L,Surteco Group SE
+0LOV.L,"Verastem, Inc."
+0RB1.L,"Laboratorio Reig Jofre, S.A."
+0GW0.L,Nobia AB (publ)
+0MRM.L,Bang & Olufsen A/S
+0A9Z.L,Acast AB (publ)
+0K7X.L,"NewtekOne, Inc."
+0Q6P.L,Lanson-BCC
+0AC3.L,VIB Vermögen AG
+0QP6.L,Leclanché SA
+0USB.L,Dolly Varden Silver Corporation
+0GUO.L,CTT Systems AB (publ)
+0E3C.L,Datalogic S.p.A.
+0EFW.L,Morrow Bank ASA
+0YCG.L,Orsero S.p.A.
+0RL4.L,Catella AB (publ)
+0ZNF.L,Turtle Beach Corporation
+PRE.L,Pensana Plc
+0LKB.L,Vanda Pharmaceuticals Inc.
+0R5Z.L,NNIT A/S
+0XCY.L,Neobo Fastigheter AB (publ)
+0RK5.L,MAX Automation SE
+KEYS.L,Keystone Law Group plc
+SUS.L,S&U plc
+0NZS.L,Moury Construct SA
+0EMB.L,Reach Subsea ASA
+0DOG.L,"Azkoyen, S.A."
+0R20.L,Santacruz Silver Mining Ltd.
+0A20.L,"Beyond Meat, Inc."
+SRAD.L,Stelrad Group PLC
+0SR1.L,EMX Royalty Corporation
+0QAJ.L,DBV Technologies S.A.
+0NO6.L,"Amper, S.A."
+ANCR.L,Animalcare Group plc
+0RUM.L,Allgeier SE
+0JRR.L,Kopin Corporation
+RGL.L,Regional REIT Limited
+0QJ4.L,Napatech A/S
+0HFP.L,"Inmobiliaria del Sur, S.A."
+0RDB.L,Oryzon Genomics S.A.
+0AAO.L,Alfen N.V.
+0IP1.L,Bastide Le Confort Médical SA
+0N9P.L,GROUPE SFPI SA
+FOXT.L,Foxtons Group plc
+0ERM.L,"Iberpapel Gestión, S.A."
+0ENJ.L,Hawesko Holding SE
+MACF.L,Macfarlane Group PLC
+0IFS.L,"8x8, Inc."
+0CDX.L,Smartbroker Holding AG
+0H22.L,BioInvent International AB (publ)
+0DPY.L,Bourse Direct SA
+0GOI.L,"Martifer SGPS, S.A."
+SHI.L,SIG plc
+TTG.L,TT Electronics plc
+0GYZ.L,Nordic Mining ASA
+0O2T.L,Compagnie d'Entreprises CFE SA
+0HS4.L,Cadiz Inc.
+SLP.L,Sylvania Platinum Limited
+0G15.L,Koenig & Bauer AG
+SYNT.L,Synthomer plc
+0NYZ.L,Bertrandt Aktiengesellschaft
+0RS1.L,Lang & Schwarz Aktiengesellschaft
+0QML.L,BVZ Holding AG
+APTD.L,Aptitude Software Group plc
+0QME.L,Orell Füssli AG
+0MJH.L,Zumtobel Group AG
+0I10.L,"Squirrel Media, S.A."
+0F8V.L,Akwel SA
+0ND2.L,LPKF Laser & Electronics SE
+0RWM.L,Bitcoin Group SE
+0O53.L,"Sporting Clube de Portugal - Futebol, SAD"
+0RKW.L,Varia US Properties AG
+0RF6.L,Taaleri Oyj
+0LRL.L,Vuzix Corporation
+FSJ.L,James Fisher and Sons plc
+CLIG.L,City of London Investment Group Plc
+0N8R.L,Digital Bros S.p.A.
+0L9Z.L,KABE Group AB (publ.)
+0FP0.L,"Prim, S.A."
+0CMC.L,CM.com N.V.
+0F8T.L,Hexaom S.A.
+CAPD.L,Capital Limited
+0HC8.L,Roularta Media Group NV
+0LH4.L,Tucows Inc.
+ECOR.L,Ecora Resources PLC
+0NC0.L,Immobel SA
+0QLM.L,Feintool International Holding AG
+AEWU.L,AEW UK REIT plc
+0IIM.L,"Esperion Therapeutics, Inc."
+KIST.L,Kistos Holdings Plc
+0NES.L,Oriola Oyj
+0RBA.L,Archer Limited
+0NIG.L,Sabaf S.p.A.
+CWR.L,Ceres Power Holdings plc
+0A89.L,VNV Global AB (publ)
+0DUK.L,Biesse S.p.A.
+0QAV.L,Nanobiotix S.A.
+0JOP.L,"Ramada Investimentos e Industria, S.A."
+0W2J.L,Deutsche Rohstoff AG
+MCG.L,Mobico Group Plc
+0EVB.L,"Airtificial Intelligence Structures, S.A."
+GENL.L,Genel Energy plc
+CNE.L,Capricorn Energy PLC
+GTE.L,Gran Tierra Energy Inc.
+0OGV.L,GrønlandsBANKEN A/S
+0RRC.L,H&R GmbH & Co. KGaA
+PSDL.L,Phoenix Spree Deutschland Limited
+IDHC.L,Integrated Diagnostics Holdings plc
+0R62.L,Groupe Partouche SA
+BKS.L,Beeks Financial Cloud Group plc
+0R6G.L,"Nueva Expresión Textil, S.A."
+0A29.L,Solutions 30 SE
+0QQA.L,StarragTornos Group AG
+0JBY.L,Elanders AB (publ)
+MGCI.L,M&G Credit Income Investment Trust plc
+TET.L,Treatt plc
+0QT0.L,lastminute.com N.V.
+0ABP.L,Novem Group S.A.
+0Q4C.L,Gesco SE
+0DI7.L,AFC Ajax NV
+ECEL.L,Eurocell plc
+0EIE.L,WithSecure Oyj
+0QW5.L,Heidelberg Pharma AG
+0NPJ.L,Columbus A/S
+0NFS.L,Esprinet S.p.A.
+0G68.L,Kendrion N.V.
+AMIF.L,Amicorp FS (UK) plc
+0FOA.L,Exacompta Clairefontaine S.A.
+GMR.L,Gaming Realms plc
+SFOR.L,S4 Capital plc
+0QYH.L,3D Systems Corporation
+TIG.L,Team Internet Group plc
+0RO8.L,Aumann AG
+0IXT.L,Latécoère S.A.
+0QT6.L,Genfit S.A.
+HSW.L,Hostelworld Group plc
+STB.L,Secure Trust Bank PLC
+0ABV.L,Odfjell Technology Ltd.
+0EHB.L,FNM S.p.A.
+0RQI.L,Talenom Oyj
+0QIG.L,Axactor ASA
+0IFK.L,"Editas Medicine, Inc."
+ASAI.L,ASA International Group PLC
+0NG6.L,Atenor SA
+0ZW8.L,"Vista Alegre Atlantis, SGPS, S.A."
+LABS.L,Life Science REIT plc
+0I0X.L,"Codexis, Inc."
+0UGP.L,Aimia Inc.
+ZTF.L,Zotefoams plc
+0G2C.L,Société Marseillaise du Tunnel Prado Carénage
+0K6M.L,"Netlist, Inc."
+MOTR.L,Motorpoint Group Plc
+0IWU.L,Fabasoft AG
+0N6K.L,Claranova SE
+SIHL.L,Symphony International Holdings Limited
+0HB1.L,"Casino, Guichard-Perrachon S.A."
+0RF7.L,Humana AB (publ)
+JEL.L,Jersey Electricity plc
+0J8S.L,Aspo Oyj
+0AB6.L,Hyloris Pharmaceuticals SA
+0KBU.L,Omeros Corporation
+0G3L.L,Gruvaktiebolaget Viscaria
+0QN1.L,Santhera Pharmaceuticals Holding AG
+CARR.L,Carr's Group plc
+0QL5.L,Carlo Gavazzi Holding AG
+SNWS.L,Smiths News plc
+0MCB.L,Ework Group AB (publ)
+0QGG.L,Branicks Group AG
+0DT1.L,Banque nationale de Belgique SA
+0R4W.L,Multitude AG
+DNA3.L,Doric Nimrod Air Three Limited
+BKY.L,Berkeley Energia Limited
+0FOS.L,Precia S.A.
+0RIL.L,La Française de l'Energie S.A.
+0QV6.L,7C Solarparken AG
+0EVI.L,Innate Pharma S.A.
+0MFU.L,Agfa-Gevaert NV
+ALTN.L,AltynGold plc
+0QOI.L,Newron Pharmaceuticals S.p.A.
+RWA.L,Robert Walters plc
+0AA2.L,Westwing Group SE
+0JMU.L,technotrans SE
+WG.L,John Wood Group PLC
+0F2Z.L,Leifheit Aktiengesellschaft
+0LHW.L,U.S. Gold Corp.
+0IFM.L,eGain Corporation
+0DYQ.L,Cegedim SA
+0RC7.L,Hansa Biopharma AB (publ)
+0R9H.L,Banca Sistema S.p.A.
+0AAW.L,Brockhaus Technologies AG
+0REW.L,Züblin Immobilien Holding AG
+0QWF.L,Zalaris ASA
+CGS.L,Castings P.L.C.
+0RQJ.L,Saniona AB (publ)
+0QON.L,Ascom Holding AG
+0N9O.L,Emak S.p.A.
+0O6I.L,Platinum Group Metals Ltd.
+SAAS.L,Microlise Group plc
+PYX.L,PYX Resources Limited
+0HLU.L,Baozun Inc.
+0ISM.L,HKFoods Oyj
+SDY.L,Speedy Hire Plc
+0A5T.L,HusCompagniet A/S
+0FDN.L,"Nicolás Correa, S.A."
+ACG.L,ACG Metals Limited
+0ABW.L,Egetis Therapeutics AB (publ)
+SFR.L,Severfield plc
+0P07.L,First Mining Gold Corp.
+0H8T.L,"Aclaris Therapeutics, Inc."
+0A4Z.L,"Chegg, Inc."
+0G45.L,Sparebanken Øst
+0R53.L,Eltel AB (publ)
+0GHZ.L,Xspray Pharma AB (publ)
+0N1O.L,"Teixeira Duarte, S.A."
+0MHQ.L,Magnora ASA
+0J2I.L,"The Hain Celestial Group, Inc."
+0QHC.L,Bastei Lübbe AG
+0Q76.L,CBo Territoria SA
+REC.L,Record plc
+0HW0.L,Kongsberg Automotive ASA
+0G9R.L,PowerCell Sweden AB (publ)
+0UYN.L,GoldMining Inc.
+0QP3.L,CALIDA Holding AG
+RESI.L,Residential Secure Income plc
+0M8Y.L,Formpipe Software AB (publ)
+0NNR.L,Orrön Energy AB (publ)
+0K05.L,"Medifast, Inc."
+0Q9C.L,R. STAHL AG
+0GID.L,Warehouses Estates Belgium S.C.A.
+0A8T.L,"Sportsman's Warehouse Holdings, Inc."
+0OCQ.L,Transgene SA
+0N5X.L,ADLPartner SA
+0MFA.L,Arise AB (publ)
+0NST.L,Payton Planar Magnetics Ltd.
+AVAP.L,Avation PLC
+0IK0.L,Société Centrale des Bois et des Scieries de la Manche S.A.
+CABP.L,CAB Payments Holdings Limited
+0A60.L,"FuelCell Energy, Inc."
+0QTV.L,IAR Systems Group AB (publ)
+0QN3.L,GAM Holding AG
+0QXX.L,Molecular Partners AG
+0R1C.L,"GoPro, Inc."
+0NCF.L,Keyrus S.A.
+0H14.L,Net Insight AB (publ)
+0IJ3.L,"Everspin Technologies, Inc."
+0R8F.L,Eolus Aktiebolag (publ)
+0Q98.L,Seri Industrial S.p.A.
+0I4Q.L,"Wolfspeed, Inc."
+0QSV.L,EKINOPS S.A.
+0G6J.L,Schloss Wachenheim AG
+0IMT.L,Photocure ASA
+0M7V.L,"Sport Lisboa e Benfica - Futebol, SAD"
+RIII.L,Rights and Issues Investment Trust Public Limited Company
+0RAD.L,OSE Immunotherapeutics SA
+0V3P.L,Laramide Resources Ltd.
+XAR.L,Xaar plc
+0RGN.L,Hybrid Software Group PLC
+GRX.L,GreenX Metals Limited
+0P49.L,Bulten AB (publ)
+0O6Z.L,Nelly Group AB (publ)
+0RDE.L,Deutsche Konsum REIT-AG
+0A6N.L,Amex Exploration Inc.
+0FP9.L,Banca Profilo S.p.A.
+0RP6.L,Enea AB (publ)
+0RNP.L,Avantium N.V.
+0CHZ.L,q.beyond AG
+0H8I.L,Accuray Incorporated
+0VNO.L,Vista Gold Corp.
+0GU8.L,Softronic AB (publ)
+0R9G.L,"Naturhouse Health, S.A."
+0J75.L,Fleury Michon SA
+0R44.L,C-Rad AB (publ)
+0AAT.L,Bike24 Holding AG
+0H2J.L,Prevas AB
+RM.L,RM plc
+SERE.L,Schroder European Real Estate Investment Trust Plc
+0KD2.L,"Tubos Reunidos, S.A."
+0R1D.L,"Sangamo Therapeutics, Inc."
+0QLZ.L,Bellevue Group AG
+0J7D.L,Vranken-Pommery Monopole Société Anonyme
+0A52.L,Inseego Corp.
+0OGG.L,SA Catana Group
+0M0Q.L,"Deoleo, S.A."
+TRI.L,Trifast plc
+0EPM.L,Holland Colours N.V.
+0OJY.L,"Urbas Grupo Financiero, S.A."
+0OQX.L,Grammer AG
+0RNW.L,Berner Industrier AB
+0RHL.L,Maisons du Monde S.A.
+PHAR.L,Pharos Energy plc
+0RAM.L,Vistin Pharma ASA
+0DSJ.L,NRC Group ASA
+INAC.L,InvestAcc Group Limited
+0QM6.L,ORIOR AG
+0UNL.L,Nektar Therapeutics
+CBOX.L,Cake Box Holdings Plc
+VID.L,Videndum Plc
+STVG.L,STV Group plc
+0NHL.L,PWO AG
+0EJQ.L,Grenobloise d'Electronique et d'Automatismes Société Anonyme
+0MQC.L,Nekkar ASA
+0A98.L,"CBAK Energy Technology, Inc."
+DTVL.L,Dish TV India Limited
+0REY.L,Garo Aktiebolag (publ)
+0WA2.L,Cellectis S.A.
+HEAD.L,Headlam Group plc
+0FBM.L,Micro Systemation AB (publ)
+0SZI.L,"Corbus Pharmaceuticals Holdings, Inc."
+0JBJ.L,SRV Yhtiöt Oyj
+0IGX.L,Ilkka Oyj
+0M1X.L,Nurminen Logistics Oyj
+ICFG.L,ICFG Limited
+0D00.L,MGI Digital Technology Société Anonyme
+ZEN.L,Zenith Energy Ltd.
+TPT.L,Topps Tiles Plc
+0G91.L,TREVI - Finanziaria Industriale S.p.A.
+BMS.L,Braemar Plc
+RMII.L,RM Infrastructure Income PLC
+0ENE.L,Harboes Bryggeri A/S
+0R6W.L,Tobii AB (publ)
+BVC.L,BATM Advanced Communications Ltd.
+EJF0.L,EJF Investments Limited
+EJFI.L,EJF Investments Limited
+0QQR.L,Gurit Holding AG
+0W1Q.L,MPH Health Care AG
+0R38.L,iRobot Corporation
+HOME.L,Home Reit Plc
+BGO.L,Bango PLC
+0RD9.L,Consti Oyj
+0RC1.L,Solocal Group S.A.
+WJG.L,Watkin Jones Plc
+RBW.L,Rainbow Rare Earths Limited
+0A4Q.L,QuickLogic Corporation
+0JI9.L,Ensurge Micropower ASA
+0LEC.L,"Cardlytics, Inc."
+0NQ3.L,Mr.Bricolage S.A.
+0ABN.L,Norse Atlantic ASA
+0QNQ.L,Kudelski SA
+0QIP.L,Qrf Comm. VA
+0KUV.L,Atari SA
+0QMM.L,Groupe Minoteries SA
+0KHH.L,Geox S.p.A.
+0KDD.L,"Vocento, S.A."
+0KCC.L,OncoCyte Corporation
+0OQ2.L,Sogeclair SA
+0FS8.L,REC Silicon ASA
+0R6Y.L,Thor Medical ASA
+0QUS.L,G5 Entertainment AB (publ)
+0M8Z.L,"Glintt Global, S.A."
+0RP3.L,Kamux Oyj
+HSD.L,Hansard Global plc
+0RJY.L,Abéo SA
+0H38.L,Pricer AB (publ)
+ULTP.L,Ultimate Products Plc
+PCA.L,Palace Capital Plc
+0HVA.L,Haulotte Group SA
+0NB2.L,Guillemot Corporation S.A.
+0O9Y.L,High Co. SA
+0R3P.L,XXL ASA
+0Q77.L,AB Science S.A.
+BTC.L,Vinanz Limited
+0A9N.L,Nacon S.A.
+SBSI.L,Schroder BSC Social Impact Trust plc
+0UJK.L,Fury Gold Mines Limited
+0IYS.L,Gold Resource Corporation
+0HRB.L,Centrale d'Achat Française pour l'Outre-Mer Société Anonyme
+0KIQ.L,FRIWO AG
+0GOX.L,Polytec Holding AG
+AFRK.L,Afarak Group SE
+0KG2.L,DEMIRE Deutsche Mittelstand Real Estate AG
+0MUF.L,CENIT Aktiengesellschaft
+0DRV.L,ArcticZymes Technologies ASA
+OMG.L,Oxford Metrics plc
+BFSP.L,Blackfinch Spring VCT PLC
+0FE2.L,Skue Sparebank
+0MAU.L,H2APEX Group SCA
+LSAA.L,Life Settlement Assets PLC
+AIRE.L,Alternative Income REIT Plc
+0A5H.L,Global Fashion Group S.A.
+0QLJ.L,Villars Holding S.A.
+0MV8.L,Vantiva S.A.
+0QAI.L,Adocia SA
+FIL.L,Fairview International PLC
+0OOS.L,ad pepper media International N.V.
+0AB0.L,Poujoulat SA
+MOH.L,MOH Nippon Plc
+TOWN.L,Town Centre Securities Plc
+0GB5.L,Nilörngruppen AB
+0RQF.L,Balyo SA
+0FXQ.L,Scana ASA
+0Q4A.L,Artnet AG
+0AC1.L,Hexagon Purus ASA
+0Q6H.L,Hofseth BioCare ASA
+LINV.L,LendInvest plc
+0QXA.L,ABO-Group Environment NV
+0F99.L,Miko NV
+DIA.L,Dialight plc
+0O34.L,Herige
+0GEA.L,Maha Energy AB (publ)
+0FT3.L,Riber S.A.
+0A43.L,"Inovio Pharmaceuticals, Inc."
+TIME.L,Time Finance plc
+0H19.L,Orexo AB (publ)
+0QQT.L,Edisun Power Europe AG
+TRD.L,Triad Group plc
+0QTW.L,Vow ASA
+0QVG.L,SergeFerrari Group SA
+0QIH.L,"Grupo Ezentis, S.A."
+0OJJ.L,ACTIA Group S.A.
+0O27.L,Dr. Hönle AG
+AEX.L,Aminex PLC
+OFG.L,Octopus Future Generations VCT Plc
+0RA7.L,HiPay Group SA
+SHOE.L,Shoe Zone plc
+0LP5.L,"Veritone, Inc."
+CAU.L,Centaur Media Plc
+0IB7.L,EuropaCorp
+FAR.L,Ferro-Alloy Resources Limited
+0DYL.L,Acanthe Développement
+0ABZ.L,Hydrogen-Refueling-Solutions SA
+0N0A.L,Saga Pure ASA
+SMJ.L,J. Smart & Co. (Contractors) PLC
+0A7S.L,Quantum Corporation
+0MS9.L,S.S. Lazio S.p.A.
+0HQQ.L,FORTEC Elektronik AG
+0RV4.L,Voltabox AG
+KAKU.L,Kakuzi Plc
+0RCC.L,SRP Groupe S.A.
+0F7F.L,"Duro Felguera, S.A."
+0RAE.L,Amoéba S.A.
+0RFO.L,Siili Solutions Oyj
+0A9V.L,Mister Spex SE
+0FQ8.L,"Pharol, SGPS S.A."
+0NZW.L,Aurea SA
+0VC5.L,Xtract One Technologies Inc.
+0DTO.L,Borgestad ASA
+0MC0.L,AdVini S.A.
+0GY8.L,Aeffe S.p.A.
+0RL1.L,B3 Consulting Group AB (publ)
+0Q6W.L,Hopscotch Global PR Group
+0UYS.L,GoviEx Uranium Inc.
+0NN5.L,YOC AG
+0HX7.L,"Adicet Bio, Inc."
+0HCC.L,3U Holding AG
+0MEF.L,Rapala VMC Corporation
+0E2F.L,Ctac N.V.
+0FQN.L,"Iep Invest, NV"
+PROC.L,ProCook Group plc
+0QVW.L,ATEME SA
+0RGK.L,BE Group AB (publ)
+0GZJ.L,ecotel communication ag
+0NC8.L,IT Link SA
+0QWK.L,NEXT Biometrics Group ASA
+0DGZ.L,"Adolfo Domínguez, S.A."
+0N2B.L,MS Industrie AG
+0QTJ.L,Fermentalg SA
+0H0U.L,Sensys Gatso Group AB (publ)
+0RQB.L,Prodways Group SA
+RE.L,R.E.A. Holdings plc
+0OK9.L,Coheris SA
+0H0L.L,Rottneros AB (publ)
+0RAG.L,ABIONYX Pharma SA
+0A8L.L,"OpGen, Inc."
+0RFI.L,BRAIN Biotech AG
+0F2N.L,Groupe LDLC société anonyme
+HGEN.L,HydrogenOne Capital Growth plc
+0HA3.L,"Adverum Biotechnologies, Inc."
+0HIY.L,"Atara Biotherapeutics, Inc."
+CAR.L,Carclo plc
+0MKQ.L,SSH Communications Security Oyj
+0W3X.L,The NAGA Group AG
+0R3M.L,Vivoryon Therapeutics N.V.
+0P3K.L,Dedicare AB (publ)
+0AAB.L,Netel Holding AB (publ)
+0RBL.L,Berentzen-Gruppe Aktiengesellschaft
+0MPF.L,Boreo Oyj
+0Q4G.L,Awilco LNG ASA
+GR1T.L,Grit Real Estate Income Group Limited
+0MD5.L,Exel Composites Oyj
+PUAL.L,Puma Alpha VCT plc
+CBA.L,CEIBA Investments Limited
+0RA1.L,Adler Group S.A.
+0NV3.L,Accentis N.V.
+0LLP.L,Tessellis S.p.A.
+0F1U.L,LACROIX Group SA
+PDL.L,Petra Diamonds Limited
+0RF1.L,WISeKey International Holding AG
+0E2J.L,Componenta Corporation
+0E4J.L,Delticom AG
+0RPP.L,Valartis Group AG
+0QWR.L,Eqva ASA
+ONDO.L,Ondo InsurTech Plc
+0M2T.L,KPS AG
+0W8Y.L,MINT Société anonyme
+0G73.L,Softing AG
+0N9W.L,Netgem SA
+0RA2.L,Poxel S.A.
+CRL.L,Creightons Plc
+0LGI.L,Havila Shipping ASA
+0UV1.L,Excellon Resources Inc.
+0DG8.L,Aspocomp Group Oyj
+AEEE.L,Aquila Energy Efficiency Trust Plc
+AEET.L,Aquila Energy Efficiency Trust Plc
+KAV.L,Kavango Resources Plc
+1SN.L,First Tin Plc
+CDFF.L,Cardiff Property Plc
+0UNS.L,IBU-tec advanced materials AG
+0QKQ.L,Relief Therapeutics Holding SA
+0YG8.L,Eniro Group AB (publ)
+GST.L,GSTechnologies Ltd.
+0JCX.L,Malmbergs Elektriska AB (publ)
+0A4O.L,Kartoon Studios Inc.
+0IXN.L,Touax SCA
+0RN4.L,Oncopeptides AB (publ)
+0D25.L,Drone Volt SA
+GRIO.L,Ground Rents Income Fund PLC
+0W30.L,PAL Next AG
+0RUU.L,Starbreeze AB (publ)
+0ROS.L,Plastiques du Val de Loire
+0NYT.L,"MEMSCAP, S.A."
+0MD9.L,North Energy ASA
+0DM3.L,Artmarket.com
+0AAG.L,Atlantic Sapphire ASA
+0A4G.L,QVC Group Inc.
+DPA.L,DP Aircraft I Limited
+TNE.L,Technologies New Energy plc
+0E7Z.L,Eurotech S.p.A.
+0I0B.L,ClearSign Technologies Corporation
+TAO.L,TAO Alpha PLC
+0AB4.L,Lilium N.V.
+0ACL.L,HydrogenPro ASA
+0RPG.L,Robit Oyj
+0RIM.L,GenSight Biologics S.A.
+0QQ7.L,Meyer Burger Technology AG
+0FPJ.L,Prologue S.A.
+TBLD.L,"tinyBuild, Inc."
+0ORK.L,Graines Voltz S.A.
+0K6P.L,"Network-1 Technologies, Inc."
+0JDU.L,Precise Biometrics AB (publ)
+0RQK.L,Belysse Group NV
+0L49.L,"SCYNEXIS, Inc."
+0RIA.L,Diagnostic Medical Systems S.A.
+0O45.L,LS telcom AG
+0AJ1.L,Maple Gold Mines Ltd.
+0IHV.L,"Enzo Biochem, Inc."
+PFC.L,Petrofac Limited
+PRD.L,Predator Oil & Gas Holdings Plc
+0A7K.L,Houston American Energy Corp.
+CHSS.L,World Chess PLC
+0JQ2.L,"KALA BIO, Inc."
+API.L,abrdn Property Income Trust Limited
+0FSJ.L,"Renta Corporación Real Estate, S.A."
+DVNO.L,Develop North PLC
+0CZ7.L,Nextedia S.A.
+0JCD.L,Dovre Group Plc
+0M5U.L,"Impresa - Sociedade Gestora de Participações Sociais, S.A."
+0GQU.L,Active Biotech AB (publ)
+NANO.L,Nanoco Group plc
+ARB.L,Argo Blockchain plc
+0M3T.L,Arribatec Group ASA
+0QAB.L,Petrolia SE
+0QAU.L,Verimatrix SA
+0MSE.L,"Nyesa Valores Corporación, S.A."
+0RU7.L,Aquila Holdings ASA
+0N5A.L,aap Implantate AG
+0RIP.L,bet-at-home.com AG
+0O0E.L,BigBen Interactive
+0ULQ.L,Black Iron Inc.
+0EOI.L,HF Company SA
+0UH8.L,Almaden Minerals Ltd.
+GSCU.L,Great Southern Copper PLC
+0EIC.L,FORIS AG
+CPAI.L,capAI Plc
+0HUZ.L,"Imunon, Inc."
+0J0H.L,Keyware Technologies NV
+0HS8.L,"Lisata Therapeutics, Inc."
+UPL.L,Upland Resources Limited
+0IL8.L,"FibroGen, Inc."
+ALK.L,Alkemy Capital Investments Plc
+LMS.L,LMS Capital plc
+0EL9.L,Geratherm Medical AG
+0T6G.L,Q32 Bio Inc.
+ASPL.L,Aseana Properties Limited
+0GHX.L,Climeon AB (publ)
+0GP7.L,Medivir AB (publ)
+0NUR.L,Immo Moury SCA
+0RCQ.L,Nicox S.A.
+CYK.L,Cykel AI Development Limited
+0O82.L,"Bodegas Riojanas, S.A."
+0A8M.L,"Aytu BioPharma, Inc."
+0A4B.L,"AgEagle Aerial Systems, Inc."
+0EW2.L,Sogn Sparebank
+0NAS.L,Signaux Girod S.A.
+0QSU.L,Orege Société Anonyme
+CFYN.L,Caffyns plc
+0ZCB.L,Aker Carbon Capture ASA
+COBR.L,Cobra Resources plc
+0GJS.L,Xilam Animation
+FVV.L,Fuel Ventures Vct PLC
+0JW9.L,"MEI Pharma, Inc."
+0RGY.L,Fingerprint Cards AB (publ)
+0JI3.L,Hunter Group ASA
+0G8X.L,Immunovia AB (publ)
+0JEV.L,Crescent NV
+0UR4.L,Corus Entertainment Inc.
+GVCT.L,Guinness VCT Plc
+0A8U.L,"Synlogic, Inc."
+BISI.L,Bisichi PLC
+0MOE.L,Schweizer Electronic AG
+SVNS.L,Solvonis Therapeutics plc
+0RUE.L,Catena Media plc
+KLSO.L,Kelso Group Holdings Plc
+BRES.L,Blencowe Resources Plc
+0OI0.L,Archos S.A.
+NEO.L,Neo Energy Metals Plc
+0YC0.L,"Unity Biotechnology, Inc."
+GEMD.L,Gem Diamonds Limited
+PODP.L,Pod Point Group Holdings Plc
+0QTX.L,Avance Gas Holding Ltd
+ASIA.L,Asia Strategic Holdings Limited
+0N4A.L,Vivesto AB
+CAD.L,Cadogan Energy Solutions PLC
+0UJN.L,Avalon Advanced Materials Inc.
+0OJ4.L,Egide S.A.
+0IVB.L,Innelec Multimédia SA
+IKIV.L,Ikigai Ventures Limited
+0NWK.L,Valerio Therapeutics Société anonyme
+0A4D.L,"Equillium, Inc."
+0A4K.L,"Bionano Genomics, Inc."
+0UGB.L,COSCIENS Biopharma Inc.
+LAS.L,London & Associated Properties Plc
+0P5I.L,Mauna Kea Technologies SA
+NARF.L,Narf Industries Plc
+0S10.L,BP Prudhoe Bay Royalty Trust
+0E63.L,Ease2pay N.V.
+HEMO.L,Hemogenyx Pharmaceuticals Plc
+0NFG.L,paragon GmbH & Co. KGaA
+0FQS.L,"Pescanova, S.A."
+0JE5.L,AMSC ASA
+GEX.L,Georgina Energy PLC
+NFM.L,New Frontier Minerals Limited
+0J9S.L,InTiCa Systems SE
+0QQJ.L,Evolva Holding SA
+0AR9.L,Mynaric AG
+CGO.L,Contango Holdings plc
+0A86.L,"Superior Industries International, Inc."
+0A50.L,"Co-Diagnostics, Inc."
+0W8R.L,Europlasma S.A.
+0ND9.L,H2 Core AG
+0A3U.L,Workhorse Group Inc.
+SURE.L,Sure Ventures Plc
+CIZ.L,Cizzle Biotechnology Holdings Plc
+0IH3.L,Energous Corporation
+0GCN.L,Turbon AG
+PGV.L,Praetura Growth VCT PLC
+0A8S.L,"Sintx Technologies, Inc."
+0K2H.L,"Moleculin Biotech, Inc."
+0RH8.L,Nyrstar NV
+HUI.L,Hydrogen Utopia International PLC
+AMOI.L,Anemoi International Limited
+WCW.L,Walker Crips Group plc
+0E80.L,ACCENTRO Real Estate AG
+NOG.L,Nostrum Oil & Gas PLC
+0QY2.L,NorCom Information Technology GmbH & Co. KGaA
+0MNA.L,DGB Group N.V.
+0A8I.L,"Genprex, Inc."
+0N0L.L,KMC Properties ASA
+SCGL.L,Sealand Capital Galaxy Limited
+0KF3.L,"Palatin Technologies, Inc."
+BMV.L,Bluebird Mining Ventures Ltd
+EST.L,East Star Resources Plc
+0IFR.L,"Ekso Bionics Holdings, Inc."
+CLAI.L,Cel AI PLC
+HREE.L,Harena Resources plc
+0A4Y.L,AIM ImmunoTech Inc.
+0ACA.L,Marley Spoon Group SE
+0HH6.L,"Aqua Metals, Inc."
+0ABT.L,Kalray S.A.
+0A3R.L,Nikola Corporation
+0JGL.L,PCI Biotech Holding ASA
+0NIB.L,RealTech AG
+MILA.L,Mila Resources Plc
+0NR0.L,TTL Beteiligungs- und Grundbesitz-AG
+0A6I.L,"Soligenix, Inc."
+0A8H.L,Future FinTech Group Inc.
+IMC.L,IMC Exploration Group Public Limited Company
+0O66.L,Cibox Inter@ctive
+0RU5.L,BerGenBio ASA
+FCM.L,First Class Metals PLC
+0V4O.L,Lomiko Metals Inc.
+BAY.L,Bay Capital Plc
+ATN.L,Aterian plc
+BAF.L,British & American Investment Trust PLC
+THAL.L,Thalassa Holdings Limited
+0IM3.L,Philly Shipyard ASA
+0JVB.L,Lithium Corporation
+MAST.L,MAST Energy Developments PLC
+PALM.L,Panther Metals PLC
+VOX.L,Vox Valor Capital Limited
+GENF.L,Genflow Biosciences plc
+ALRT.L,Defence Holdings Plc
+0QDW.L,EAM Solar ASA
+REE.L,Altona Rare Earths Plc
+0A57.L,"T2 Biosystems, Inc."
+BSFA.L,BSF Enterprise Plc
+0QTF.L,McPhy Energy S.A.
+0R02.L,"VivoSim Labs, Inc."
+0EVE.L,Interoil Exploration and Production ASA
+0RNS.L,Rapid Nutrition PLC
+AIQ.L,AIQ Limited
+WCAT.L,Wildcat Petroleum Plc
+0D1W.L,Biophytis S.A.
+0T9J.L,Orex Minerals Inc.
+0A8Q.L,ZW Data Action Technologies Inc.
+CDL.L,Cloudbreak Discovery Plc
+CMRS.L,Critical Mineral Resources PLC
+AMG.L,Atlas Metals Group plc
+MACA.L,MAC Alpha Limited
+0A4R.L,"Remark Holdings, Inc."
+0J9O.L,Manz AG
+ROQ.L,Roquefort Therapeutics plc
+0IYU.L,Golden Minerals Company
+SYME.L,Supply@ME Capital plc
+0A64.L,"Oragenics, Inc."
+0DO7.L,Avenir Telecom S.A.
+NFX.L,Nuformix plc
+UMR.L,Unicorn Mineral Resources Public Limited Company
+0O8X.L,Wirecard AG
+IBAI.L,Imaging Biometrics Ltd.
+ALNA.L,Alina Holdings Plc
+0KA8.L,"LogicMark, Inc."
+AFP.L,African Pioneer PLC
+MODE.L,R8 Capital Investments plc
+RCGH.L,RC365 Holding plc
+0A8D.L,"TNF Pharmaceuticals, Inc."
+AMGO.L,Amigo Holdings PLC
+KNB.L,Kanabo Group Plc
+SCSP.L,Seed Capital Solutions Plc
+PLAZ.L,Plaza Centers N.V.
+TM1.L,Technology Minerals Plc
+REDC.L,Red Capital Plc
+WSL.L,Worldsec Limited
+CHF.L,Chesterfield Resources plc
+0R55.L,BioSenic S.A.
+BIH.L,Boston International Holdings Plc
+GSC.L,GS Chain plc
+BRS.L,Beacon Rise Holdings PLC
+HAMA.L,Hamak Gold Limited
+0HL9.L,Affimed N.V.
+WFR.L,Wolfram Resources Plc
+0QSS.L,PHAXIAM Therapeutics S.A.
+EVST.L,Everest Global Plc
+0NMT.L,Sporttotal AG
+KEN.L,Kendrick Resources PLC
+FPP.L,Fragrant Prosperity Holdings Limited
+AC8.L,Acceler8 Ventures Plc
+SRES.L,Sunrise Resources plc
+MCI.L,Medcaw Investments Plc
+0QXH.L,Epigenomics AG
+PRIS.L,Pristine Capital Plc
+CRTM.L,Critical Metals Plc
+GVMH.L,Grand Vision Media Holdings Plc
+SIV.L,Sivota PLC
+0LC7.L,"Syros Pharmaceuticals, Inc."
+GEMR.L,Gem Resources Plc
+DVT.L,daVictus plc
+ASHI.L,Ashington Innovation PLC
+MII.L,Milton Capital Plc
+ARA.L,Aura Renewable Acquisitions plc
+ASBE.L,Associated British Engineering Plc
+ORNT.L,Orient Telecoms Plc
+ICON.L,Iconic Labs Plc
+ROC.L,Rockpool Acquisitions Plc
+COR.L,Corpus Resources Plc
+0HN5.L,"Big Lots, Inc."
+3MRN.L,Leverage Shares 3X Long Moderna
+0H8E.L,"Accelerate Diagnostics, Inc."
+0A4F.L,"Ideanomics, Inc."
+0A4I.L,"Arcimoto, Inc."
+0JUZ.L,"Edgio, Inc."
+0A1V.L,Tethys Oil AB (publ)
+0LNJ.L,Vastned Retail N.V.

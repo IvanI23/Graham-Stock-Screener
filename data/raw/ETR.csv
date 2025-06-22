@@ -1,0 +1,820 @@
+Ticker,Company
+MSF.DE,Microsoft Corporation
+NVD.DE,NVIDIA Corporation
+APC.DE,Apple Inc.
+AMZ.DE,"Amazon.com, Inc."
+ABEA.DE,Alphabet Inc.
+ABEC.DE,Alphabet Inc.
+FB2A.DE,"Meta Platforms, Inc."
+1YD.DE,Broadcom Inc.
+BRYN.DE,Berkshire Hathaway Inc.
+TL0.DE,"Tesla, Inc."
+CMC.DE,JPMorgan Chase & Co.
+WMT.DE,Walmart Inc.
+LLY.DE,Eli Lilly and Company
+3V64.DE,Visa Inc.
+ORC.DE,Oracle Corporation
+NFC.DE,"Netflix, Inc."
+M4I.DE,Mastercard Incorporated
+XONA.DE,Exxon Mobil Corporation
+CTO.DE,Costco Wholesale Corporation
+PRG.DE,The Procter & Gamble Company
+JNJ.DE,Johnson & Johnson
+HDI.DE,"The Home Depot, Inc."
+NCB.DE,Bank of America Corporation
+NOV.DE,Novo Nordisk A/S
+SAP.DE,SAP SE
+PTX.DE,Palantir Technologies Inc.
+4AB.DE,AbbVie Inc.
+CCC3.DE,The Coca-Cola Company
+ASME.DE,ASML Holding N.V.
+4I1.DE,Philip Morris International Inc.
+UNH.DE,UnitedHealth Group Incorporated
+AHLA.DE,Alibaba Group Holding Limited
+HMI.DE,Hermès International Société en commandite par actions
+CIS.DE,"Cisco Systems, Inc."
+MOH.DE,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne"
+NESR.DE,Nestlé S.A.
+CHV.DE,Chevron Corporation
+IBM.DE,International Business Machines Corporation
+RHO.DE,Roche Holding AG
+GCP.DE,General Electric Company
+TM5.DE,"T-Mobile US, Inc."
+FOO.DE,"Salesforce, Inc."
+NWT.DE,Wells Fargo & Company
+ABL.DE,Abbott Laboratories
+NOT.DE,Novartis AG
+LOR.DE,L'Oréal S.A.
+ZEG.DE,AstraZeneca PLC
+LIN.DE,Linde plc
+R6C0.DE,Shell plc
+DWD.DE,Morgan Stanley
+WDP.DE,The Walt Disney Company
+ITU.DE,Intuit Inc.
+AEC1.DE,American Express Company
+MDO.DE,McDonald's Corporation
+AMD.DE,"Advanced Micro Devices, Inc."
+4S0.DE,"ServiceNow, Inc."
+HBC1.DE,HSBC Holdings plc
+6MK.DE,"Merck & Co., Inc."
+SOBA.DE,AT&T Inc.
+5UR.DE,RTX Corporation
+SIE.DE,Siemens Aktiengesellschaft
+GOS.DE,"The Goldman Sachs Group, Inc."
+IUI1.DE,"Intuitive Surgical, Inc."
+TII.DE,Texas Instruments Incorporated
+PEP.DE,"PepsiCo, Inc."
+3CP.DE,Xiaomi Corporation
+BAC.DE,Verizon Communications Inc.
+UT8.DE,"Uber Technologies, Inc."
+PCE1.DE,Booking Holdings Inc.
+DTE.DE,Deutsche Telekom AG
+QCI.DE,QUALCOMM Incorporated
+CAT1.DE,Caterpillar Inc.
+ADB.DE,Adobe Inc.
+IXD1.DE,"Industria de Diseño Textil, S.A."
+AMG.DE,Amgen Inc.
+MHL.DE,S&P Global Inc.
+UNVB.DE,Unilever PLC
+UU2.DE,"BlackRock, Inc."
+BSX.DE,Boston Scientific Corporation
+ALV.DE,Allianz SE
+BCO.DE,The Boeing Company
+TN8.DE,Thermo Fisher Scientific Inc.
+AIR.DE,Airbus SE
+TRVC.DE,Citigroup Inc.
+639.DE,Spotify Technology S.A.
+ALD.DE,Honeywell International Inc.
+DCO.DE,Deere & Company
+TOTB.DE,TotalEnergies SE
+1NBA.DE,Anheuser-Busch InBev SA/NV
+DAP.DE,Danaher Corporation
+AP2.DE,"Applied Materials, Inc."
+SND.DE,Schneider Electric S.E.
+TJX.DE,"The TJX Companies, Inc."
+MTE.DE,"Micron Technology, Inc."
+PFE.DE,Pfizer Inc.
+GIS.DE,"Gilead Sciences, Inc."
+5AP.DE,"Palo Alto Networks, Inc."
+UNP.DE,Union Pacific Corporation
+CTP2.DE,Comcast Corporation
+ESL.DE,EssilorLuxottica Société anonyme
+SEJ1.DE,Safran SA
+MLB1.DE,"MercadoLibre, Inc."
+1TY.DE,Prosus N.V.
+AIL.DE,L'Air Liquide S.A.
+YCP.DE,ConocoPhillips
+LAR0.DE,Lam Research Corporation
+IBE1.DE,"Iberdrola, S.A."
+SNW.DE,Sanofi
+BSD2.DE,"Banco Santander, S.A."
+KLA.DE,KLA Corporation
+VX1.DE,Vertex Pharmaceuticals Incorporated
+2M6.DE,Medtronic plc
+LOM.DE,Lockheed Martin Corporation
+BMT.DE,British American Tobacco p.l.c.
+ABJ.DE,ABB Ltd
+SRB.DE,Starbucks Corporation
+AXA.DE,AXA SA
+PHM7.DE,"Altria Group, Inc."
+CRIN.DE,UniCredit S.p.A.
+IES.DE,Intesa Sanpaolo S.p.A.
+RDEB.DE,RELX PLC
+ZFIN.DE,Zurich Insurance Group AG
+BNP.DE,BNP Paribas SA
+BRM.DE,Bristol-Myers Squibb Company
+RIO1.DE,Rio Tinto Group
+UWS.DE,"Waste Management, Inc."
+INL.DE,Intel Corporation
+0UB.DE,UBS Group AG
+ENL.DE,Enel SpA
+RHM.DE,Rheinmetall AG
+DIO.DE,Christian Dior SE
+NKE.DE,"NIKE, Inc."
+KTF.DE,"Mondelez International, Inc."
+BOY.DE,"Banco Bilbao Vizcaya Argentaria, S.A."
+CVS.DE,CVS Health Corporation
+PAR.DE,Parker-Hannifin Corporation
+MUV2.DE,Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München
+BPE5.DE,BP p.l.c.
+6Z1.DE,"Airbnb, Inc."
+2FE.DE,Ferrari N.V.
+12DA.DE,Dell Technologies Inc.
+ENR.DE,Siemens Energy AG
+GS71.DE,GSK plc
+BSP.DE,BAE Systems plc
+MMM.DE,3M Company
+SQU.DE,Vinci SA
+CFX.DE,Capital One Financial Corporation
+1QZ.DE,"Coinbase Global, Inc."
+GDX.DE,General Dynamics Corporation
+SYP.DE,"Synopsys, Inc."
+CPA.DE,Colgate-Palmolive Company
+NTH.DE,Northrop Grumman Corporation
+ILT.DE,Illinois Tool Works Inc.
+5Q5.DE,Snowflake Inc.
+NNGF.DE,National Grid plc
+ZOE.DE,Zoetis Inc.
+2PP.DE,"PayPal Holdings, Inc."
+NMM.DE,Newmont Corporation
+HLBN.DE,Holcim AG
+AP3.DE,"Air Products and Chemicals, Inc."
+INN1.DE,ING Groep N.V.
+BCY.DE,Barclays PLC
+LLD.DE,Lloyds Banking Group plc
+FPMB.DE,Freeport-McMoRan Inc.
+SHL.DE,Siemens Healthineers AG
+RYS1.DE,NatWest Group plc
+GUI.DE,Diageo plc
+XGR2.DE,Compass Group PLC
+DB1.DE,Deutsche Börse AG
+1N8.DE,Adyen N.V.
+AFL.DE,Aflac Incorporated
+MRK.DE,Merck KGaA
+GZF.DE,Engie SA
+XCA.DE,Crédit Agricole S.A.
+GOB.DE,Compagnie de Saint-Gobain S.A.
+MBG.DE,Mercedes-Benz Group AG
+FDX.DE,FedEx Corporation
+DBK.DE,Deutsche Bank Aktiengesellschaft
+BSN.DE,Danone S.A.
+DHL.DE,Deutsche Post AG
+ASG.DE,Assicurazioni Generali S.p.A.
+ONK.DE,"ONEOK, Inc."
+BMW.DE,Bayerische Motoren Werke Aktiengesellschaft
+IFX.DE,Infineon Technologies AG
+VOW.DE,Volkswagen AG
+NAQ.DE,"Nasdaq, Inc."
+04Q.DE,Nordea Bank Abp
+AINN.DE,"American International Group, Inc."
+LO3.DE,Lonza Group AG
+BOX.DE,"Becton, Dickinson and Company"
+ENI.DE,Eni S.p.A.
+0ZC.DE,"Zscaler, Inc."
+3RB.DE,Reckitt Benckiser Group plc
+H6D0.DE,Haleon plc
+8GM.DE,General Motors Company
+EOAN.DE,E.ON SE
+GIN.DE,Givaudan SA
+3QD.DE,"Datadog, Inc."
+OPC.DE,Occidental Petroleum Corporation
+EWL.DE,Edwards Lifesciences Corporation
+GLW.DE,Corning Incorporated
+DYH.DE,Target Corporation
+SGE.DE,Société Générale Société anonyme
+BAS.DE,BASF SE
+KMY.DE,Kimberly-Clark Corporation
+2U3.DE,Alcon Inc.
+3HM.DE,MSCI Inc.
+SIKA.DE,Sika AG
+FMC1.DE,Ford Motor Company
+SII.DE,Wheaton Precious Metals Corp.
+ADS.DE,adidas AG
+FTE.DE,Orange S.A.
+SQ3.DE,"Block, Inc."
+68V.DE,Baker Hughes Company
+TGR.DE,"Yum! Brands, Inc."
+ERT.DE,Electronic Arts Inc.
+WOSB.DE,Wolters Kluwer N.V.
+CBK.DE,Commerzbank AG
+SHR.DE,Schindler Holding AG
+HNR1.DE,Hannover Rück SE
+AHOG.DE,Koninklijke Ahold Delhaize N.V.
+ABR0.DE,Barrick Mining Corporation
+SYY.DE,Sysco Corporation
+EBA.DE,eBay Inc.
+HEI.DE,Heidelberg Materials AG
+TCO0.DE,Tesco PLC
+SWJ.DE,Swisscom AG
+AI3A.DE,"Amadeus IT Group, S.A."
+TT8.DE,"The Trade Desk, Inc."
+DTG.DE,Daimler Truck Holding AG
+ITB.DE,Imperial Brands PLC
+TLX.DE,Talanx AG
+DC4.DE,"DexCom, Inc."
+P2H.DE,Partners Group Holding AG
+EBO.DE,Erste Group Bank AG
+POH1.DE,Carnival Corporation & plc
+BAYN.DE,Bayer Aktiengesellschaft
+XY6.DE,Xylem Inc.
+KHNZ.DE,The Kraft Heinz Company
+690D.DE,"Haier Smart Home Co., Ltd."
+HEN.DE,Henkel AG & Co. KGaA
+TNE5.DE,"Telefónica, S.A."
+RWE.DE,RWE Aktiengesellschaft
+NGL0.DE,Anglo American plc
+GRM.DE,"General Mills, Inc."
+AVS.DE,ASM International NV
+CGM.DE,Capgemini SE
+ZYA.DE,State Street Corporation
+VNA.DE,Vonovia SE
+RY4C.DE,Ryanair Holdings plc
+ERCG.DE,Telefonaktiebolaget LM Ericsson (publ)
+SLW.DE,Swiss Life Holding AG
+DP4A.DE,A.P. Møller - Mærsk A/S
+DP4B.DE,A.P. Møller - Mærsk A/S
+6D81.DE,"DuPont de Nemours, Inc."
+ERCB.DE,Telefonaktiebolaget LM Ericsson (publ)
+HLAG.DE,Hapag-Lloyd Aktiengesellschaft
+AWC.DE,"American Water Works Company, Inc."
+NOA3.DE,Nokia Oyj
+33L.DE,lululemon athletica inc.
+KEL.DE,Kellanova
+8TI.DE,Stellantis N.V.
+FRE.DE,Fresenius SE & Co. KGaA
+OEWA.DE,VERBUND AG
+BEI.DE,Beiersdorf Aktiengesellschaft
+MS51.DE,"Super Micro Computer, Inc."
+J5A.DE,"Warner Bros. Discovery, Inc."
+ADM.DE,Archer-Daniels-Midland Company
+22UA.DE,BioNTech SE
+KNIA.DE,Kuehne + Nagel International AG
+SGM.DE,STMicroelectronics N.V.
+GBRA.DE,Geberit AG
+PER.DE,Pernod Ricard SA
+VODI.DE,Vodafone Group Public Limited Company
+VVD.DE,Veolia Environnement SA
+PPX.DE,Kering SA
+INP.DE,International Paper Company
+UAL1.DE,"United Airlines Holdings, Inc."
+5ZM.DE,Zoom Communications Inc.
+2HP.DE,Hewlett Packard Enterprise Company
+ARRD.DE,ArcelorMittal S.A.
+MTX.DE,MTU Aero Engines AG
+7HP.DE,HP Inc.
+56S1.DE,Sartorius Stedim Biotech S.A.
+DY6.DE,Devon Energy Corporation
+XS4.DE,ON Semiconductor Corporation
+PHI1.DE,Koninklijke Philips N.V.
+HMSB.DE,H & M Hennes & Mauritz AB (publ)
+EBK.DE,EnBW Energie Baden-Württemberg AG
+CBHD.DE,Coloplast A/S
+TR1.DE,"T. Rowe Price Group, Inc."
+2OY.DE,Dow Inc.
+EYX.DE,Exor N.V.
+SUV.DE,SGS SA
+INR.DE,International Consolidated Airlines Group S.A.
+HAL.DE,Halliburton Company
+KIN2.DE,Kinross Gold Corporation
+IDP.DE,Biogen Inc.
+UN0.DE,Uniper SE
+PHBN.DE,Sonova Holding AG
+D2G.DE,Ørsted A/S
+OMV.DE,OMV Aktiengesellschaft
+REP.DE,"Repsol, S.A."
+CON.DE,Continental Aktiengesellschaft
+2NN.DE,NN Group N.V.
+VWSB.DE,Vestas Wind Systems A/S
+8TRA.DE,Traton SE
+ANI.DE,Amundi S.A.
+FME.DE,Fresenius Medical Care AG
+SY1.DE,Symrise AG
+SRT.DE,Sartorius Aktiengesellschaft
+SRT3.DE,Sartorius Aktiengesellschaft
+NEM.DE,Nemetschek SE
+F3A.DE,"First Solar, Inc."
+KBX.DE,Knorr-Bremse AG
+ILU.DE,"Illumina, Inc."
+1SI.DE,Snap Inc.
+1BR1.DE,Unibail-Rodamco-Westfield SE
+HOT.DE,HOCHTIEF Aktiengesellschaft
+JDE.DE,JDE Peet's N.V.
+1CO.DE,Covestro AG
+1COV.DE,Covestro AG
+BIRG.DE,Bank of Ireland Group plc
+JGE.DE,Julius Bär Gruppe AG
+ESF0.DE,Eurofins Scientific SE
+LTEC.DE,Logitech International S.A.
+USX1.DE,United States Steel Corporation
+19V.DE,VAT Group AG
+RNL.DE,Renault SA
+HAG.DE,Hensoldt AG
+8RJ.DE,BELIMO Holding AG
+HVXA.DE,Helvetia Holding AG
+SU1N.DE,Swiss Prime Site AG
+ACR.DE,Accor SA
+BSI.DE,BE Semiconductor Industries N.V.
+EVD.DE,CTS Eventim AG & Co. KGaA
+G1A.DE,GEA Group Aktiengesellschaft
+DWNI.DE,Deutsche Wohnen SE
+DWS.DE,DWS Group GmbH & Co. KGaA
+HLE.DE,HELLA GmbH & Co. KGaA
+GS2C.DE,GameStop Corp.
+BLON.DE,Baloise Holding AG
+VIA.DE,Viatris Inc.
+CAR.DE,Carrefour SA
+QIA.DE,Qiagen N.V.
+XD4.DE,Strabag SE
+W8A.DE,"Walgreens Boots Alliance, Inc."
+0QF.DE,"Moderna, Inc."
+EVK.DE,Evonik Industries AG
+AOMD.DE,Alstom SA
+G24.DE,Scout24 SE
+BNR.DE,Brenntag SE
+0B2.DE,BAWAG Group AG
+PES.DE,Pearson plc
+LHA.DE,Deutsche Lufthansa AG
+RAW.DE,Raiffeisen Bank International AG
+RAA.DE,RATIONAL Aktiengesellschaft
+UHR.DE,The Swatch Group AG
+O5G.DE,CPI Property Group
+ZAL.DE,Zalando SE
+1SQ.DE,Swissquote Group Holding Ltd
+R3NK.DE,RENK Group AG
+185.DE,Alcoa Corporation
+TA1.DE,Telekom Austria AG
+RDO.DE,Sirius XM Holdings Inc.
+1YQA.DE,SIG Group AG
+DHER.DE,Delivery Hero SE
+AMC.DE,Albemarle Corporation
+A1G.DE,American Airlines Group Inc.
+AZ2.DE,Andritz AG
+IOS.DE,IONOS Group SE
+KFI1.DE,Kingfisher plc
+LEG.DE,LEG Immobilien SE
+FRA.DE,Fraport AG
+LY0.DE,"Lyft, Inc."
+LU2.DE,Lumentum Holdings Inc.
+KGX.DE,KION GROUP AG
+TKA.DE,thyssenkrupp AG
+RZ8G.DE,SNGN Romgaz SA
+FPE.DE,Fuchs SE
+2FB.DE,"Fortune Brands Innovations, Inc."
+AFX.DE,Carl Zeiss Meditec AG
+CDM1.DE,"Coeur Mining, Inc."
+AG1.DE,AUTO1 Group SE
+SDRC.DE,SCOR SE
+RRTL.DE,RTL Group S.A.
+AHYQ.DE,Amundi Index Solutions - Amundi Msci World III
+RCF.DE,Teleperformance SE
+BC8.DE,Bechtle AG
+FIE.DE,Fielmann Group AG
+NXS.DE,Nexans S.A.
+TE8N.DE,Temenos AG
+KRN.DE,Krones AG
+UTDI.DE,United Internet AG
+E0P.DE,"Enphase Energy, Inc."
+1SXP.DE,SCHOTT Pharma AG & Co. KGaA
+ADI1.DE,Adecco Group AG
+VFP.DE,V.F. Corporation
+NDX1.DE,Nordex SE
+SPG.DE,Springer Nature AG & Co. KGaA
+T5W.DE,Just Eat Takeaway.com N.V.
+SHA0.DE,Schaeffler AG
+VAS.DE,Voestalpine AG
+JUN3.DE,Jungheinrich Aktiengesellschaft
+GIL.DE,DMG MORI AKTIENGESELLSCHAFT
+FMV.DE,First Majestic Silver Corp.
+NDA.DE,Aurubis AG
+UN9.DE,UNIQA Insurance Group AG
+WIB.DE,Wienerberger AG
+AT1.DE,Aroundtown SA
+1U1.DE,1&1 AG
+HCL.DE,Hecla Mining Company
+FNTN.DE,freenet AG
+PUM.DE,PUMA SE
+SIX2.DE,Sixt SE
+SIX3.DE,Sixt SE
+TUI1.DE,TUI AG
+NVJP.DE,Umicore SA
+WCH.DE,Wacker Chemie AG
+SDF.DE,K+S Aktiengesellschaft
+CLRN.DE,Clariant AG
+VVU.DE,Vivendi SE
+724.DE,"C3.ai, Inc."
+GBF.DE,Bilfinger SE
+G14.DE,Signify N.V.
+SAX.DE,Ströer SE & Co. KGaA
+TEG.DE,TAG Immobilien AG
+BOSS.DE,Hugo Boss AG
+U6Z.DE,Uranium Energy Corp.
+HAR.DE,"Harley-Davidson, Inc."
+FTK.DE,flatexDEGIRO AG
+SZU.DE,Südzucker AG
+TEN.DE,Tecan Group AG
+AOF.DE,ATOSS Software SE
+1SO.DE,Samsonite Group S.A.
+LXS.DE,LANXESS Aktiengesellschaft
+AFR0.DE,Air France-KLM SA
+O3P.DE,Österreichische Post AG
+MVV1.DE,MVV Energie AG
+GYC.DE,Grand City Properties S.A.
+KWS.DE,KWS SAAT SE & Co. KGaA
+DMP.DE,Dermapharm Holding SE
+RDC.DE,Redcare Pharmacy NV
+NB2.DE,Northern Data AG
+DEQ.DE,Deutsche EuroShop AG
+PSM.DE,ProSiebenSat.1 Media SE
+FAU.DE,Forvia SE
+SOH1.DE,Soitec SA
+GXI.DE,Gerresheimer AG
+PFV.DE,Pfeiffer Vacuum Technology AG
+WAC.DE,Wacker Neuson SE
+RHF.DE,RHI Magnesita N.V.
+AIXA.DE,AIXTRON SE
+DUE.DE,Dürr Aktiengesellschaft
+TMV.DE,TeamViewer SE
+CEC.DE,Ceconomy AG
+MYM.DE,Mayr-Melnhof Karton AG
+SANT.DE,Kontron AG
+KSB.DE,KSB SE & Co. KGaA
+KSB3.DE,KSB SE & Co. KGaA
+HHFA.DE,Hamburger Hafen und Logistik Aktiengesellschaft
+VOS.DE,Vossloh AG
+HBH.DE,HORNBACH Holding AG & Co. KGaA
+BIO.DE,Biotest Aktiengesellschaft
+BIO3.DE,Biotest Aktiengesellschaft
+OHB.DE,OHB SE
+E3B.DE,Eutelsat Communications S.A.
+ACT.DE,AlzChem Group AG
+ER7.DE,ERAMET S.A.
+EUZ.DE,Eckert & Ziegler SE
+YSN.DE,secunet Security Networks Aktiengesellschaft
+ELG.DE,Elmos Semiconductor SE
+HFG.DE,HelloFresh SE
+WO6.DE,Worldline SA
+WUW.DE,Wüstenrot & Württembergische AG
+NXU.DE,Nexus AG
+HYQ.DE,Hypoport SE
+COP.DE,CompuGroup Medical SE & Co. KGaA
+YOU.DE,About You Holding SE
+UEN.DE,Ubisoft Entertainment SA
+EVT.DE,Evotec SE
+DRW8.DE,Drägerwerk AG & Co. KGaA
+VH2.DE,Friedrich Vorwerk Group SE
+NCH2.DE,thyssenkrupp nucera AG & Co. KGaA
+DOU.DE,Douglas AG
+PNE3.DE,PNE AG
+PLUN.DE,Plug Power Inc.
+WAF.DE,Siltronic AG
+ADV.DE,Adtran Networks SE
+5CV.DE,CureVac N.V.
+BFSA.DE,Befesa S.A.
+JEN.DE,Jenoptik AG
+YTSN.DE,Kuros Biosciences AG
+SZG.DE,Salzgitter AG
+ABS2.DE,PORR AG
+CHG.DE,CHAPTERS Group AG
+ECEA.DE,Societatea Energetica Electrica S.A.
+TIMA.DE,ZEAL Network SE
+MLP.DE,MLP SE
+DEZ.DE,DEUTZ Aktiengesellschaft
+SLYG.DE,Shelly Group SE
+MUM.DE,Mensch und Maschine Software SE
+COK.DE,Cancom SE
+LEN.DE,Lenzing Aktiengesellschaft
+RHK.DE,RHÖN-KLINIKUM Aktiengesellschaft
+AGB2.DE,AGRANA Beteiligungs-Aktiengesellschaft
+SMHN.DE,SUSS MicroTec SE
+STO3.DE,Sto SE & Co. KGaA
+JST.DE,JOST Werke SE
+MBB.DE,MBB SE
+PAT.DE,PATRIZIA SE
+SFQ.DE,SAF-Holland SE
+MUX.DE,Mutares SE & Co. KGaA
+NA9.DE,Nagarro SE
+TGHN.DE,Logwin AG
+VBK.DE,Verbio SE
+PBB.DE,Deutsche Pfandbriefbank AG
+CWC.DE,CEWE Stiftung & Co. KGaA
+TNIE.DE,tonies SE
+FQT.DE,Frequentis AG
+STM.DE,Stabilus SE
+AUS.DE,AT & S Austria Technologie & Systemtechnik Aktiengesellschaft
+S92.DE,SMA Solar Technology AG
+MUB.DE,Mühlbauer Holding AG
+GLJ.DE,Grenke AG
+EKT.DE,Energiekontor AG
+SIS.DE,First Sensor AG
+KCO.DE,Klöckner & Co SE
+NBG6.DE,NÜRNBERGER Beteiligungs-AG
+GFT.DE,GFT Technologies SE
+IJ8.DE,ITM Power Plc
+ALI.DE,Almonty Industries Inc.
+ADN1.DE,adesso SE
+QH9.DE,"ADTRAN Holdings, Inc."
+PCZ.DE,ProCredit Holding AG
+2GB.DE,2G Energy AG
+WSU.DE,WashTec AG
+HABA.DE,Hamborner REIT AG
+SHF.DE,SNP Schneider-Neureither & Partner SE
+M8G.DE,Verve Group SE
+INH.DE,INDUS Holding AG
+D6H.DE,DATAGROUP SE
+SLL.DE,Schoeller-Bleckmann Oilfield Equipment Aktiengesellschaft
+FYB.DE,Formycon AG
+VIB3.DE,Villeroy & Boch AG
+PSAN.DE,PSI Software SE
+HDD.DE,Heidelberger Druckmaschinen Aktiengesellschaft
+ROI.DE,Rosenbauer International AG
+DBAN.DE,Deutsche Beteiligungs AG
+AAD.DE,Amadeus FiRe AG
+BVB.DE,Borussia Dortmund GmbH & Co. Kommanditgesellschaft auf Aktien
+TTK.DE,TAKKT AG
+SGL.DE,SGL Carbon SE
+NOEJ.DE,NORMA Group SE
+9VC.DE,Atai Life Sciences N.V.
+AYJ.DE,Valneva SE
+INS.DE,Instone Real Estate Group SE
+ETG.DE,EnviTec Biogas AG
+F3C.DE,SFC Energy AG
+TPE.DE,PVA TePla AG
+ZYE1.DE,Addiko Bank AG
+IXX.DE,init innovation in traffic systems SE
+AB9.DE,ABO Energy GmbH & Co. KGaA
+BIJ.DE,Bijou Brigitte modische Accessoires Aktiengesellschaft
+2HQ.DE,"Tilray Brands, Inc."
+IVU.DE,IVU Traffic Technologies AG
+CA1.DE,Circus SE
+PSG.DE,PharmaSGP Holding SE
+BYW.DE,BayWa Aktiengesellschaft
+BYW6.DE,BayWa Aktiengesellschaft
+JDC.DE,JDC Group AG
+O4B.DE,OVB Holding AG
+ILM1.DE,Medios AG
+UZU.DE,Uzin Utz SE
+BSL.DE,Basler Aktiengesellschaft
+ST5.DE,STEICO SE
+DHR.DE,"B&G Foods, Inc."
+1FC.DE,FACC AG
+SBS.DE,Stratec SE
+JY0.DE,ParTec AG
+SEW.DE,Semperit Aktiengesellschaft Holding
+ZIL2.DE,ElringKlinger AG
+M12.DE,M1 Kliniken AG
+A1OS.DE,All for One Group SE
+SUR.DE,Surteco Group SE
+4X0.DE,Steyr Motors AG
+HTG.DE,HomeToGo SE
+VIH1.DE,VIB Vermögen AG
+HXCK.DE,Ernst Russ AG
+MXHN.DE,MAX Automation SE
+703.DE,Alfen N.V.
+0Q3.DE,"Beyond Meat, Inc."
+AEIN.DE,Allgeier SE
+BWB.DE,Baader Bank Aktiengesellschaft
+HAW.DE,Hawesko Holding SE
+XTP.DE,Sino AG
+SB1.DE,Smartbroker Holding AG
+SKB.DE,Koenig & Bauer AG
+BDT.DE,Bertrandt Aktiengesellschaft
+LUS1.DE,Lang & Schwarz Aktiengesellschaft
+VVV3.DE,Ökoworld AG
+T9Z.DE,Zumtobel Group AG
+LPK.DE,LPKF Laser & Electronics SE
+TPG.DE,The Platform Group AG
+ADE.DE,Bitcoin Group SE
+Z29.DE,029 Group SE
+UBK.DE,UmweltBank AG
+DR0.DE,Deutsche Rohstoff AG
+2HRA.DE,H&R GmbH & Co. KGaA
+MPCK.DE,MPC Münchmeyer Petersen Capital AG
+NVM.DE,Novem Group S.A.
+GSC1.DE,Gesco SE
+88Q.DE,4basebio PLC
+HPHA.DE,Heidelberg Pharma AG
+SYV.DE,3D Systems Corporation
+AAG.DE,Aumann AG
+FAA.DE,Fabasoft AG
+QB7.DE,Quirin Privatbank AG
+SJJ.DE,Serviceware SE
+DIC.DE,Branicks Group AG
+MULT.DE,Multitude AG
+HRPK.DE,7C Solarparken AG
+MED.DE,MEDICLIN Aktiengesellschaft
+NP5.DE,Newron Pharmaceuticals S.p.A.
+WEW.DE,Westwing Group SE
+TTR1.DE,technotrans SE
+HMU.DE,HMS Bergbau AG
+LEI.DE,Leifheit Aktiengesellschaft
+BKHT.DE,Brockhaus Technologies AG
+D77.DE,DN Deutsche Nachhaltigkeit AG
+RCVR.DE,SMG European Recovery SPAC SE
+KTA.DE,Knaus Tabbert AG
+GTY.DE,Gateway Real Estate AG
+ED4.DE,EDAG Engineering Group AG
+NTG.DE,Nabaltec AG
+DEF.DE,DEFAMA Deutsche Fachmarkt AG
+BST.DE,Bastei Lübbe AG
+RSL2.DE,R. STAHL AG
+MBK.DE,Merkur PrivatBank KgaA
+FC9.DE,FCR Immobilien AG
+A7A.DE,Heliad AG
+SWA.DE,Schloss Wachenheim AG
+LIK.DE,LIMES Schlosskliniken AG
+DKG.DE,Deutsche Konsum REIT-AG
+QBY.DE,q.beyond AG
+ABO.DE,clearvise AG
+CEK.DE,CeoTronics AG
+MZX.DE,Masterflex SE
+BIKE.DE,Bike24 Holding AG
+SRAG.DE,Samara Asset Group plc
+NFN.DE,NFON AG
+NF4.DE,Netfonds AG
+GMM.DE,Grammer AG
+7V0.DE,Darwin AG
+HP3A.DE,Ringmetall SE
+PYR.DE,Pyrum Innovations AG
+M7U.DE,Nynomic AG
+APPH.DE,Apontis Pharma AG
+PWO.DE,PWO AG
+B7J1.DE,SRV Yhtiöt Oyj
+CY1K.DE,SBF AG
+EDL.DE,Edel SE & Co. KGaA
+KWG.DE,KHD Humboldt Wedag International AG
+93M1.DE,MPH Health Care AG
+B7E.DE,Blue Cap AG
+DAM.DE,DATA MODUL Aktiengesellschaft Produktion und Vertrieb von elektronischen Systemen
+EXL.DE,Exasol AG
+H2O.DE,Enapter AG
+IUR.DE,KAP AG
+V3V.DE,FamiCord AG
+LQAG.DE,Laiqon AG
+4DS.DE,Daldrup & Söhne Aktiengesellschaft
+WOLF.DE,Meta Wolf AG
+HIGH.DE,Cantourage Group SE
+CEA.DE,FRIWO AG
+P4N.DE,Polytec Holding AG
+DMRE.DE,DEMIRE Deutsche Mittelstand Real Estate AG
+CSH.DE,CENIT Aktiengesellschaft
+OBS.DE,ORBIS AG
+H2A.DE,H2APEX Group SCA
+GFG.DE,Global Fashion Group S.A.
+APM.DE,ad pepper media International N.V.
+2INV.DE,2invest AG
+LKB.DE,CGRE AG
+LRND.DE,learnd SE
+ART.DE,Artnet AG
+PZS.DE,Scherzer & Co. AG
+AJ91.DE,DocCheck AG
+PTP.DE,Pentixapharm Holding AG
+MWB0.DE,mwb fairtrade Wertpapierhandelsbank AG
+SVE.DE,Shareholder Value Beteiligungen AG
+HNL.DE,Dr. Hönle AG
+ALG.DE,ALBIS Leasing AG
+3ITN.DE,audius SE
+ECK.DE,LUDWIG BECK am Rathauseck - Textilhaus Feldmeier AG
+CYR.DE,cyan AG
+FEV.DE,FORTEC Elektronik AG
+HLG.DE,Highlight Communications AG
+VBX.DE,Voltabox AG
+MRX.DE,Mister Spex SE
+YOC.DE,YOC AG
+UUU.DE,3U Holding AG
+V6C.DE,Viscom SE
+E4C.DE,ecotel communication ag
+M3V.DE,MeVis Medical Solutions AG
+FPH.DE,Francotyp-Postalia Holding AG
+MSAG.DE,MS Industrie AG
+BXT.DE,BioNxt Solutions Inc.
+BNN.DE,BRAIN Biotech AG
+CCAP.DE,CORESTATE Capital Holding S.A.
+N4G.DE,The NAGA Group AG
+BEZ.DE,Berentzen-Gruppe Aktiengesellschaft
+MLL.DE,Müller - Die lila Logistik SE
+DIE.DE,Dierig Holding AG
+ADJ.DE,Adler Group S.A.
+WAH.DE,Wolftank Group AG
+TR9.DE,OTRS AG
+DEX.DE,Delticom AG
+S188.DE,SMT Scharf AG
+PSH0.DE,Sernova Biotherapeutics Inc
+KSC.DE,KPS AG
+CLIQ.DE,Cliq Digital AG
+SYZ.DE,SYZYGY AG
+SYT.DE,Softing AG
+DAR.DE,DATRON AG
+AMM.DE,The Grounds Real Estate Development AG
+MAK.DE,Maternus-Kliniken Aktiengesellschaft
+81D.DE,beaconsmind AG
+IBU.DE,IBU-tec advanced materials AG
+IPOK.DE,Heidelberger Beteiligungsholding AG
+PAL.DE,PAL Next AG
+VG80.DE,Varengold Bank AG
+H9W.DE,HWA AG
+WFA.DE,Weng Fine Art AG
+R1B.DE,Rubean AG
+DLX.DE,Delignit AG
+LSX.DE,LS telcom AG
+ISHA.DE,INTERSHOP Communications Aktiengesellschaft
+SBX.DE,SynBiotic SE
+123F.DE,123fahrschule SE
+C3RY.DE,Cherry SE
+VEZ.DE,Veganz Group AG
+NN6.DE,NanoRepro AG
+ACWN.DE,A.S. Création Tapeten AG
+DFTK.DE,DF Deutsche Forfait AG
+AAQ1.DE,aap Implantate AG
+ACX.DE,bet-at-home.com AG
+SF3.DE,STS Group AG
+T3T1.DE,Seven Principles AG
+FRS.DE,FORIS AG
+SMWN.DE,SM Wirtschaftsberatungs AG
+EMH.DE,pferdewetten.de AG
+M3BK.DE,Pyramid AG
+GME.DE,Geratherm Medical AG
+SNG.DE,Singulus Technologies AG
+RCMN.DE,RCM Beteiligungs AG
+ECF.DE,Mountain Alliance AG
+TGT.DE,11880 Solutions AG
+KA8.DE,Klassik Radio AG
+CRZK.DE,CR Energy AG
+HGEA.DE,hGears AG
+LMIA.DE,LION E-Mobility AG
+AMA.DE,Altech Advanced Materials AG
+P4O.DE,Planoptik AG
+CFC.DE,aconnic AG
+B8FK.DE,Biofrontera AG
+SLSA.DE,Solutiance AG
+ELB.DE,elumeo SE
+SPM.DE,Splendid Medien AG
+VRL.DE,Net-Digital AG
+SCE.DE,Schweizer Electronic AG
+GTK.DE,Tonkens Agrar AG
+SZ50.DE,Lübke Kelber AG
+DGR.DE,Deutsche Grundstücksauktionen AG
+DTD2.DE,B+S Banksysteme Aktiengesellschaft
+3SQ1.DE,AHT Syngas Technology N.V.
+14D.DE,tokentus investment AG
+NUVA.DE,Noratis AG
+C1V.DE,mVISE AG
+MBQ.DE,Mobotix AG
+ERO.DE,tmc Content Group AG
+ITN.DE,Intertainment AG
+ULC.DE,UNITEDLABELS Aktiengesellschaft
+PGN.DE,paragon GmbH & Co. KGaA
+EAD.DE,Erlebnis Akademie AG
+BIG1.DE,Bio-Gate AG
+IS7.DE,InTiCa Systems SE
+ABX.DE,Advanced Blockchain AG
+H68.DE,Rigsave S.P.A.
+ERWE.DE,ERWE Immobilien AG
+A4Y.DE,ACCENTRO Real Estate AG
+MA10.DE,Binect AG
+NC5A.DE,NorCom Information Technology GmbH & Co. KGaA
+AMI.DE,medondo holding AG
+S6P.DE,Spielvereinigung Unterhaching Fußball GmbH & Co. KGaA
+75S.DE,sdm SE
+A6T.DE,artec technologies AG
+MS1.DE,Marley Spoon Group SE
+AV2.DE,Avemio AG
+RTC.DE,RealTech AG
+TTO.DE,TTL Beteiligungs- und Grundbesitz-AG
+EFF.DE,Deutsche Effecten- und Wechsel-Beteiligungsgesellschaft AG
+GAI.DE,SGT German Private Equity GmbH & Co. KGaA
+TLIK.DE,Arzneiwerk AG VIDA
+EIF.DE,MedNation AG
+PDA0.DE,PRO DV AG
+3330.DE,Rostra AG
+EXJ.DE,Readcrest Capital AG
+INW.DE,GBS Software AG
+COR.DE,Coreo AG
+E8X.DE,elexxion AG
+G6P0.DE,Going Public Media Aktiengesellschaft
+WDL1.DE,Nakiki SE
+PO1.DE,Performance One AG
+UMDK.DE,UMT United Mobility Technology AG
+WIG1.DE,Sporttotal AG
+ENGL.DE,EV Digital Invest AG
+GAG0.DE,GORE German Office Real Estate AG
+CORE.DE,Conwert Immobilien Invest SE
