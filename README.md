@@ -154,7 +154,7 @@ Benjamin Graham's original criteria for defensive investors:
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+- No License use freely :))
 
 ## 🙏 Acknowledgments
 
